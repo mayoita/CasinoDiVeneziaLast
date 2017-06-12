@@ -1,0 +1,407 @@
+
+h2 {
+font-family: 'Cinzel';
+}
+footer.nd-region.footer-top,footer.nd-region.footer-bottom,
+footer.nd-region.footer-top .container,
+#block-progressive-cms-footer-copyright .row,
+#progressive_cms-footer_copyright,
+#top-box,
+.black_box{
+background-color: #252525!important;
+}
+#progressive_cms-footer_copyright .row
+{
+ margin-top: 10px;
+}
+/* Colors */
+.gold_title {
+    color: #c79c60;
+}
+.fixed-header .header-wrapper, .sidebar .tags a,
+#sidebar .view .item-list ul li:hover {
+  background-color: #d10000!important;  /* oro #c79c60 */
+}
+
+.more-link a, .item-list li a:hover,
+.field-content.cinzel a, a, a:visited{
+    color: #d10000; /* oro #c79c60 */
+}
+.phone-header a svg path {
+    fill:#d10000;
+}
+.laylah5 a, .laylap a {
+    color:white!important;
+}
+ .black_box .our_history, .black_box .ultimate, .black_box .ultimate_text, .search-header a svg path{
+  color: white;
+}
+ .nd-region > .container {
+     background-color: #F2F2F2;
+ }
+ .node-type-event #sidebar {
+     margin-top: 74px;
+ }
+.breadcrumb>li+li:before {
+    content: ">";
+}
+.node-type-event h2 {
+    text-align: center;
+}
+/* Sidebar*/
+#sidebar .view .item-list ul li {
+    border-bottom: 1px solid #e9e9e9;
+    overflow: hidden;
+    line-height: 47px;
+    -webkit-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -o-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+    margin: 0px;
+    padding: 0px;
+}
+
+#sidebar .view .item-list ul li:last-child {
+    border-bottom: 0px;
+}
+
+#sidebar .view .item-list ul li a {
+    display: block;
+    font-size: 14px;
+    line-height: 48px;
+    padding: 0 25px;
+    position: relative;
+    float: left;
+    width: 90%;
+    -webkit-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -o-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+    color: #888;
+    outline: none;
+}
+#sidebar .view .item-list ul li a:before {
+    content: "\f111";
+    font-family: FontAwesome;
+    position: absolute;
+    font-size: 5px;
+    padding-bottom: 31px;
+    left: 14px;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+#sidebar .view .item-list ul li a:hover {
+    color: #fff;
+    padding-left: 35px;
+}
+#sidebar .view .item-list ul li a:hover:before {
+    color: #fff;
+    left: 24px;
+}
+#sidebar  .block {
+    margin-top: 70px;
+    border-bottom: 4px solid #d10000;
+
+}
+ /* jQuery Socialstream */
+ .dcsns {
+     border-radius: 0px;
+ }
+.stream li .section-intro {
+    height: 32px;
+}
+.view-header h2 {
+    text-align: center;
+}
+.campaign-social-header {
+    font-size: 20px;
+    text-align: center;
+}
+#block-views-slotfocus-block-2 .title-box.title-h1,
+#block-views-archive-block .title-box.title-h3,
+#block-views-taxonomy-block-1 .title-box.title-h3,
+#block-views-taxonomy-block .title-box.title-h3
+{
+    text-align: center;
+    display: block;
+    font-family: 'Cinzel';
+    margin-bottom: 0px;
+}
+#block-views-slotfocus-block-2 .title-box.title-h1 .title,
+#block-views-archive-block .title-box.title-h3 .title,
+#block-views-taxonomy-block-1 .title-box.title-h3 .title,
+#block-views-taxonomy-block .title-box.title-h3 .title {
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+    color: #333;
+    border: none;
+
+}
+#block-views-slotfocus-block-2 .title-box:before,
+#block-views-archive-block .title-box:before,
+#block-views-taxonomy-block-1 .title-box:before,
+#block-views-taxonomy-block .title-box:before
+{
+width: 0px;
+}
+
+
+.view-header p {
+margin-bottom: 20px;
+}
+ /* Nav */
+.clubcard {
+    border: white;
+    border-style: solid;
+    border-width: 1px;
+    padding-left: 15px;
+    border-bottom: 0px;
+    border-top: 0px;
+    border-right: 0px;
+}
+li.clubcard-right a{
+    border: white!important;
+    border-width: 1px!important;
+    border-style: solid!important;
+    border-left: 0px!important;
+    border-bottom: 0px!important;
+    border-top: 0px!important;
+    border-radius: 0px!important;
+}
+.clubcard img {
+    padding-top: 5px;
+}
+
+.search-header a svg path {
+  fill: white!important;
+}
+.phone-header, .search-header {
+    margin: 0px;
+}
+.fa {
+    padding-right: 5px;
+}
+.phone-header {
+    padding-top: 2px;
+}
+.search-header {
+    padding-top: 8px;
+}
+
+.btn-group.btn-select .dropdown-toggle {
+	height: 27px;
+} 
+.top-navbar .nav > li a .fa {
+    font-size: 140%;
+}
+#top-box a {
+    padding-top: 0px;
+    padding-bottom: 0px;
+ }
+
+.field-name-body .col-md-4 {
+    padding-top: 15px;
+}
+.field-name-field-image-event-field b {
+  display: none;
+}
+
+.top-navbar .nav > li a {
+    font-size: 14px;
+ }
+.header .primary {
+    float: none;
+}
+}
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+
+}
+ /* GAMES*/
+ .title-box.title-h1 {
+    display: none;
+ }
+ .SlotFocus {
+    text-align: center;
+ }
+ .views-field-field-titolofocus {
+    margin-top: 10px;
+    margin-bottom: 10px;
+ }
+ .views-field-field-videoslot .player {
+    height: 207px;
+ }
+ .more-link {
+    font-weight: bold;
+    text-transform: uppercase;
+ }
+
+ .ico {
+    display: inline-block;
+    vertical-align: middle;
+    text-indent: -119988px;
+    overflow: hidden;
+    text-align: left;
+    
+    height: 9px;
+    width: 5px;
+    background-image: url(red-arrow-right.png);
+    background-repeat: no-repeat;
+    margin: -2px 0 0 5px;
+}
+ .views-field-counter{
+    width: 10px;
+    background: url(pager-grey.png) top left no-repeat;
+    float: left;
+    padding: 10px 8px;
+}
+
+.views-slideshow-pager-fields .active .views-field-counter{
+    background: url(pager-red.png) top left no-repeat;
+    width: 10px;
+    float: left;
+    padding: 10px 8px;
+}
+.views-content-counter {
+    display: none!important;
+}
+ /* HOME */ 
+ .container_discover {
+    padding: 20px;
+    border: 1px;
+    border-color: #d8d8d8;
+    border-style: double;
+}
+
+
+/* SlideShow */
+.views-slideshow-pager-fields {
+    /*margin: 0 auto;*/
+    /*width: 15%;*/
+    display: inline-block;
+}
+
+.views-slideshow-pager-fields > div{
+    padding-left: 0px!important;
+}
+
+.views-slideshow-controls-bottom {
+        border-color: #a9a8a8;
+    border-style: solid;
+    border-width:  1px 0 0 0;
+    padding-top: 10px;
+    margin: 0px 10px;
+
+}
+.views-slideshow-cycle-main-frame-row .views-slideshow-cycle-main-frame-row-item {
+    padding: 10px;
+
+}
+.views-slideshow-cycle-main-frame-row-item .views-field-body {
+    line-height: 1em;
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+.views-slideshow-cycle-main-frame-row-item .views-field-title {
+    line-height: 1.3em;
+    margin-bottom: 10px;
+
+}
+
+
+.class_overlay_video {
+    color: white!important;
+    position: relative;
+    top: -120px;
+    width: 100%;
+    height: 0px;
+}
+.row.home {
+    margin-top: 20px;
+    text-align: center;
+}
+.row.home h1{
+    font-size: 60px;
+    color: white;
+}
+.gold_title {
+    font-size: 50px;
+    line-height: 0.8;
+    padding-bottom: 15px;
+}
+.our_history {
+    font-size: 50px;
+    line-height: 0.8;
+    margin-bottom: 10px;
+}
+.page-node-220 h2 {
+	display: none;
+}
+.nd-region {
+    padding: 0px;
+    
+}
+.fixed-header .page-box {
+    padding-top: 104px!important;
+}
+.page-events, .page-promotions, .page-tournaments{
+    background-color: #E3E3E3;
+}
+.view-eventlist .views-row, .view-promotionslist .views-row {
+    background-color: white;
+    margin-bottom: 20px;
+}
+.view-eventlist .views-row .views-fieldset, .view-promotionslist .views-row .views-fieldset{
+    margin: 10px 0px;
+} 
+.view-eventlist .views-row .col-md-3.views-fieldset, .view-promotionslist .views-row .col-md-3.views-fieldset{
+    text-align: center;
+} 
+.view-eventlist .views-row .col-md-3.views-fieldset p, .view-promotionslist .views-row .col-md-3.views-fieldset p{
+    margin-top: 10px;
+} 
+.view-eventlist .field-slideshow-wrapper, .view-promotionslist .help-promotions{
+    float: left;
+    margin-right: 10px;
+}
+.field-content.cinzel{
+    font-size: 1.5em;
+}
+
+.rtecenter a {
+    color: #ffffff;
+}
+.testoperadv{
+    position: absolute;
+    top: 74%;
+    left: 70%;
+    color: white;
+    font-size: 20px;
+} 
+#tb-megamenu-column-5 {
+    height: 300px;
+}
+
+
+
+.testoperadv:after {
+  left: 105%;
+  top: 46%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+  border-color: rgba(136, 183, 213, 0);
+  border-left-color: white;
+  border-width: 10px;
+  margin-top: -10px;
+}
+
+
+

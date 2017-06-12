@@ -1,0 +1,165 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: massimomoro
+ * Date: 05/06/17
+ * Time: 12:51
+ */
+const DEFAULT_URL = 'https://cmv-gioco.firebaseio.com/';
+const DEFAULT_TOKEN = '8Kozhc9q8Hiyazc3mkPMtmDRi4sE4zeDc7kdnSNx';
+const DEFAULT_PATH = '/firebase';
+
+function firebase_node_prepare($node) {
+
+
+    if ($node->type == 'event') {
+
+        drupal_add_js('https://www.gstatic.com/firebasejs/3.6.8/firebase.js', 'external');
+      /*  $startDate = date('d/m/Y', strtotime($node->field_eventdate['und'][0]['value']));
+        $endDate = date('d/m/Y', strtotime($node->field_eventdate['und'][0]['value2']));
+        $description =drupal_html_to_text($node->body['und'][0]['safe_value']);
+
+
+        // Wrap the mail body for sending.
+        $description2 = $str=str_replace("\n","",$description);
+        $myscript = '
+  // Initialize Firebase
+  var config = {
+        apiKey: "AIzaSyAYaY7wpPSsfbSgH9__0jWLTwN7YTWgjuI",
+    authDomain: "cmv-gioco.firebaseapp.com",
+    databaseURL: "https://cmv-gioco.firebaseio.com",
+    storageBucket: "cmv-gioco.appspot.com",
+    messagingSenderId: "250228474323"
+  };
+  firebase.initializeApp(config);
+  var firebaseRef = firebase.database().ref();
+
+	firebaseRef.child("Text").set("'. $node->title .'");
+	firebaseRef.child("TextData").set("'. $startDate .'");
+	firebaseRef.child("TextDescription").set("'. $description2 .'");
+	var body = "'. $description2 .'";
+	
+	
+'; //could also refer to a file instead
+        drupal_add_js($myscript, 'inline');*/
+    }
+
+}
+
+function firebase_node_presave($node)
+{
+    if ($node->type == 'event') {
+
+    }
+}
+function firebase_node_validate($node, $form, &$form_state) {
+    if ($node->type == 'event') {
+
+    }
+}
+
+
+function firebase_node_submit($node, $form, &$form_state) {
+    if ($node->type == 'event') {
+        $eventType = "E";
+        $firebase = new \Firebase\FirebaseLib(DEFAULT_URL, DEFAULT_TOKEN);
+        $wrapper = entity_metadata_wrapper('node', $node); //Wrapper aggiunto solo se installato il modulo Entity API
+        $output  = $wrapper->body->value->value(array('sanitize' => TRUE));
+        $description =drupal_html_to_text($node->body['und'][0]['safe_value']);
+
+        $event = array(
+            "EndDate" => date('d/m/Y', strtotime($node->field_eventdate['und'][0]['value2'])),
+            "EventType" => $eventType,
+            "StartDate" => date('d/m/Y', strtotime($node->field_eventdate['und'][0]['value']))
+        );
+        switch ($node->language) {
+            case "en":
+                $descriptionTitle = "Description";
+                $NameTitle = "Name";
+                break;
+            case "it":
+                $descriptionTitle = "DescriptionIT";
+                $NameTitle = "NameIT";
+                break;
+            case "zh":
+                $descriptionTitle = "DescriptionZH";
+                $NameTitle = "NameZH";
+                break;
+
+        }
+        $event[$descriptionTitle] = $description;
+        $event[$NameTitle] = $node->title;
+        //Controllo per il campo ImageName
+        $field = field_get_items('node', $node, 'field_immaginemobile');
+        if ($field) {
+            $file = file_load($node->field_immaginemobile['und'][0]['fid']);
+            $imageName = $file->filename;
+        } else {
+            $collection_entity_id = $node->field_images_events['und'][0]['value'];
+            $full_entity = field_collection_item_load($collection_entity_id);
+            $imageName = $full_entity->field_image_event_field['und'][0]['filename'];
+        }
+
+        if ($imageName == null) {
+            $imageName = "DefaulImageNameMobile.png"; //Se l'evento non ha né immagini né il campo ImmagineMobile allora carica il default
+        }
+        $event["ImageName"] = $imageName;
+
+        //Controllo per il campo booking
+        $fieldBook = field_get_items('node', $node, 'field_eventbrite');
+        if ($fieldBook) {
+            $event["Book"] = "ON";
+            $regex = "/\"(.*)\?r/";
+            $str = $node->field_eventbrite['und'][0]['value'];
+
+            if (preg_match($regex, $str,$matches)) {
+                // Indeed, the expression "[a-zA-Z]+ \d+" matches the date string
+                $event["URLBook"] = $matches[1];
+
+            }
+        } else {
+            $event["Book"] = "OFF";
+        }
+
+        if ($node->field_sede['und'][0]['value'] == 1) {
+            $sede = "CN";
+        }else {
+            $sede = "VE";
+        }
+        $event["office"] = $sede;
+        $images_array = $node->field_images_events;
+
+        if (count($images_array['und'])>0) :
+            for ($x = 0; $x <= count($images_array['und'])-1; $x++) {
+                if ($x <= 2) { //Controllo se il numero delle immagini è superiore a 3
+                    $collection_entity_id = $node->field_images_events['und'][$x]['value'];
+                    $full_entity = field_collection_item_load($collection_entity_id);
+                    $image_name = $full_entity->field_image_event_field['und'][0]['filename'];
+                    $count = $x+1;
+                    $event["ImageEvent$count"] = $image_name;
+                }
+
+            }
+        endif;
+        if ($node->translation_source->nid) {
+            $firebase->update(DEFAULT_PATH . '/' . $node->translation_source->nid, $event);
+        } else {
+            if ($node->tnid != 0) {
+                $firebase->update(DEFAULT_PATH . '/' . $node->tnid, $event);
+            } else{
+                $firebase->set(DEFAULT_PATH . '/' . $node->nid, $event);
+            }
+
+        }
+
+    }
+}
+
+/*function firebase_theme() {
+    return array(
+        'event_node_form' => array(
+            'template' => 'event-node-form',
+            'render element' => 'form',
+        ),
+    );
+}*/

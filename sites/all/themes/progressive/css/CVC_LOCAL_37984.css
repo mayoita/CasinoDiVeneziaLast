@@ -1,0 +1,431 @@
+/* Colors */
+
+.fixed-header .header-wrapper,
+.BlogDate{
+  background-color: #d10000;
+}
+
+.more-link a {
+    color: #d10000;
+}
+.laylah5 a, .laylap a, .BlogDate span {
+    color:white!important;
+}
+ .black_box .our_history, .black_box .ultimate, .black_box .ultimate_text, .search-header a svg path{
+  color: white;
+}
+ .nd-region > .container {
+     background-color: #F2F2F2;
+ }
+ .node-type-event #sidebar {
+     margin-top: 74px;
+ }
+.breadcrumb>li+li:before {
+    content: ">";
+}
+.node-type-event h2 {
+    text-align: center;
+}
+
+/* Webform*/
+.webform-client-form-309 .minute, .webform-client-form-309 .hour{
+    float: left;
+    width: 60px!important;
+}
+.webform-container-inline.webform-datepicker  div.form-item.form-type-select {
+    display: none;
+}
+.webform-component--nome {
+    clear: left;
+}
+ /* jQuery Socialstream */
+ .dcsns {
+     border-radius: 0px;
+ }
+.stream li .section-intro {
+    height: 32px;
+}
+/*Wine */
+.container_wine {
+    height: 200px;
+    background-color: black;
+    opacity: .6;
+}
+
+.container_wine .gold_title {
+    font-size: 70px;
+    margin-top: 50px;
+}
+.gold_title_sub {
+    color: white;
+}
+.price-food {
+    font-size: 20px;
+    color: #333;
+}
+.subtitle-wine {
+    color: #888;
+    font-size: 14px;
+    font-family: "open_sansregular";
+    line-height: 2em;
+}
+.view-white-wine h3, .view-red-wine h3, .view-champagnes-wine h3 {
+    font-size: 20px;
+    text-align: center;
+    line-height: 32px;
+    border-bottom: 2px solid #c79c60;
+    font-family: "open_sansbold";
+    color: #333;
+    letter-spacing: 0.16em;
+}
+/* Menu*/
+.menu-item-v2 {
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+.menu-heading {
+    width: 100%;
+    float: left;
+    display: block;
+}
+.menu-heading .titleApp {
+    font-size: 16px;
+    font-weight: 600;
+    color: #363636;
+    float: left;
+    position: relative;
+    padding-right: 5px;
+    font-family: 'cinzel';
+}
+.menu-heading .titleApp:after {
+    position: absolute;
+    bottom: 8px;
+    border-bottom: 1px dotted #cfa670;
+    width: 1000px;
+    content: "";
+    left: 100%;
+}
+.menu-heading .price {
+    float: right;
+    color: #cfa670;
+    font-weight: 700;
+    font-size: 18px;
+    margin-top: 5px;
+    position: relative;
+    z-index: 99;
+    background: #fff;
+    padding-left: 5px;
+    line-height: 1;
+}
+.menu-des {
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 5px;
+    float: left;
+    width: 100%;
+    text-align: left;
+}
+
+/*Blog*/
+.BlogDate {
+    padding: 5px 15px 5px 15px;
+}
+
+.BlogDate, .BlogTitle, .BlogAuthor, .BlogAuthorLabel {
+    float: left;
+}
+.BlogAuthorLabel {
+margin-right: 3px;
+}
+.BlogComment {
+float: right;
+}
+
+.BlogTitle {
+    margin-left: 20px;
+    font-family: 'Cinzel';
+}
+
+.BlogDateLi {
+margin-bottom: 30px;
+}
+.BlogDateLi .BlogImage, .BlogDateLi {
+    clear: left;
+}
+.BlogM {
+    text-align: center;
+}
+
+.BlogBody {
+    margin-top: 20px;
+    font-family: 'Open Sans';
+    font-weight: 300;
+}
+
+ /* Nav */
+.clubcard {
+    border: white;
+    border-style: solid;
+    border-width: 1px;
+    padding-left: 15px;
+    border-bottom: 0px;
+    border-top: 0px;
+    border-right: 0px;
+}
+li.clubcard-right a{
+    border: white!important;
+    border-width: 1px!important;
+    border-style: solid!important;
+    border-left: 0px!important;
+    border-bottom: 0px!important;
+    border-top: 0px!important;
+    border-radius: 0px!important;
+}
+.clubcard img {
+    padding-top: 5px;
+}
+.phone-header a svg path {
+    fill:#dd0000;
+}
+.search-header a svg path {
+  fill: white!important;
+}
+.phone-header, .search-header {
+    margin: 0px;
+}
+.fa {
+    padding-right: 5px;
+}
+.phone-header {
+    padding-top: 2px;
+}
+.search-header {
+    padding-top: 8px;
+}
+#top-box {
+	background-color: black!important;
+}
+.btn-group.btn-select .dropdown-toggle {
+	height: 27px;
+} 
+.top-navbar .nav > li a .fa {
+    font-size: 140%;
+}
+#top-box a {
+    padding-top: 0px;
+    padding-bottom: 0px;
+ }
+
+.field-name-body .col-md-4 {
+    padding-top: 15px;
+}
+.field-name-field-image-event-field b {
+  display: none;
+}
+
+.top-navbar .nav > li a {
+    font-size: 14px;
+ }
+.header .primary {
+    float: none;
+}
+}
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+
+}
+ /* GAMES*/
+ .title-box.title-h1 {
+    display: none;
+ }
+ .SlotFocus {
+    text-align: center;
+ }
+ .views-field-field-titolofocus {
+    margin-top: 10px;
+    margin-bottom: 10px;
+ }
+ .views-field-field-videoslot .player {
+    height: 207px;
+ }
+ .more-link {
+    font-weight: bold;
+    text-transform: uppercase;
+ }
+
+ .ico {
+    display: inline-block;
+    vertical-align: middle;
+    text-indent: -119988px;
+    overflow: hidden;
+    text-align: left;
+    
+    height: 9px;
+    width: 5px;
+    background-image: url(red-arrow-right.png);
+    background-repeat: no-repeat;
+    margin: -2px 0 0 5px;
+}
+ .views-field-counter{
+    width: 10px;
+    background: url(pager-grey.png) top left no-repeat;
+    float: left;
+    padding: 10px 8px;
+}
+
+.views-slideshow-pager-fields .active .views-field-counter{
+    background: url(pager-red.png) top left no-repeat;
+    width: 10px;
+    float: left;
+    padding: 10px 8px;
+}
+.views-content-counter {
+    display: none!important;
+}
+ /* HOME */ 
+ .container_discover {
+    padding: 20px;
+    border: 1px;
+    border-color: #d8d8d8;
+    border-style: double;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     text-align: center;
+}
+
+ .black_box {
+  background-color: black;
+}
+/* SlideShow */
+.views-slideshow-pager-fields {
+    /*margin: 0 auto;*/
+    /*width: 15%;*/
+    display: inline-block;
+}
+
+.views-slideshow-pager-fields > div{
+    padding-left: 0px!important;
+}
+
+.views-slideshow-controls-bottom {
+        border-color: #d8d8d8;
+    border-style: solid;
+    border-width:  1px 0 0 0;
+    padding-top: 10px;
+    margin: 0px 10px;
+
+}
+.views-slideshow-cycle-main-frame-row .views-slideshow-cycle-main-frame-row-item {
+    padding: 10px;
+
+}
+.views-slideshow-cycle-main-frame-row-item .views-field-body {
+    line-height: 1em;
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+.views-slideshow-cycle-main-frame-row-item .views-field-title {
+    line-height: 1.3em;
+    margin-bottom: 10px;
+
+}
+.view-slotfocus, .dcsns {
+    border-style: solid;
+    border-top-color: #dd0000;
+    border-top-width: 1px;
+
+    border-bottom-width: 5px;
+    border-bottom-color:#dd0000 ;
+    background-color: #E5E5E5;
+}
+
+.class_overlay_video {
+    color: white!important;
+    position: relative;
+    top: -120px;
+    width: 100%;
+    height: 0px;
+}
+
+.row.home h1{
+    font-size: 60px;
+    color: white;
+}
+.gold_title {
+    color: #c79c60;
+    font-size: 50px;
+    line-height: 0.8;
+    padding-bottom: 15px;
+}
+.our_history {
+    font-size: 50px;
+    line-height: 0.8;
+    margin-bottom: 10px;
+}
+.page-node-220 h2 {
+	display: none;
+}
+.nd-region {
+    padding: 0px;
+    
+}
+.fixed-header .page-box {
+    padding-top: 104px!important;
+}
+.page-events, .page-promotions, .page-tournaments{
+    background-color: #E3E3E3;
+}
+.view-eventlist .views-row, .view-promotionslist .views-row {
+    background-color: white;
+    margin-bottom: 20px;
+}
+.view-eventlist .views-row .views-fieldset, .view-promotionslist .views-row .views-fieldset{
+    margin: 10px 0px;
+} 
+.view-eventlist .views-row .col-md-3.views-fieldset, .view-promotionslist .views-row .col-md-3.views-fieldset{
+    text-align: center;
+} 
+.view-eventlist .views-row .col-md-3.views-fieldset p, .view-promotionslist .views-row .col-md-3.views-fieldset p{
+    margin-top: 10px;
+} 
+.view-eventlist .field-slideshow-wrapper, .view-promotionslist .help-promotions{
+    float: left;
+    margin-right: 10px;
+}
+.field-content.cinzel{
+    font-size: 1.5em;
+}
+.field-content.cinzel a, a, a:visited{
+    color:#dd0000;
+}
+.testoperadv{
+    position: absolute;
+    top: 74%;
+    left: 70%;
+    color: white;
+    font-size: 20px;
+} 
+#tb-megamenu-column-5 {
+    height: 300px;
+}
+
+
+
+.testoperadv:after {
+  left: 105%;
+  top: 46%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+  border-color: rgba(136, 183, 213, 0);
+  border-left-color: white;
+  border-width: 10px;
+  margin-top: -10px;
+}
+
+
+

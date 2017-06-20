@@ -5,8 +5,21 @@
  * Date: 05/06/17
  * Time: 12:51
  */
+# Includes the autoloader for libraries installed with composer
+require_once 'sites/all/vendor/autoload.php';
+
+
+# Imports the Google Cloud client library
+use Google\Cloud\Storage\StorageClient;
+use Google\Cloud\ServiceBuilder;
+
+
+
+
 const DEFAULT_URL = 'https://cmv-gioco.firebaseio.com/';
 const DEFAULT_TOKEN = '8Kozhc9q8Hiyazc3mkPMtmDRi4sE4zeDc7kdnSNx';
+/* Solo in produzione
+const DEFAULT_PATH = '/Events'; */
 const DEFAULT_PATH = '/firebase';
 
 function firebase_node_prepare($node) {
@@ -15,33 +28,7 @@ function firebase_node_prepare($node) {
     if ($node->type == 'event') {
 
         drupal_add_js('https://www.gstatic.com/firebasejs/3.6.8/firebase.js', 'external');
-      /*  $startDate = date('d/m/Y', strtotime($node->field_eventdate['und'][0]['value']));
-        $endDate = date('d/m/Y', strtotime($node->field_eventdate['und'][0]['value2']));
-        $description =drupal_html_to_text($node->body['und'][0]['safe_value']);
 
-
-        // Wrap the mail body for sending.
-        $description2 = $str=str_replace("\n","",$description);
-        $myscript = '
-  // Initialize Firebase
-  var config = {
-        apiKey: "AIzaSyAYaY7wpPSsfbSgH9__0jWLTwN7YTWgjuI",
-    authDomain: "cmv-gioco.firebaseapp.com",
-    databaseURL: "https://cmv-gioco.firebaseio.com",
-    storageBucket: "cmv-gioco.appspot.com",
-    messagingSenderId: "250228474323"
-  };
-  firebase.initializeApp(config);
-  var firebaseRef = firebase.database().ref();
-
-	firebaseRef.child("Text").set("'. $node->title .'");
-	firebaseRef.child("TextData").set("'. $startDate .'");
-	firebaseRef.child("TextDescription").set("'. $description2 .'");
-	var body = "'. $description2 .'";
-	
-	
-'; //could also refer to a file instead
-        drupal_add_js($myscript, 'inline');*/
     }
 
 }
@@ -60,7 +47,26 @@ function firebase_node_validate($node, $form, &$form_state) {
 
 
 function firebase_node_submit($node, $form, &$form_state) {
+
     if ($node->type == 'event') {
+
+
+      putenv('GOOGLE_APPLICATION_CREDENTIALS=sites/all/modules/firebase/service-account.json');
+
+
+      # Your Google Cloud Platform project ID
+      $projectId = '250228474323';
+
+      # Instantiates a client
+      $storage = new StorageClient([
+        'projectId' => $projectId
+      ]);
+      $bucket = $storage->bucket('cmv-gioco.appspot.com');
+
+    /*  $client = new Google_Client();
+      $guzzleClient = new \GuzzleHttp\Client(array( 'curl' => array( CURLOPT_SSL_VERIFYPEER => false, ), ));
+      $client->setHttpClient($guzzleClient);
+*/
         $eventType = "E";
         $firebase = new \Firebase\FirebaseLib(DEFAULT_URL, DEFAULT_TOKEN);
         $wrapper = entity_metadata_wrapper('node', $node); //Wrapper aggiunto solo se installato il modulo Entity API
@@ -94,10 +100,24 @@ function firebase_node_submit($node, $form, &$form_state) {
         if ($field) {
             $file = file_load($node->field_immaginemobile['und'][0]['fid']);
             $imageName = $file->filename;
+            /* Disabilitato su localhost
+          $bucket->upload(
+            fopen($file->uri, 'r'),
+            [
+              'name' => 'Events/'.$imageName
+            ]
+          );*/
         } else {
             $collection_entity_id = $node->field_images_events['und'][0]['value'];
             $full_entity = field_collection_item_load($collection_entity_id);
             $imageName = $full_entity->field_image_event_field['und'][0]['filename'];
+            /* Disabilitato su localhost
+          $bucket->upload(
+            fopen($full_entity->field_image_event_field['und'][0]['uri'], 'r'),
+            [
+              'name' => 'Events/'.$imageName
+            ]
+          );*/
         }
 
         if ($imageName == null) {
@@ -137,6 +157,13 @@ function firebase_node_submit($node, $form, &$form_state) {
                     $image_name = $full_entity->field_image_event_field['und'][0]['filename'];
                     $count = $x+1;
                     $event["ImageEvent$count"] = $image_name;
+                    /* Disabilitato su local host
+                  $bucket->upload(
+                    fopen($full_entity->field_image_event_field['und'][0]['uri'], 'r'),
+                    [
+                      'name' => 'Events/'.$image_name
+                    ]
+                  );*/
                 }
 
             }
@@ -155,11 +182,3 @@ function firebase_node_submit($node, $form, &$form_state) {
     }
 }
 
-/*function firebase_theme() {
-    return array(
-        'event_node_form' => array(
-            'template' => 'event-node-form',
-            'render element' => 'form',
-        ),
-    );
-}*/

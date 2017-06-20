@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Register">
+    <serverData>
+      <paths name="Register">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html/sites/all/modules/firebase" local="$PROJECT_DIR$/sites/all/modules/firebase" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

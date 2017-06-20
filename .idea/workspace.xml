@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd435d55-ecd9-4d60-8b34-8e4573b8e466" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/firebase/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/css/menuLaterale.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/js/menuLaterale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/page--front_conMenuLaterale.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/progressive-cms-menu-Laterale.tpl.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/CasinoVenezia.dd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/CasinoVeneziaNew.dd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/modules/aaa/.idea/aaa.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/modules/aaa/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/modules/aaa/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/modules/firebase/firebase.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/bin/jp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/.php_cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/UPGRADE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/doc/adapters.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/doc/configuration.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/doc/events.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/doc/installation.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/doc/psr-7.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/doc/usage.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/phpunit.travis.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/AbstractCurlHttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/AbstractHttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/AbstractStreamHttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Asset/AbstractUninstantiableAsset.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/BuzzHttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/CakeHttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Configuration.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/ConfigurationInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/CurlHttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/AbstractEvent.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/BasicAuth/BasicAuth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/BasicAuth/BasicAuthInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Cache/Adapter/CacheAdapterInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Cache/Adapter/DoctrineCacheAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Cache/Adapter/StashCacheAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Cache/Cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Cache/CacheInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Cookie/Cookie.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Cookie/CookieFactory.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Cookie/CookieFactoryInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Cookie/CookieInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Cookie/Jar/AbstractPersistentCookieJar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Cookie/Jar/CookieJar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Cookie/Jar/CookieJarInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Cookie/Jar/FileCookieJar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Cookie/Jar/PersistentCookieJarInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Cookie/Jar/SessionCookieJar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Events.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Formatter/Formatter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Formatter/FormatterInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/History/Journal.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/History/JournalEntry.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/History/JournalEntryFactory.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/History/JournalEntryFactoryInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/History/JournalEntryInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/History/JournalInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/MultiRequestCreatedEvent.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/MultiRequestErroredEvent.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/MultiRequestSentEvent.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Redirect/Redirect.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Redirect/RedirectInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/RequestCreatedEvent.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/RequestErroredEvent.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/RequestSentEvent.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Retry/Retry.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Retry/RetryInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Retry/Strategy/AbstractDelayedRetryStrategy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Retry/Strategy/AbstractRetryStrategyChain.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Retry/Strategy/CallbackRetryStrategy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Retry/Strategy/ConstantDelayedRetryStrategy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Retry/Strategy/ExponentialDelayedRetryStrategy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Retry/Strategy/LimitedRetryStrategy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Retry/Strategy/LinearDelayedRetryStrategy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Retry/Strategy/RetryStrategyChainInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Retry/Strategy/RetryStrategyInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/StatusCode/StatusCode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/StatusCode/StatusCodeInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Subscriber/AbstractFormatterSubscriber.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Subscriber/AbstractTimerSubscriber.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Subscriber/BasicAuthSubscriber.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Subscriber/CacheSubscriber.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Subscriber/CookieSubscriber.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Subscriber/HistorySubscriber.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Subscriber/LoggerSubscriber.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Subscriber/RedirectSubscriber.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Subscriber/RetrySubscriber.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Subscriber/StatusCodeSubscriber.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Subscriber/StopwatchSubscriber.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Timer/Timer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Event/Timer/TimerInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/EventDispatcherHttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Extractor/ProtocolVersionExtractor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Extractor/StatusCodeExtractor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Extractor/StatusLineExtractor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/FileGetContentsHttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/FopenHttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Guzzle3HttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Guzzle4HttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Guzzle5HttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Guzzle6HttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/HttpAdapterException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/HttpAdapterFactory.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/HttpAdapterInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/HttpAdapterTrait.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/HttpfulHttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Message/InternalRequest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Message/InternalRequestInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Message/MessageFactory.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Message/MessageFactoryInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Message/MessageInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Message/MessageTrait.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Message/Request.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Message/RequestInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Message/Response.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Message/ResponseInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/MockHttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/MultiHttpAdapterException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Normalizer/BodyNormalizer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Normalizer/HeadersNormalizer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Parser/CookieParser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Parser/HeadersParser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/PeclHttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/PsrHttpAdapterDecorator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/PsrHttpAdapterInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/ReactHttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/RequestsHttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/SocketHttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/StopwatchHttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Zend1HttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/egeloen/http-adapter/src/Zend2HttpAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/firebase/php-jwt/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/firebase/php-jwt/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/firebase/php-jwt/phpunit.xml.dist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/firebase/php-jwt/run-tests.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/firebase/php-jwt/tests/JWTTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/firebase/php-jwt/tests/autoload.php.dist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/firebase/php-jwt/tests/bootstrap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/firebase/token-generator/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/firebase/token-generator/.php_cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/firebase/token-generator/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/firebase/token-generator/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/firebase/token-generator/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/firebase/token-generator/phpunit.xml.dist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/firebase/token-generator/src/TokenException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/firebase/token-generator/src/TokenGenerator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/firebase/token-generator/tests/FirebaseTokenTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/firebase/token-generator/tests/TokenGeneratorTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/.php_cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/.travis.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/docs/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/docs/about.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/docs/authentication.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/docs/conf.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/docs/configuration.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/docs/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/docs/overview.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/docs/requirements.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/docs/retrieving-data.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/docs/writing-data.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/phpunit.xml.dist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/src/Auth/TokenGenerator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/src/Auth/TokenGeneratorInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/src/Configuration.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/src/ConfigurationInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/src/Exception/ConfigurationException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/src/Exception/FirebaseException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/src/Exception/PermissionDeniedException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/src/Firebase.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/src/FirebaseInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/src/Query.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/src/Reference.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/src/ReferenceInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/src/ReferenceProviderInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/src/Restrictions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/src/Utils.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/tests/.env.example" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/tests/Auth/TokenGeneratorTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/tests/ConfigurationTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/tests/FirebaseTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/tests/IntegrationTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/tests/QueryIntegrationTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/tests/QueryTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/tests/ReferenceTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/tests/TestHelpers.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/tests/UtilsTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/tests/bootstrap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/tests/fixtures/firebase_rules.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/tests/fixtures/travis.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/kreait/firebase-php/tests/secrets.tar.enc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/README.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/bin/jp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/bin/perf.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/phpunit.xml.dist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/src/AstRuntime.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/src/CompilerRuntime.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/src/DebugRuntime.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/src/Env.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/src/FnDispatcher.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/src/JmesPath.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/src/Lexer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/src/Parser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/src/SyntaxErrorException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/src/TreeCompiler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/src/TreeInterpreter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/src/Utils.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/ComplianceTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/EnvTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/FnDispatcherTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/LexerTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/ParserTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/SyntaxErrorExceptionTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/TreeCompilerTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/TreeInterpreterTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/UtilsTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/compliance/basic.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/compliance/boolean.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/compliance/current.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/compliance/escape.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/compliance/filters.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/compliance/functions.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/compliance/identifiers.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/compliance/indices.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/compliance/literal.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/compliance/multiselect.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/compliance/perf/basic.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/compliance/perf/deep_hierarchy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/compliance/perf/deep_projection.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/compliance/perf/functions.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/compliance/perf/multiwildcard.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/compliance/perf/wildcardindex.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/compliance/pipe.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/compliance/slice.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/compliance/syntax.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/compliance/unicode.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/mtdowling/jmespath.php/tests/compliance/wildcard.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/.coveralls.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/CONDUCT.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/composer.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/mkdocs.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/AbstractSerializer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/CallbackStream.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/Exception/DeprecatedMethodException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/Exception/ExceptionInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/HeaderSecurity.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/MessageTrait.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/PhpInputStream.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/RelativeStream.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/Request.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/Request/ArraySerializer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/Request/Serializer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/RequestTrait.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/Response.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/Response/ArraySerializer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/Response/EmitterInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/Response/EmptyResponse.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/Response/HtmlResponse.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/Response/InjectContentTypeTrait.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/Response/JsonResponse.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/Response/RedirectResponse.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/Response/SapiEmitter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/Response/SapiEmitterTrait.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/Response/SapiStreamEmitter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/Response/Serializer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/Response/TextResponse.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/Server.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/ServerRequest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/ServerRequestFactory.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/Stream.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/UploadedFile.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/vendor/zendframework/zend-diactoros/src/Uri.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/CasinoDiVeneziaNew.iml" afterPath="$PROJECT_DIR$/.idea/CasinoDiVeneziaNew.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/firebase/firebase.module" afterPath="$PROJECT_DIR$/sites/all/modules/firebase/firebase.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/module_filter/CHANGELOG.txt" afterPath="$PROJECT_DIR$/sites/all/modules/module_filter/CHANGELOG.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/module_filter/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/module_filter/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/module_filter/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/module_filter/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/module_filter/css/dynamic_position.css" afterPath="$PROJECT_DIR$/sites/all/modules/module_filter/css/dynamic_position.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/module_filter/css/module_filter.css" afterPath="$PROJECT_DIR$/sites/all/modules/module_filter/css/module_filter.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/module_filter/css/module_filter_tab-rtl.css" afterPath="$PROJECT_DIR$/sites/all/modules/module_filter/css/module_filter_tab-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/module_filter/css/module_filter_tab.css" afterPath="$PROJECT_DIR$/sites/all/modules/module_filter/css/module_filter_tab.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/module_filter/css/modules.css" afterPath="$PROJECT_DIR$/sites/all/modules/module_filter/css/modules.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/module_filter/css/update_status.css" afterPath="$PROJECT_DIR$/sites/all/modules/module_filter/css/update_status.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/module_filter/js/dynamic_position.js" afterPath="$PROJECT_DIR$/sites/all/modules/module_filter/js/dynamic_position.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/module_filter/js/module_filter.js" afterPath="$PROJECT_DIR$/sites/all/modules/module_filter/js/module_filter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/module_filter/js/module_filter_tab.js" afterPath="$PROJECT_DIR$/sites/all/modules/module_filter/js/module_filter_tab.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/module_filter/js/modules.js" afterPath="$PROJECT_DIR$/sites/all/modules/module_filter/js/modules.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/module_filter/js/permissions.js" afterPath="$PROJECT_DIR$/sites/all/modules/module_filter/js/permissions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/module_filter/js/update_status.js" afterPath="$PROJECT_DIR$/sites/all/modules/module_filter/js/update_status.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/module_filter/module_filter.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/module_filter/module_filter.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/module_filter/module_filter.info" afterPath="$PROJECT_DIR$/sites/all/modules/module_filter/module_filter.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/module_filter/module_filter.install" afterPath="$PROJECT_DIR$/sites/all/modules/module_filter/module_filter.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/module_filter/module_filter.module" afterPath="$PROJECT_DIR$/sites/all/modules/module_filter/module_filter.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/module_filter/module_filter.pages.inc" afterPath="$PROJECT_DIR$/sites/all/modules/module_filter/module_filter.pages.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/module_filter/module_filter.theme.inc" afterPath="$PROJECT_DIR$/sites/all/modules/module_filter/module_filter.theme.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/progressive.info" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/progressive.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/vendor/composer/autoload_files.php" afterPath="$PROJECT_DIR$/sites/all/vendor/composer/autoload_files.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/vendor/composer/autoload_namespaces.php" afterPath="$PROJECT_DIR$/sites/all/vendor/composer/autoload_namespaces.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/vendor/composer/autoload_psr4.php" afterPath="$PROJECT_DIR$/sites/all/vendor/composer/autoload_psr4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/sites/all/vendor/composer/autoload_static.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/sites/all/vendor/composer/installed.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/vendor/firebase/php-jwt/README.md" afterPath="$PROJECT_DIR$/sites/all/vendor/firebase/php-jwt/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/vendor/firebase/php-jwt/src/JWT.php" afterPath="$PROJECT_DIR$/sites/all/vendor/firebase/php-jwt/src/JWT.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/privates/composer/composer.json" afterPath="$PROJECT_DIR$/sites/default/files/privates/composer/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/privates/composer/composer.lock" afterPath="$PROJECT_DIR$/sites/default/files/privates/composer/composer.lock" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DrupalConfiguration" enabled="true" version="6">
+    <drupalPath>$PROJECT_DIR$</drupalPath>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="page--front.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/page--front.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1380">
+              <caret line="92" column="4" lean-forward="false" selection-start-line="92" selection-start-column="4" selection-end-line="92" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="progressive-cms-menu-Laterale.tpl.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/progressive-cms-menu-Laterale.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="58" column="2" lean-forward="false" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="progressive.info" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/progressive.info">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="479">
+              <caret line="36" column="1" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menuLaterale.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/js/menuLaterale.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#46#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menuLaterale.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/menuLaterale.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1785">
+              <caret line="119" column="14" lean-forward="false" selection-start-line="119" selection-start-column="14" selection-end-line="119" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Google_Auth_AssertionCredentials</find>
+      <find>container</find>
+      <find>page-content</find>
+      <find>navbar-toggle</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sites/all/modules/firebase/composer.json" />
+        <option value="$PROJECT_DIR$/sites/all/modules/firebase/file.txt" />
+        <option value="$PROJECT_DIR$/sites/all/modules/firebase/firebase.module" />
+        <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/page--front-lat.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/html.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/progressive/css/menuLaterale.css" />
+        <option value="$PROJECT_DIR$/sites/all/themes/progressive/js/menuLaterale.js" />
+        <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/progressive-cms-menu.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/progressive/progressive.info" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="http://casinodivenezialast.dd" id="e6d3db65-6112-4c64-a56d-de29e4ace62c" name="Local" port="8083" />
+      <server host="casinodivenezialast.dd" id="45ddaa3f-6d88-411b-89a5-88f671dff76f" name="casinodivenezialast.dd" port="8083" />
+      <server host="ftp.sitetestingcmv.com" id="15fe99f8-481d-453b-8c28-af3c3f41a205" name="Unnamed" port="21" use_path_mappings="true" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="843" />
+    <option name="y" value="106" />
+    <option name="width" value="1583" />
+    <option name="height" value="1292" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progressive" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progressive" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progressive" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progressive" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sites/all/themes/progressive/templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Web Application.Unnamed">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" server_name="Unnamed">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" server_name="Local">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.Unnamed" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd435d55-ecd9-4d60-8b34-8e4573b8e466" name="Default" comment="" />
+      <created>1497276123807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1497276123807</updated>
+      <workItem from="1497276125033" duration="5280000" />
+      <workItem from="1497347989059" duration="10395000" />
+      <workItem from="1497946573352" duration="16159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31834000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="843" y="106" width="1583" height="1292" extended-state="0" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21545403" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27190137" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964224" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964224" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33560476" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/sites/all/modules/firebase/firebase.module</url>
+          <line>65</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/sites/all/modules/firebase/firebase.module</url>
+          <line>103</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/sites/all/modules/firebase/firebase.module</url>
+          <line>114</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/sites/all/modules/firebase/firebase.module</url>
+          <line>158</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="28" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/firebase/firebase.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+            <element signature="e#246#285#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/firebase/file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/vendor/monolog/monolog/src/Monolog/Handler/AbstractHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2475">
+          <caret line="174" column="0" lean-forward="false" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/vendor/google/cloud/src/Storage/StorageClient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3060">
+          <caret line="224" column="0" lean-forward="false" selection-start-line="224" selection-start-column="0" selection-end-line="224" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/firebase/firebase.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+            <element signature="e#246#285#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/firebase/vendor/monolog/monolog/src/Monolog/Handler/AbstractHandler.php" />
+    <entry file="file://$PROJECT_DIR$/includes/database/database.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8190">
+          <caret line="546" column="0" lean-forward="false" selection-start-line="546" selection-start-column="0" selection-end-line="546" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/database/query.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4965">
+          <caret line="334" column="0" lean-forward="false" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
+          <folding>
+            <marker date="1497272001000" expanded="true" signature="24818:24884" ph="DELETE FROM " />
+            <marker date="1497272001000" expanded="true" signature="27113:27179" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/unicode.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="590" column="0" lean-forward="false" selection-start-line="590" selection-start-column="0" selection-end-line="590" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/firebase/vendor/guzzlehttp/guzzle/src/Handler/CurlMultiHandler.php" />
+    <entry file="file://$PROJECT_DIR$/includes/database/database.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8085">
+          <caret line="546" column="0" lean-forward="false" selection-start-line="546" selection-start-column="0" selection-end-line="546" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/database/query.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4965">
+          <caret line="334" column="0" lean-forward="false" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
+          <folding>
+            <marker date="1497272001000" expanded="true" signature="24818:24884" ph="DELETE FROM " />
+            <marker date="1497272001000" expanded="true" signature="27113:27179" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/vendor/composer/ClassLoader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="325" column="0" lean-forward="false" selection-start-line="325" selection-start-column="0" selection-end-line="325" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/firebase/vendor/monolog/monolog/src/Monolog/Handler/AbstractHandler.php" />
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/firebase/vendor/firebase/php-jwt/composer.json" />
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/firebase/vendor/composer/installed.json" />
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/firebase/vendor/autoload.php" />
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/firebase/firebase.js" />
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/firebase/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/cache.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="340" column="0" lean-forward="false" selection-start-line="340" selection-start-column="0" selection-end-line="340" selection-end-column="0" />
+          <folding>
+            <marker date="1497272001000" expanded="true" signature="13356:13465" ph="SELECT cid, ${db_escape_table($this-&gt;bin)}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/rules/rules.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="1029" column="0" lean-forward="false" selection-start-line="1029" selection-start-column="0" selection-end-line="1029" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/rules/modules/events.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="180" column="0" lean-forward="false" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/errors.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="216" column="0" lean-forward="false" selection-start-line="216" selection-start-column="0" selection-end-line="216" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/lock.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+          <folding>
+            <marker date="1497272001000" expanded="true" signature="5928:5984" ph="SELECT expir... semaphore" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/vendor/google/cloud/src/Core/RestTrait.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/vendor/google/cloud/src/Storage/Connection/Rest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/bootstrap.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="2599" column="0" lean-forward="false" selection-start-line="2599" selection-start-column="0" selection-end-line="2599" selection-end-column="0" />
+          <folding>
+            <marker date="1497272001000" expanded="true" signature="28998:29063" ph="SELECT filen... system" />
+            <marker date="1497272001000" expanded="true" signature="41545:41579" ph="SELECT name,... variable" />
+            <marker date="1497272001000" expanded="true" signature="77219:77261" ph="SELECT 1 FRO... blocked_ips" />
+            <marker date="1497272001000" expanded="true" signature="106658:106713" ph="SELECT * FRO... languages" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/firebase/firebase.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+            <element signature="e#246#285#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/firebase/file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/vendor/google/cloud/src/Storage/StorageClient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="224" column="0" lean-forward="false" selection-start-line="224" selection-start-column="0" selection-end-line="224" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/vendor/monolog/monolog/src/Monolog/Handler/AbstractHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="174" column="0" lean-forward="false" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/region.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/node.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/block.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/js/verticalnav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="1209" column="26" lean-forward="true" selection-start-line="1209" selection-start-column="26" selection-end-line="1209" selection-end-column="26" />
+          <folding>
+            <marker date="1497272002000" expanded="true" signature="150:191" ph="..." />
+            <marker date="1497272002000" expanded="true" signature="44840:45200" ph="..." />
+            <marker date="1497272002000" expanded="true" signature="45290:45650" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/js/turn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="70" column="4" lean-forward="true" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/page--front_conMenuLaterale.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="90" column="6" lean-forward="false" selection-start-line="90" selection-start-column="6" selection-end-line="90" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/html.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/js/menuLaterale.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#46#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/menuLaterale.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="119" column="14" lean-forward="false" selection-start-line="119" selection-start-column="14" selection-end-line="119" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/page--front.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="92" column="4" lean-forward="false" selection-start-line="92" selection-start-column="4" selection-end-line="92" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/progressive.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="36" column="1" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/progressive-cms-menu-Laterale.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="2" lean-forward="false" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

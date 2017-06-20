@@ -1,0 +1,7 @@
+{
+  "require": {
+    "ktamas77/firebase-php": "dev-master",
+    "google/apiclient": "^2.0",
+    "google/cloud": "^0.32.1"
+  }
+}

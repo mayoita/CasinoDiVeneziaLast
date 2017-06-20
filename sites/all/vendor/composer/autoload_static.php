@@ -10,8 +10,8 @@ class ComposerStaticInitComposerManager
         'a0edc8309cc5e1d60e3047b5df6b7052' => __DIR__ . '/..' . '/guzzlehttp/psr7/src/functions_include.php',
         'c964ee0ededf28c96ebd9db5099ef910' => __DIR__ . '/..' . '/guzzlehttp/promises/src/functions_include.php',
         '37a3dc5111fe8f707ab4c132ef1dbc62' => __DIR__ . '/..' . '/guzzlehttp/guzzle/src/functions_include.php',
+        '5255c38a0faeba867671b61dfda6d864' => __DIR__ . '/..' . '/paragonie/random_compat/lib/random.php',
         'decc78cc4436b1292c6c0d151b19445c' => __DIR__ . '/..' . '/phpseclib/phpseclib/phpseclib/bootstrap.php',
-        'b067bc7112e384b61c701452d53a14a8' => __DIR__ . '/..' . '/mtdowling/jmespath.php/src/JmesPath.php',
     );
 
     public static $prefixLengthsPsr4 = array (
@@ -19,9 +19,9 @@ class ComposerStaticInitComposerManager
         array (
             'phpseclib\\' => 10,
         ),
-        'Z' => 
+        'R' => 
         array (
-            'Zend\\Diactoros\\' => 15,
+            'Ramsey\\Uuid\\' => 12,
         ),
         'P' => 
         array (
@@ -33,28 +33,16 @@ class ComposerStaticInitComposerManager
         array (
             'Monolog\\' => 8,
         ),
-        'K' => 
-        array (
-            'Kreait\\Firebase\\' => 16,
-        ),
-        'J' => 
-        array (
-            'JmesPath\\' => 9,
-        ),
-        'I' => 
-        array (
-            'Ivory\\HttpAdapter\\' => 18,
-        ),
         'G' => 
         array (
             'GuzzleHttp\\Psr7\\' => 16,
             'GuzzleHttp\\Promise\\' => 19,
             'GuzzleHttp\\' => 11,
+            'Google\\Cloud\\' => 13,
             'Google\\Auth\\' => 12,
         ),
         'F' => 
         array (
-            'Firebase\\Token\\' => 15,
             'Firebase\\JWT\\' => 13,
         ),
     );
@@ -64,9 +52,9 @@ class ComposerStaticInitComposerManager
         array (
             0 => __DIR__ . '/..' . '/phpseclib/phpseclib/phpseclib',
         ),
-        'Zend\\Diactoros\\' => 
+        'Ramsey\\Uuid\\' => 
         array (
-            0 => __DIR__ . '/..' . '/zendframework/zend-diactoros/src',
+            0 => __DIR__ . '/..' . '/ramsey/uuid/src',
         ),
         'Psr\\Log\\' => 
         array (
@@ -84,18 +72,6 @@ class ComposerStaticInitComposerManager
         array (
             0 => __DIR__ . '/..' . '/monolog/monolog/src/Monolog',
         ),
-        'Kreait\\Firebase\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/kreait/firebase-php/src',
-        ),
-        'JmesPath\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/mtdowling/jmespath.php/src',
-        ),
-        'Ivory\\HttpAdapter\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/egeloen/http-adapter/src',
-        ),
         'GuzzleHttp\\Psr7\\' => 
         array (
             0 => __DIR__ . '/..' . '/guzzlehttp/psr7/src',
@@ -108,13 +84,13 @@ class ComposerStaticInitComposerManager
         array (
             0 => __DIR__ . '/..' . '/guzzlehttp/guzzle/src',
         ),
+        'Google\\Cloud\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/google/cloud/src',
+        ),
         'Google\\Auth\\' => 
         array (
             0 => __DIR__ . '/..' . '/google/auth/src',
-        ),
-        'Firebase\\Token\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/firebase/token-generator/src',
         ),
         'Firebase\\JWT\\' => 
         array (
@@ -123,6 +99,13 @@ class ComposerStaticInitComposerManager
     );
 
     public static $prefixesPsr0 = array (
+        'R' => 
+        array (
+            'Rize\\UriTemplate' => 
+            array (
+                0 => __DIR__ . '/..' . '/rize/uri-template/src',
+            ),
+        ),
         'G' => 
         array (
             'Google_Service_' => 

@@ -9,12 +9,10 @@
         <CLASSES>
           <root url="phar://$MODULE_DIR$/sites/all/modules/composer_manager/composer.phar/" />
           <root url="phar://$MODULE_DIR$/sites/default/files/privates/composer/composer.phar/" />
-          <root url="phar://$MODULE_DIR$/sites/CasinoVeneziaNew.dd/files/privates/composer/composer.phar/" />
         </CLASSES>
         <SOURCES>
           <root url="phar://$MODULE_DIR$/sites/all/modules/composer_manager/composer.phar/" />
           <root url="phar://$MODULE_DIR$/sites/default/files/privates/composer/composer.phar/" />
-          <root url="phar://$MODULE_DIR$/sites/CasinoVeneziaNew.dd/files/privates/composer/composer.phar/" />
         </SOURCES>
       </library>
     </orderEntry>

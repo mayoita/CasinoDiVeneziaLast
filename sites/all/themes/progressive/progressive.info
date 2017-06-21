@@ -34,7 +34,7 @@ stylesheets[all][] = css/CVC.css
 stylesheets[all][] = css/set1.css
 stylesheets[all][] = css/set2.css
 stylesheets[all][] = css/styleverticalnav.css
-;stylesheets[all][] = css/menuLaterale.css
+stylesheets[all][] = css/menuLaterale.css
 
 
 scripts[] = js/turn.js
@@ -75,7 +75,7 @@ scripts[] = js/verticalnav.js
 
 scripts[] = js/main.js
 scripts[] = js/drupal.js
-;scripts[] = js/menuLaterale.js
+scripts[] = js/menuLaterale.js
 
 
 

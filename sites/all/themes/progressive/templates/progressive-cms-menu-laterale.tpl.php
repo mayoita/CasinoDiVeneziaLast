@@ -56,7 +56,7 @@ $one_page = isset($layout['settings']['one_page']) && $layout['settings']['one_p
   </div>
 <?php endif; ?>
 
-<div class="navbar navbar-inverse navbar-fixed-top" role="navigation" id="slide-nav">
+<div class="navbar navbar-inverse navbar-fixed-top header" role="navigation" id="slide-nav">
     <div class="container">
         <div class="navbar-header">
             <a class="navbar-toggle">

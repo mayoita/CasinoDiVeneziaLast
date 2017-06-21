@@ -6,7 +6,10 @@ jQuery(document).ready(function ($) {
 
 
     //stick in the fixed 100% height behind the navbar but don't wrap it
-    $('#slide-nav.navbar .container').append($('<div id="navbar-height-col"></div>'));
+   // $('#slide-nav.navbar .container').append($('<div id="navbar-height-col"></div>'));
+   // $('#slide-nav.navbar-inverse').after($('<div class="inverse" id="navbar-height-col"></div>'));
+
+    $('#slide-nav').after($('<div id="navbar-height-col"></div>'));
 
     // Enter your ids or classes
     var toggler = '.navbar-toggle';
@@ -23,20 +26,40 @@ jQuery(document).ready(function ($) {
         var selected = $(this).hasClass('slide-active');
 
         $('#slidemenu').stop().animate({
-            left: selected ? menuneg : '0px'
-        });
+            right: selected ? menuneg : '0px'
+        },{
+            duration: 500,
+            specialEasing: {
+                width: "linear",
+                height: "easeOutBounce"
+            }});
 
         $('#navbar-height-col').stop().animate({
-            left: selected ? slideneg : '0px'
-        });
+            right: selected ? slideneg : '0px'
+        },{
+            duration: 500,
+            specialEasing: {
+                width: "linear",
+                height: "easeOutBounce"
+            }});
 
         $(pagewrapper).stop().animate({
-            left: selected ? '0px' : slidewidth
-        });
+            right: selected ? '0px' : slidewidth
+        },{
+            duration: 500,
+            specialEasing: {
+                width: "linear",
+                height: "easeOutBounce"
+            }});
 
         $(navigationwrapper).stop().animate({
-            left: selected ? '0px' : slidewidth
-        });
+            right: selected ? '0px' : slidewidth
+        },{
+            duration: 500,
+            specialEasing: {
+                width: "linear",
+                height: "easeOutBounce"
+            }});
 
 
         $(this).toggleClass('slide-active', !selected);

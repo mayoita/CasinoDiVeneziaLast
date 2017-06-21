@@ -58,7 +58,7 @@ $one_page = isset($layout['settings']['one_page']) && $layout['settings']['one_p
 
 
 
-<header id="slide-nav" class="header<?php print theme_get_setting('header_top_menu') && !$one_page ? '' : ' header-two'; ?>">
+<header class="header<?php print theme_get_setting('header_top_menu') && !$one_page ? '' : ' header-two'; ?>">
   <div class = "header-wrapper">
     <div class="container">
 
@@ -83,7 +83,7 @@ $one_page = isset($layout['settings']['one_page']) && $layout['settings']['one_p
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
-                            <div id="slidemenu">
+
                             <nav class="collapse collapsing navbar-collapse">
                                 <ul class="nav navbar-nav">
                                     <?php
@@ -154,7 +154,6 @@ $one_page = isset($layout['settings']['one_page']) && $layout['settings']['one_p
                                     <?php endif; ?>
                                 </ul>
                             </nav>
-                            </div>
                         </div>
                     </div><!-- .primary -->
                 </div>

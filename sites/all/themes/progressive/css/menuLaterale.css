@@ -9,8 +9,8 @@ body.slide-active {
 /*wrap the entire page content but not nav inside this div if not a fixed top, don't add any top padding */
 .nd-region {
     position: relative;
-    padding-top: 70px;
-    left: 0;
+    /*padding-top: 70px;*/
+    right: 0;
 }
 .nd-region.slide-active {
     padding-top: 0
@@ -20,7 +20,7 @@ body.slide-active {
     cursor: pointer;
     position: relative;
     line-height: 0;
-    float: left;
+    float: right;
     margin: 0;
     width: 30px;
     height: 40px;
@@ -47,6 +47,17 @@ body.slide-active {
 }
 /* screw writing importants and shit, just stick it in max width since these classes are not shared between sizes */
 @media (max-width:767px) {
+    .header .primary .navbar .navbar-collapse {
+
+        margin-top: 2px;
+        /* right: auto;
+        top:0px;
+        padding: 0px;
+        width: 150%;*/
+    }
+    .header .dropdown.active > ul.sub, .header .dropdown.active:hover > ul.sub {
+        width: auto!important;
+    }
     #slide-nav .container {
         margin: 0;
         padding: 0!important;
@@ -56,18 +67,18 @@ body.slide-active {
         padding: 0 15px;
     }
     #slide-nav .navbar.slide-active {
-        position: absolute;
+        /*position: absolute;*/
         width: 80%;
         top: -1px;
         z-index: 1000;
     }
     #slide-nav #slidemenu {
         background: #f7f7f7;
-        left: -100%;
+        right: -147%!important;
         width: 80%;
         min-width: 0;
         position: absolute;
-        padding-left: 0;
+        padding-right: 0;
         z-index: 2;
         top: -8px;
         margin: 0;
@@ -94,7 +105,7 @@ body.slide-active {
         top: 0;
         height: 100%;
         width: 80%;
-        left: -80%;
+        right: -80%;
         background: #eee;
     }
     #slide-nav.navbar-inverse #navbar-height-col {
@@ -118,12 +129,12 @@ body.slide-active {
 }
 @media (min-width:768px) {
     .nd-region {
-        left: 0!important
+        right: 0!important
     }
     .navbar.navbar-fixed-top.slide-active {
         position: fixed
     }
     .navbar-header {
-        left: 0!important
+        right: 0!important
     }
 }

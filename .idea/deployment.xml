@@ -5,7 +5,7 @@
       <paths name="Register">
         <serverdata>
           <mappings>
-            <mapping deploy="/public_html/sites/all/modules/firebase" local="$PROJECT_DIR$/sites/all/modules/firebase" web="/" />
+            <mapping deploy="/public_html/sites/all/" local="$PROJECT_DIR$/sites/all/" web="/" />
           </mappings>
         </serverdata>
       </paths>

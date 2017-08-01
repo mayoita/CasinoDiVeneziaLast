@@ -132,6 +132,17 @@ footer.nd-region.footer-top .container,
 .black_box{
 background-color: #252525!important;
 }
+/* Blocco Home */
+.titolo_riquadro {
+    border: #fff;
+    border-style: solid;
+    color: #fff;
+    padding-top: 5px;
+    display: inline-block;
+    padding-bottom: 5px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
 /*Blocco orari*/
 #block-views-orari-block, #block-views-orari-block-1, #block-views-slothome-block {
     font-family: 'cinzel';

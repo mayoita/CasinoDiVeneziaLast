@@ -7,7 +7,7 @@
     },
     "config": {
         "autoloader-suffix": "ComposerManager",
-        "vendor-dir": "../../../all/vendor"
+        "vendor-dir": "../../../../../CasinodiVeneziaLast/sites/all/vendor"
     },
     "prefer-stable": true
 }

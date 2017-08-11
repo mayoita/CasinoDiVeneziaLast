@@ -25,7 +25,7 @@ const DEFAULT_PATH = '/firebase';
 function firebase_node_prepare($node) {
 
 
-    if ($node->type == 'event') {
+    if ($node->type == 'events') {
 
         drupal_add_js('https://www.gstatic.com/firebasejs/3.6.8/firebase.js', 'external');
 
@@ -35,12 +35,12 @@ function firebase_node_prepare($node) {
 
 function firebase_node_presave($node)
 {
-    if ($node->type == 'event') {
+    if ($node->type == 'events') {
 
     }
 }
 function firebase_node_validate($node, $form, &$form_state) {
-    if ($node->type == 'event') {
+    if ($node->type == 'events') {
 
     }
 }
@@ -48,7 +48,7 @@ function firebase_node_validate($node, $form, &$form_state) {
 
 function firebase_node_submit($node, $form, &$form_state) {
 
-    if ($node->type == 'event') {
+    if ($node->type == 'events') {
 
 
       putenv('GOOGLE_APPLICATION_CREDENTIALS=sites/all/modules/firebase/service-account.json');

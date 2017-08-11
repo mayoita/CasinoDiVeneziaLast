@@ -23,7 +23,6 @@ CKEDITOR.editorConfig = function(config) {
   // side
   // (as does Drupal), so just leave this line as is.
   config.protectedSource.push(/<\?[\s\S]*?\?>/g); // PHP Code
-  config.protectedSource.push(/<i[^>]*><\/i>/g);
 
   // [#1762328] Uncomment the line below to protect <code> tags in CKEditor (hide them in wysiwyg mode).
   // config.protectedSource.push(/<code>[\s\S]*?<\/code>/gi);
@@ -54,7 +53,6 @@ CKEDITOR.editorConfig = function(config) {
     */
   config.bodyClass = '';
   config.bodyId = '';
-
   /**
     * Sample bodyClass and BodyId for the "marinelli" theme.
     */
@@ -67,8 +65,6 @@ CKEDITOR.editorConfig = function(config) {
   if (this.element.$.rows > 0) {
     config.height = this.element.$.rows * 20 + 'px';
   }
-
-
 }
 
 /*
@@ -110,3 +106,9 @@ Drupal.settings.cke_toolbar_DrupalFull = [
   ['Maximize', 'ShowBlocks'],
   ['DrupalBreak', 'DrupalPageBreak']
 ];
+CKEDITOR.config.niftyPlugin = {
+    widgetKey: '370e89bd-fe86-4758-96a5-2f6f696f7742'
+};
+CKEDITOR.config.niftyTimer = {
+    widgetKey: '370e89bd-fe86-4758-96a5-2f6f696f7742'
+};

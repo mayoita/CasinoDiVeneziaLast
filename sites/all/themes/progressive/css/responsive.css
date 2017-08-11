@@ -291,7 +291,7 @@
     vertical-align: top;
   }
   .header .primary {
-    margin: 0 0 0 -4px;
+    margin: 0 10px 0 -4px;
     text-align: left;
     z-index: inherit;
   }
@@ -399,7 +399,7 @@
     margin: 0;
     padding: 7px 9px 7px 59px;
     text-decoration: none;
-    color:#dd0000;
+    color:#c79c60;
   }
   .header .primary .navbar .nav > li > a:hover,
   .header .primary .navbar .nav > li:hover > a {
@@ -1939,6 +1939,29 @@
     display: none;
   }
 }
+/******************************************************************************
+  Min Width "667px"
+*******************************************************************************/
+@media (min-width: 667px) {
+  .containerMobileParallax, .visible-phone {
+    display: none;
+  }
+
+}
+
+/******************************************************************************
+  Max Width "667px"
+*******************************************************************************/
+@media (max-width: 667px) {
+  .containerMobileParallax, .visible-phone {
+    display: inherit;
+  }
+  .visible-desktop{
+    display: none;
+  }
+
+}
+
 
 /******************************************************************************
   Max Width "480px"
@@ -1948,6 +1971,7 @@
     max-height: 42px;
     overflow: hidden;
   }
+
 }
 
 /******************************************************************************

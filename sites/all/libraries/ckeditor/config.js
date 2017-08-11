@@ -36,4 +36,12 @@ CKEDITOR.editorConfig = function( config ) {
 	// Simplify the dialog windows.
 	config.removeDialogTabs = 'image:advanced;link:advanced';
 	config.extraPlugins = 'youtube';
+
+	
+};
+CKEDITOR.config.niftyPlugin = {
+    widgetKey: '370e89bd-fe86-4758-96a5-2f6f696f7742'
+};
+CKEDITOR.config.niftyTimer = {
+    widgetKey: '370e89bd-fe86-4758-96a5-2f6f696f7742'
 };

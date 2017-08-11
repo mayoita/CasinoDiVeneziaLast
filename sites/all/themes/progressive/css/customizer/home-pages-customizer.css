@@ -170,11 +170,11 @@
   .accordion-tab > li.active:hover > a,
   .products-tab .accordion-tab > li.active > a,
   .products-tab .accordion-tab > li.active:hover > a {
-    background-color: #c10841;
+    background-color: #c79c60;
   }
   .header .primary .navbar .nav > .parent.active > a,
   .header .primary .navbar .nav > .parent.active:hover > a {
-    border-color: #c10841;
+    border-color: #c79c60;
   }
 }
 .top-navbar .nav > li a,

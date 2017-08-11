@@ -603,7 +603,7 @@ function progressive_shortcodes_shortcode_video($attrs, $text) {
     $video_url = '//www.youtube.com/embed/' . $id .'?showinfo=0&amp;wmode=opaque';
   }
   $text = '<div  ' . _progressive_shortcodes_shortcode_attributes($attrs)  . '>
-    <iframe src="' . $video_url . '?&rel=0&autoplay=1&loop=1&title=0&byline=0&portrait=0&playlist=' . substr($attrs['url'], strpos($attrs['url'], '?v=') + 3) . '" ' . $iframe_attrs . '  frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+    <iframe src="' . $video_url . '?&rel=0&autoplay=1&loop=1&title=0&byline=0&modestbranding=1&portrait=0&controls=0&playlist=' . substr($attrs['url'], strpos($attrs['url'], '?v=') + 3) . '" ' . $iframe_attrs . '  frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
   </div>';
   return $text;
 }
@@ -722,7 +722,7 @@ function progressive_shortcodes_shortcode_mobileparallax($attrs, $text) {
   $attrs['caption'] = isset($attrs['caption']) && $attrs['caption'] ? $attrs['caption'] : $text;
   $file = isset($attrs['fid']) && !empty($attrs['fid']) ? file_load($attrs['fid']) : $attrs['path'];
   $filename = isset($file->uri) ? file_create_url($file->uri) : $file;
-  $text = '<div class="containertest"><div class="mobile-pralax-container"><div class="img">
+  $text = '<div class="containerMobileParallax"><div class="mobile-pralax-container"><div class="img">
     <img class="landscape" src="' . $filename . '" ' . $img_class . ' alt="' . (isset($attrs['alt']) ? $attrs['alt'] : '') . '" title="' . (isset($attrs['title']) ? $attrs['title'] : '') . '">
     ' . (!empty($attrs['caption']) ? '<div class = "description">' . $attrs['caption'] . '</div>' : '') . '
   </div></div></div>';

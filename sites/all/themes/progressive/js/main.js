@@ -1427,7 +1427,38 @@ function locationSocialFeed() {
 	});
   }
 }
-
+// Slick carousel by Massimo Moro
+function slick_regular() {
+    var $ = jQuery;
+    $(".regular").slick({
+        dots: true,
+        infinite: true,
+        rows: 2,
+        slidesToShow: 2,
+        slidesToScroll: 2,
+        slidesPerRow: 1,
+        responsive: [{
+            breakpoint: 1024,
+            settings: {
+                slidesToShow: 2,
+                slidesToScroll: 2,
+                rows: 2,
+                slidesPerRow: 1,
+                dots: true
+            }
+        },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 1,
+                    rows: 1,
+                    slidesPerRow: 1,
+                    slidesToScroll: 1
+                }
+            }]
+    });
+	
+}
 jQuery(document).ready(function(){
   'use strict';
   var $ = jQuery;
@@ -1625,6 +1656,7 @@ jQuery(document).ready(function(){
   blurPage();
   wordRotate();
   locationSocialFeed();
+  slick_regular();
   
   //Carousel load
   $(window).on({

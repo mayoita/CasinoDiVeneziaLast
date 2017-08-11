@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="Register">
+  <component name="PublishConfigData">
     <serverData>
-      <paths name="Register">
+      <paths name="CasinoNew">
         <serverdata>
           <mappings>
-            <mapping deploy="/public_html/sites/all/" local="$PROJECT_DIR$/sites/all/" web="/" />
+            <mapping deploy="/sites" local="$PROJECT_DIR$/sites" web="/" />
           </mappings>
         </serverdata>
       </paths>

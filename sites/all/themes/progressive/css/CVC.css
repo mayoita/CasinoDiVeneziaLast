@@ -73,8 +73,9 @@ p, span, a {
 .BlogDate,
 .sidebar .tags a,
 #sidebar .view .item-list ul li:hover,
+.lineaoro,
 .title-box:before {
-  background-color: #d10000!important;  /* oro #c79c60 */
+  background-color: #c79c60!important;  /* oro #c79c60 */
 }
 .header .primary .sub a {
  color:#8e8c8c;
@@ -113,6 +114,12 @@ display: none!important;
  .social_wrapper ul li a {
   color: white;
 }
+ .logo a {
+     border-style: solid;
+     border-width: 2px;
+     border-color: white;
+     padding: 12px;
+ }
  /*.nd-region > .container {
      background-color: #F2F2F2;
  }*/
@@ -132,7 +139,56 @@ footer.nd-region.footer-top .container,
 .black_box{
 background-color: #252525!important;
 }
+.since {
+    opacity:1;
+    position: relative;
+    top: -240px;
+    color: #ffffff;
+    color: #ffffff;
+    animation: fadein 5s;
+    -moz-animation: fadein 5s; /* Firefox */
+    -webkit-animation: fadein 5s; /* Safari and Chrome */
+    -o-animation: fadein 5s; /* Opera */
+
+}
+.titleSince {
+    opacity:1;
+    position: relative;
+    top: -200px;
+    color: #ffffff;
+    animation: fadein 4s;
+    -moz-animation: fadein 4s; /* Firefox */
+    -webkit-animation: fadein 4s; /* Safari and Chrome */
+    -o-animation: fadein 4s; /* Opera */
+
+}
+
+
+@keyframes fadein {
+    0%{opacity:0}
+    80%{opacity:0}
+    100%{opacity:1}
+}
+@-moz-keyframes fadein { /* Firefox */
+    0%{opacity:0}
+    80%{opacity:0}
+    100%{opacity:1}
+}
+@-webkit-keyframes fadein { /* Safari and Chrome */
+    0%{opacity:0}
+    80%{opacity:0}
+    100%{opacity:1}
+}
+@-o-keyframes fadein { /* Opera */
+    0%{opacity:0}
+    80%{opacity:0}
+    100%{opacity:1}
+}
 /* Blocco Home */
+.titoloHome {
+    margin-bottom: -155px;
+}
+
 .titolo_riquadro {
     border: #fff;
     border-style: solid;
@@ -142,6 +198,68 @@ background-color: #252525!important;
     padding-bottom: 5px;
     padding-left: 40px;
     padding-right: 40px;
+}
+.slick-slide img, .slick-slide .field-slideshow {
+    margin: 0 auto;
+    margin-bottom: 5px;
+}
+.circleEventDate {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    border-style: solid;
+    border-color: #c79c60;
+    border-width: 2px;
+    border-radius: 50%;
+    background-color: white;
+    display: table;
+    top: -36px;
+    z-index: 10;
+    margin-bottom: -30px;
+}
+.circleEventDate span {
+    display:table-cell;
+    vertical-align:middle;
+    color: #c79c60;
+    font-weight: bold;
+}
+.fourBlockTitle {
+    margin-bottom: 20px;
+}
+.slick-slide img { /* Universal settings */
+    -webkit-transition:all .4s;
+    -moz-transition:all .4s;
+    -ms-transition:all .4s;
+    -o-transition:all .4s;
+    transition:all .4s;
+}
+.slick-slide img:not(:hover) {
+    -webkit-filter:sepia(100%) brightness(110%) contrast(150%);
+    -moz-filter:sepia(100%) brightness(110%) contrast(150%);
+    -ms-filter:sepia(100%) brightness(110%) contrast(150%);
+    -o-filter:sepia(100%) brightness(110%) contrast(150%);
+    filter:sepia(100%) brightness(110%) contrast(150%);
+}
+.slick-slide img:hover {
+    -webkit-filter:sepia(0%) brightness(100%) contrast(100%);
+    -moz-filter:sepia(0%) brightness(100%) contrast(100%);
+    -ms-filter:sepia(0%) brightness(100%) contrast(100%);
+    -o-filter:sepia(0%) brightness(100%) contrast(100%);
+    filter:sepia(0%) brightness(100%) contrast(100%);
+}
+.lineaoro p, .video-box{
+    margin-bottom: 0px;
+}
+.slick-prev {
+    background-image: url( '/sites/all/themes/progressive/img/back.png' )!important;
+}
+.slick-next {
+    background-image: url( '/sites/all/themes/progressive/img/next.png' )!important;
+}
+.slick-prev, .slick-next {
+    background-size: 30px 30px!important;
+    height: 30px!important;
+    width: 30px!important;
 }
 /*Blocco orari*/
 #block-views-orari-block, #block-views-orari-block-1, #block-views-slothome-block {

@@ -116,4 +116,3 @@ function seven_css_alter(&$css) {
     $css['misc/ui/jquery.ui.theme.css']['type'] = 'file';
   }
 }
-

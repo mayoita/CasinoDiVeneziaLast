@@ -33,8 +33,7 @@ function progressive_preprocess_html(&$variables) {
     drupal_add_css(drupal_get_path('theme', 'progressive') . '/css/drupal-rtl.css', array('group' => CSS_THEME));
   }
 
-  drupal_add_js('https://use.typekit.net/gvo3wkj.js', 'external');
- drupal_add_js('try{Typekit.load({ async: true });}catch(e){}', 'inline', 'page_bottom');
+
  
   drupal_add_js(array(
     'theme_path' => drupal_get_path('theme', 'progressive'),

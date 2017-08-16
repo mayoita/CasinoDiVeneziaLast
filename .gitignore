@@ -6,3 +6,11 @@ sites/*/settings*.php
 sites/default/files/tmp
 sites/default/files/advagg_css
 sites/default/files/advagg_js
+
+# User-specific stuff:
+.idea
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml

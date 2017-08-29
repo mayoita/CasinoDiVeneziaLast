@@ -14,6 +14,7 @@ p, span, a {
 @media (max-width: @screen-xs) {
     body{font-size: 10px;}
 }*/
+
 /* Mobile Paralax*/
 .beforetest, .aftertest{
     height: 300px;
@@ -74,9 +75,16 @@ p, span, a {
 .sidebar .tags a,
 #sidebar .view .item-list ul li:hover,
 .lineaoro,
-.title-box:before {
+.title-box:before,
+.field-name-field-headercontent p,
+.a2a_svg {
   background-color: #c79c60!important;  /* oro #c79c60 */
 }
+.node-type-events h3,
+.wrapping-events-icons .field-label-above b{
+    color: #c79c60;
+}
+
 .header .primary .sub a {
  color:#8e8c8c;
 }
@@ -86,13 +94,30 @@ p, span, a {
 .find-more-button {
 display: none!important;
 }
+.field-name-field-headercontent p {
+    color: white;
+    font-size: 30px;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+}
+.field-name-field-headercontent>div>div {
+    border-bottom: 8px solid #c79c60;
+}
+.node-type-events .page-box-content {
+    background-image: url('/sites/all/themes/progressive/img/trama.png');
+}
 .agree-button {
     background: none!important;
     border: none!important;
     box-shadow: none!important;
     color: white!important;
     text-shadow: none!important;
-
+}
+.breadcrumb {
+    background: transparent;
 }
 
 .header .primary .navbar .btn-navbar .icon-bar {
@@ -128,9 +153,7 @@ display: none!important;
     content: ">";
 }
 
-h2 {
-font-family: 'Cinzel';
-}
+
 footer.nd-region.footer-top,footer.nd-region.footer-bottom,
 footer.nd-region.footer-top .container,
 #block-progressive-cms-footer-copyright .row,
@@ -318,7 +341,7 @@ margin-top: 60px;
 .page-user .tabs.primary {
 overflow: hidden;
 }
-#Content {
+.page-user #Content {
     background: url(/sites/default/files/bkg-content.png) top center repeat-x;
 
 }
@@ -369,7 +392,56 @@ margin-top: 0px;
     border:none;
     border-bottom: #efe4cd 1px solid;
 }
+/*Eventi*/
+.node-type-events h3 {
+    margin-top: 30px;
+}
+.node-type-events #Content {
+    background-color: white;
+}
+.links.inline {
+    padding-left: 0px;
+}
+.wrapping-events-icons {
+    height: 50px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.wrapping-events-icons .field-label-above b {
+    display: block;
+    line-height: 3px;
+    margin-top: 10px;
+    font-family: 'casinoRegular';
+}
+.field-name-field-eventdate .date-display-single,
+.field-name-field-where a{
+    font-size: 14px;
+    color: black;
+}
+.node-type-events .field-label-above {
+    margin-left: 65px;
+}
+.field-label-above {
+    font-size: 20px;
+}
 
+
+.field-label-above .colon, b .colon{
+    display: none;
+}
+.events-icons, .events-icons-dove {
+    width: 45px;
+    float: left;
+}
+.events-icons-dove {
+    width: 35px;
+}
+.events-icons a svg path, .events-icons-dove a svg path {
+     fill: #c79c60;
+}
+.wrapping-events-icons a:hover, .wrapping-events-icons a:focus {
+    text-decoration: none;
+}
 /* Black style */
 .node-type-event  .breadcrumb-box {
     background: black;
@@ -397,10 +469,6 @@ float: right;
 }
 .field-name-field-eventbritebutton {
 float: left;
-}
-.field-name-field-eventdate {
-font-size: 20px;
-    clear: both;
 }
 
 .node-type-event h2 {

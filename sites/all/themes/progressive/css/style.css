@@ -416,8 +416,8 @@ nav ul {
   -moz-border-radius: 5px;
   border-radius: 5px;
   display: inline-block;
-  //display: block;
-  //float: left;
+  display: block;
+  float: left;
   height: 10px;
   margin: 0 5px;
   text-indent: -9999px;
@@ -4436,7 +4436,7 @@ blockquote small {
   width: 40px !important;
   -webkit-transition: background .3s linear;
   transition: background .3s linear;
-  -webkit-transition: opacity 0.2s ease-out; */
+  -webkit-transition: opacity 0.2s ease-out;
   -webkit-transform: inherit;
   z-index: 50 !important;
 }
@@ -10757,14 +10757,16 @@ a.big-icon:hover {
 .filter-guidelines {
   display: none;
 }
-.group-mobile, .group-blog, .field-type-taxonomy-term-reference {
+.group-mobile, .group-blog, .page-node-edit .field-type-taxonomy-term-reference, .group-prenotazioni {
   padding: 20px;
   border: solid;
   border-color: black;
   border-width: 1px;
   margin-bottom: 20px;
 }
-
+.group-prenotazioni {
+  background-color: #fbd9ba;
+}
 .group-mobile {
   background-color: #d8ebfb;
 }
@@ -10777,8 +10779,17 @@ a.big-icon:hover {
 .field-name-field-categoria {
   background-color: #fbd8d8;
 }
-.field-name-field-eventdate {
+.page-node-edit .field-name-field-eventdate {
   background-color: #fbebd8;
+}
+.page-node-edit .field-name-field-categoria {
+  background-color: #cbfbf3;
+}
+.page-node-edit .field-name-field-tags {
+  background-color: #c0e7fb;
+}
+.page-node-edit .field-name-field-where {
+  background-color: #d1c2fb;
 }
 input#edit-field-blog-und {
 

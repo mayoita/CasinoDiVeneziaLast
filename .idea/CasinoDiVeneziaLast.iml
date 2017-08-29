@@ -7,18 +7,18 @@
     <orderEntry type="module-library">
       <library name="PHARS">
         <CLASSES>
+          <root url="phar://$MODULE_DIR$/sites/default/files/composer/composer.phar/" />
           <root url="phar://$MODULE_DIR$/sites/CasinoDiVeneziaLast.dd/files/composer/composer.phar/" />
           <root url="phar://$MODULE_DIR$/sites/all/modules/composer_manager/composer.phar/" />
           <root url="phar://$MODULE_DIR$/sites/default/files/privates/composer/composer.phar/" />
           <root url="phar://$MODULE_DIR$/sites/CasinoDiVeneziaLast.dd/files/privates/composer/composer.phar/" />
-          <root url="phar://$MODULE_DIR$/sites/default/files/composer/composer.phar/" />
         </CLASSES>
         <SOURCES>
+          <root url="phar://$MODULE_DIR$/sites/default/files/composer/composer.phar/" />
           <root url="phar://$MODULE_DIR$/sites/CasinoDiVeneziaLast.dd/files/composer/composer.phar/" />
           <root url="phar://$MODULE_DIR$/sites/all/modules/composer_manager/composer.phar/" />
           <root url="phar://$MODULE_DIR$/sites/default/files/privates/composer/composer.phar/" />
           <root url="phar://$MODULE_DIR$/sites/CasinoDiVeneziaLast.dd/files/privates/composer/composer.phar/" />
-          <root url="phar://$MODULE_DIR$/sites/default/files/composer/composer.phar/" />
         </SOURCES>
       </library>
     </orderEntry>

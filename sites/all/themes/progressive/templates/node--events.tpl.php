@@ -136,8 +136,7 @@
                 </svg>
             </a>
             </div>
-                <?php print '<a href="' . $field_eventbrite[0]['value'] . '">' ?><?php print render($content['field_prenota']); ?><?php print '</a>'; ?>
-
+                <?php print '<a  href="' . $field_eventbrite[0]['value'] . '">' ?><?php print render($content['field_prenota']); ?><?php print '</a>'; ?>
 
 
             <?php endif; ?>

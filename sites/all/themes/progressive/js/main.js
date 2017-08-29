@@ -1459,6 +1459,33 @@ function slick_regular() {
     });
 	
 }
+
+function slick_event_list() {
+    var $ = jQuery;
+    $(".event_list").slick({
+        dots: true,
+        infinite: true,
+        rows: 1,
+        slidesToShow: 3,
+        slidesToScroll: 3,
+        responsive: [{
+            breakpoint: 1024,
+            settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3,
+                dots: true
+            }
+        },
+            {
+                breakpoint: 576,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2
+                }
+            }]
+    });
+
+}
 jQuery(document).ready(function(){
   'use strict';
   var $ = jQuery;
@@ -1657,7 +1684,7 @@ jQuery(document).ready(function(){
   wordRotate();
   locationSocialFeed();
   slick_regular();
-  
+    slick_event_list();
   //Carousel load
   $(window).on({
     load : function() {

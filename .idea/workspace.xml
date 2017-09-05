@@ -2,22 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d772fba-59f0-4aac-9027-6f3b8d7b1dac" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--fourblock--block-3.tpl.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/modules/alert_to_admin/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/modules/alert_to_admin/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/modules/alert_to_admin/alert_to_admin.admin.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/modules/alert_to_admin/alert_to_admin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/modules/alert_to_admin/alert_to_admin.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/modules/alert_to_admin/alert_to_admin.install" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/modules/alert_to_admin/alert_to_admin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/modules/alert_to_admin/alert_to_admin.module" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/modules/alert_to_admin/icon/alert.png" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/field_slideshow.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--fourblock--block-4.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--fourblock--block-5.tpl.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__hHPT4auTxByGr5CzGDsGgWPFKPV1UYQuEkJWDxKhLwU__YA9kMbIkSjZ7yT2om5r3o4t4gGKMnhtWzQd16ZhM6iM__ERngt4rnH98OrNpv_6-bZBVuxyo807mE7kRPdRdrfM8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__hHPT4auTxByGr5CzGDsGgWPFKPV1UYQuEkJWDxKhLwU__YA9kMbIkSjZ7yT2om5r3o4t4gGKMnhtWzQd16ZhM6iM__ERngt4rnH98OrNpv_6-bZBVuxyo807mE7kRPdRdrfM8.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__hHPT4auTxByGr5CzGDsGgWPFKPV1UYQuEkJWDxKhLwU__YA9kMbIkSjZ7yT2om5r3o4t4gGKMnhtWzQd16ZhM6iM__I04iMTnvQpCQp4cf5dkMQKl_vk2102ie-7uapl_6kXI.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__hHPT4auTxByGr5CzGDsGgWPFKPV1UYQuEkJWDxKhLwU__YA9kMbIkSjZ7yT2om5r3o4t4gGKMnhtWzQd16ZhM6iM__I04iMTnvQpCQp4cf5dkMQKl_vk2102ie-7uapl_6kXI.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__hHPT4auTxByGr5CzGDsGgWPFKPV1UYQuEkJWDxKhLwU__YA9kMbIkSjZ7yT2om5r3o4t4gGKMnhtWzQd16ZhM6iM__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__hHPT4auTxByGr5CzGDsGgWPFKPV1UYQuEkJWDxKhLwU__YA9kMbIkSjZ7yT2om5r3o4t4gGKMnhtWzQd16ZhM6iM__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__nOdMxRW5bVWUqQ-t-9E6dssrAAX84yfFAF0Eru_FaKc__EBGbMjiwkigWJjfvdkjKR8aTlidktSfC8WSIiEzt1aY__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__nOdMxRW5bVWUqQ-t-9E6dssrAAX84yfFAF0Eru_FaKc__EBGbMjiwkigWJjfvdkjKR8aTlidktSfC8WSIiEzt1aY__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__oJ2QQgPiqRNqgOQ1SS1mH_hns8snASwLItgZPds6iVc__sylLwGwZuULFDjDB8Fk0Oh6_sj76sMfHD4FNHAj9JmI__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__oJ2QQgPiqRNqgOQ1SS1mH_hns8snASwLItgZPds6iVc__sylLwGwZuULFDjDB8Fk0Oh6_sj76sMfHD4FNHAj9JmI__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js.gz" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/css/responsive.css" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/css/responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/img/Dove.svg" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/img/Dove.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/js/main.js" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/templates/node--events.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/node--events.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/progressive.info" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/progressive.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/fontyourface/font.css" afterPath="$PROJECT_DIR$/sites/default/files/fontyourface/font.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/xmlsitemap/g3XYqcXbSKPVBDODwnT6pq7oqhCFkPryj4vVqrl_Kfc/1.xml" afterPath="$PROJECT_DIR$/sites/default/files/xmlsitemap/g3XYqcXbSKPVBDODwnT6pq7oqhCFkPryj4vVqrl_Kfc/1.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,28 +38,8 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CVC.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="435" column="35" lean-forward="true" selection-start-line="435" selection-start-column="35" selection-end-line="435" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="progressive.info" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/progressive.info">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="83" column="33" lean-forward="false" selection-start-line="83" selection-start-column="33" selection-end-line="83" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views-view.tpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view.tpl.php">
+      <file leaf-file-name="views-view-fields--gallery-row.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields--gallery-row.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -62,53 +48,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views-view-fields--product-taxonomy.tpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields--product-taxonomy.tpl.php">
+      <file leaf-file-name="CVC.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="288">
+              <caret line="549" column="16" lean-forward="false" selection-start-line="549" selection-start-column="16" selection-end-line="549" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="black.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/modules/tb_megamenu/css/styles/black.css">
+      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/responsive.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-              <folding>
-                <marker date="1503994004000" expanded="true" signature="3662:3731" ph="{...}" />
-                <marker date="1503994004000" expanded="true" signature="3816:3870" ph="{...}" />
-                <marker date="1503994004000" expanded="true" signature="3912:3930" ph="{...}" />
-                <marker date="1503994004000" expanded="true" signature="4112:4133" ph="{...}" />
-                <marker date="1503994004000" expanded="true" signature="4176:4202" ph="{...}" />
-                <marker date="1503994004000" expanded="true" signature="4250:4283" ph="{...}" />
-                <marker date="1503994004000" expanded="true" signature="4335:4354" ph="{...}" />
-                <marker date="1503994004000" expanded="true" signature="4414:4434" ph="{...}" />
-                <marker date="1503994004000" expanded="true" signature="4498:4536" ph="{...}" />
-                <marker date="1503994004000" expanded="true" signature="4564:5050" ph="{...}" />
-                <marker date="1503994004000" expanded="true" signature="4591:4649" ph="{...}" />
-                <marker date="1503994004000" expanded="true" signature="4745:4774" ph="{...}" />
-                <marker date="1503994004000" expanded="true" signature="4885:4958" ph="{...}" />
-                <marker date="1503994004000" expanded="true" signature="4998:5048" ph="{...}" />
-                <marker date="1503994004000" expanded="true" signature="5078:5436" ph="{...}" />
-                <marker date="1503994004000" expanded="true" signature="5131:5162" ph="{...}" />
-                <marker date="1503994004000" expanded="true" signature="5277:5352" ph="{...}" />
-                <marker date="1503994004000" expanded="true" signature="5404:5434" ph="{...}" />
-                <marker date="1503994004000" expanded="true" signature="5484:5513" ph="{...}" />
-                <marker date="1503994004000" expanded="true" signature="5549:5585" ph="{...}" />
-                <marker date="1503994004000" expanded="true" signature="5676:5697" ph="{...}" />
-              </folding>
+            <state relative-caret-position="325">
+              <caret line="1926" column="16" lean-forward="true" selection-start-line="1926" selection-start-column="16" selection-end-line="1926" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="drupal.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/drupal.css">
+      <file leaf-file-name="field_slideshow.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/modules/field_slideshow/field_slideshow.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9795">
-              <caret line="653" column="2" lean-forward="false" selection-start-line="653" selection-start-column="2" selection-end-line="653" selection-end-column="2" />
+            <state relative-caret-position="180">
+              <caret line="17" column="94" lean-forward="false" selection-start-line="17" selection-start-column="94" selection-end-line="17" selection-end-column="94" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="progressive.info" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/progressive.info">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="35" lean-forward="false" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views-view-fields--blog-timeline.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields--blog-timeline.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -118,13 +102,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.field-name-field-eventdate</find>
-      <find>.tb-megamenu.style-black .block-ct</find>
-      <find>C</find>
-      <find>Cinz</find>
-      <find>Cinzel</find>
-      <find>.btn:hover, .btn:focus, .btn:active, .btn.active, .btn.disabled,.btn[disabled], .btn-default:hover, .btn-default:focus, .btn-default:active,.btn-default.active, .open .dropdown-toggle.btn-default</find>
-      <find>* background: #565656;</find>
       <find>.tb-megamenu.style-black</find>
       <find>background: #565656;</find>
       <find>f</find>
@@ -148,9 +125,17 @@
       <find>.title-box .title</find>
       <find>slick</find>
       <find>events</find>
+      <find>event</find>
+      <find>item</find>
+      <find>title-box</find>
+      <find>views-view-fields.tpl.php</find>
+      <find>/* Ev</find>
+      <find>field-slideshow-wrapper</find>
+      <find>iconaListEvents</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/sites/all/modules/colorbox/js</dir>
+      <dir>$PROJECT_DIR$/sites/all/themes/progressive/templates</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -162,13 +147,11 @@
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-unformatted--fourblock.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--fourblock.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/css/customizer/home-pages-customizer.css" />
-        <option value="$PROJECT_DIR$/sites/all/themes/progressive/css/responsive.css" />
         <option value="$PROJECT_DIR$/sites/all/modules/progressive_cms/progressive_shortcodes/progressive_shortcodes.module" />
         <option value="$PROJECT_DIR$/sites/all/libraries/ckeditor/config.js" />
         <option value="$PROJECT_DIR$/sites/all/modules/ckeditor/ckeditor.config.js" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/css/slick-theme.css" />
         <option value="$PROJECT_DIR$/.htaccess" />
-        <option value="$PROJECT_DIR$/sites/all/themes/progressive/progressive.info" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/template.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/page--type-events.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/css/style.css" />
@@ -176,7 +159,13 @@
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/node--events.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--eventlist.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/js/main.js" />
+        <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-field--eventlist--page--field-where.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/progressive/progressive.info" />
+        <option value="$PROJECT_DIR$/sites/all/modules/field_slideshow/field_slideshow.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/field_slideshow.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css" />
+        <option value="$PROJECT_DIR$/sites/all/themes/progressive/css/responsive.css" />
       </list>
     </option>
   </component>
@@ -194,10 +183,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1339" />
-    <option name="y" value="23" />
-    <option name="width" value="1321" />
-    <option name="height" value="1413" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -218,21 +205,21 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -242,11 +229,29 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaLast.dd" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -260,11 +265,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -286,11 +291,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -316,41 +321,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sites" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="all" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="progressive" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -376,11 +351,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -396,10 +371,128 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="field_slideshow" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -419,6 +512,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -537,34 +631,37 @@
       <workItem from="1503579565556" duration="935000" />
       <workItem from="1503909177512" duration="10290000" />
       <workItem from="1504005894832" duration="5174000" />
+      <workItem from="1504260769412" duration="7134000" />
+      <workItem from="1504531383882" duration="4036000" />
+      <workItem from="1504537701778" duration="63000" />
+      <workItem from="1504538716086" duration="676000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64940000" />
+    <option name="totallyTimeSpent" value="86378000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1339" y="23" width="1321" height="1413" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3174355" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31736112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34208494" sideWeight="0.5050821" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31535757" sideWeight="0.51111114" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31994048" sideWeight="0.49563146" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3416557" sideWeight="0.4923611" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34208494" sideWeight="0.4949179" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35638922" sideWeight="0.49444443" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3561104" sideWeight="0.4888889" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31887457" sideWeight="0.49305555" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298292" sideWeight="0.49722221" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -583,162 +680,11 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="26" />
+      <option name="time" value="55" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/slick-theme.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2670">
-          <caret line="178" column="1" lean-forward="false" selection-start-line="178" selection-start-column="1" selection-end-line="178" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3075">
-          <caret line="205" column="0" lean-forward="false" selection-start-line="205" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/vendor/firebase/php-jwt/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/firebase/firebase.module">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="70" column="45" lean-forward="false" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/firebase/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/screenshot.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/nikadevs_cms/nikadevs_cms.module">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/nikadevs_cms/inc/nikadevs_cms.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/nikadevs_cms/inc/nikadevs_cms_background.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1641">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/nikadevs_cms/block_settings/nikadevs-cms-block-settings.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-612">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/nikadevs_cms/images/buttons.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/nikadevs_cms/block_settings/nikadevs-cms-block-settings.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-858">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/nikadevs_cms/js/nikadevs-cms-background.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/nikadevs_cms/layout_builder/nikadevs-cms-layout-builder.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2317">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/nikadevs_cms/modules/nd_visualshortcodes/nd-visualshortcodes.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/nikadevs_cms/modules/nd_visualshortcodes/nd_visualshortcodes.info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/nikadevs_cms/modules/nd_visualshortcodes/nd_visualshortcodes.module">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/nikadevs_cms/nikadevs_cms.info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/progressive_cms/progressive_cms.info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/progressive_cms/progressive_cms.module">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/progressive_cms/progressive_features/progressive_features.features.field_base.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/progressive_cms/progressive_features/progressive_features.features.ckeditor_profile.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-367">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/modules/progressive_cms/progressive_content/progressive_content.module">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -799,7 +745,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="29" column="35" lean-forward="false" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -814,7 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="81" column="6" lean-forward="false" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -822,15 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="641">
           <caret line="127" column="5" lean-forward="false" selection-start-line="127" selection-start-column="5" selection-end-line="127" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/theme.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="1119" column="0" lean-forward="false" selection-start-line="1119" selection-start-column="0" selection-end-line="1119" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -846,68 +781,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/page--type-events.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1245">
+        <state relative-caret-position="325">
           <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/CVC_BASE_37984.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="261" column="2" lean-forward="true" selection-start-line="261" selection-start-column="2" selection-end-line="261" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/CVC_BASE_37984.css" />
     <entry file="file://$PROJECT_DIR$/sites/all/modules/tb_megamenu/css/styles/black.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-          <folding>
-            <marker date="1503994004000" expanded="true" signature="3662:3731" ph="{...}" />
-            <marker date="1503994004000" expanded="true" signature="3816:3870" ph="{...}" />
-            <marker date="1503994004000" expanded="true" signature="3912:3930" ph="{...}" />
-            <marker date="1503994004000" expanded="true" signature="4112:4133" ph="{...}" />
-            <marker date="1503994004000" expanded="true" signature="4176:4202" ph="{...}" />
-            <marker date="1503994004000" expanded="true" signature="4250:4283" ph="{...}" />
-            <marker date="1503994004000" expanded="true" signature="4335:4354" ph="{...}" />
-            <marker date="1503994004000" expanded="true" signature="4414:4434" ph="{...}" />
-            <marker date="1503994004000" expanded="true" signature="4498:4536" ph="{...}" />
-            <marker date="1503994004000" expanded="true" signature="4564:5050" ph="{...}" />
-            <marker date="1503994004000" expanded="true" signature="4591:4649" ph="{...}" />
-            <marker date="1503994004000" expanded="true" signature="4745:4774" ph="{...}" />
-            <marker date="1503994004000" expanded="true" signature="4885:4958" ph="{...}" />
-            <marker date="1503994004000" expanded="true" signature="4998:5048" ph="{...}" />
-            <marker date="1503994004000" expanded="true" signature="5078:5436" ph="{...}" />
-            <marker date="1503994004000" expanded="true" signature="5131:5162" ph="{...}" />
-            <marker date="1503994004000" expanded="true" signature="5277:5352" ph="{...}" />
-            <marker date="1503994004000" expanded="true" signature="5404:5434" ph="{...}" />
-            <marker date="1503994004000" expanded="true" signature="5484:5513" ph="{...}" />
-            <marker date="1503994004000" expanded="true" signature="5549:5585" ph="{...}" />
-            <marker date="1503994004000" expanded="true" signature="5676:5697" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/drupal.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9795">
+        <state relative-caret-position="173">
           <caret line="653" column="2" lean-forward="false" selection-start-line="653" selection-start-column="2" selection-end-line="653" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/progressive-cms-menu.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-433">
-          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -922,27 +817,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--fourblock--block-3.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="1470" column="22" lean-forward="false" selection-start-line="1470" selection-start-column="22" selection-end-line="1470" selection-end-column="22" />
-          <folding>
-            <marker date="1504016365000" expanded="true" signature="150:191" ph="..." />
-            <marker date="1504016365000" expanded="true" signature="46224:46584" ph="..." />
-            <marker date="1504016365000" expanded="true" signature="46674:47034" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -950,23 +824,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/progressive.info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="83" column="33" lean-forward="false" selection-start-line="83" selection-start-column="33" selection-end-line="83" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/node--events.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -974,14 +831,231 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--fourblock--block-4.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/theme.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="1207" column="0" lean-forward="false" selection-start-line="1207" selection-start-column="0" selection-end-line="1207" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/views/modules/field/views_handler_field_field.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="897" column="0" lean-forward="false" selection-start-line="897" selection-start-column="0" selection-end-line="897" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/views/handlers/views_handler_field.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="1053" column="0" lean-forward="false" selection-start-line="1053" selection-start-column="0" selection-end-line="1053" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/CasinoDiVeneziaLast.dd/files/advagg_css/css__684ZHDEDdxGtRjY8GG9A-TyX5g8D6B9atrVzYBLVDMU__y4w4dikRhyZhJxBzDTDscNwcBRdkb9Ryl5e5YrQ7mbs__m80SZwTYybbTIg4ePWjcOjDCeV__KQKm2Sgok7OHgI4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="258" column="16094" lean-forward="false" selection-start-line="258" selection-start-column="16094" selection-end-line="258" selection-end-column="16094" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--fourblock--block-3.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--fourblock--block-5.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="1490" column="0" lean-forward="true" selection-start-line="1490" selection-start-column="0" selection-end-line="1490" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/progressive-cms-menu.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/node--events.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="134" column="24" lean-forward="false" selection-start-line="134" selection-start-column="24" selection-end-line="134" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/views/theme/theme.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="1151" column="5" lean-forward="false" selection-start-line="1151" selection-start-column="5" selection-end-line="1151" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields.tpl.php" />
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-field--eventlist--page--field-where.tpl.php" />
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields--gallery.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields--modern-gallery.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields--project-hover.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--carousel-controls.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--gallery.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-unformatted--blog-timeline.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields--product-flip.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields--blog-timeline.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-unformatted--content-slider.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields--portfolio-1-column.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields--gallery-row.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/progressive.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="35" lean-forward="false" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/field_slideshow.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="103" lean-forward="false" selection-start-line="17" selection-start-column="103" selection-end-line="17" selection-end-column="103" />
+          <folding>
+            <marker date="1504538095000" expanded="true" signature="298:320" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="381:1819" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="391:455" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="466:524" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="535:786" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="631:686" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="694:784" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="809:826" ph="..." />
+            <marker date="1504538095000" expanded="false" signature="837:859" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="842:857" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="860:1667" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="871:1655" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="907:1643" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="934:959" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="967:1017" ph="..." />
+            <marker date="1504538095000" expanded="false" signature="990:1003" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="1034:1057" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="1073:1315" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="1130:1308" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="1180:1292" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="1242:1267" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="1341:1377" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="1431:1581" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="1432:1568" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="1607:1617" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="1679:1742" ph="..." />
+            <marker date="1504538095000" expanded="true" signature="1753:1810" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/field_slideshow/field_slideshow.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="94" lean-forward="false" selection-start-line="17" selection-start-column="94" selection-end-line="17" selection-end-column="94" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="435" column="35" lean-forward="true" selection-start-line="435" selection-start-column="35" selection-end-line="435" selection-end-column="35" />
+        <state relative-caret-position="288">
+          <caret line="549" column="16" lean-forward="false" selection-start-line="549" selection-start-column="16" selection-end-line="549" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="1926" column="16" lean-forward="true" selection-start-line="1926" selection-start-column="16" selection-end-line="1926" selection-end-column="16" />
           <folding />
         </state>
       </provider>

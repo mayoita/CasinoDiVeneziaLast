@@ -1486,6 +1486,12 @@ function slick_event_list() {
     });
 
 }
+function massimo() {
+	var $ = jQuery;
+
+    $(".notify-badge").css('left', ((parseFloat($(".slick-slide").width()) - 190)/2) - $(".notify-badge").outerWidth(true)/2);
+    $(".circleEventDate").css('left', ((parseFloat($(".field-slideshow-wrapper").width()) - 190)/2) - $(".circleEventDate").width()/2);
+}
 jQuery(document).ready(function(){
   'use strict';
   var $ = jQuery;
@@ -1685,6 +1691,7 @@ jQuery(document).ready(function(){
   locationSocialFeed();
   slick_regular();
     slick_event_list();
+    massimo();
   //Carousel load
   $(window).on({
     load : function() {
@@ -1986,6 +1993,7 @@ jQuery(document).ready(function(){
   	bannerSetCarousel();
   	thumblist();
   	carousel();
+  	massimo();
   }
 
   if(navigator.userAgent.match(/iPad|iPhone|Android/i)) {

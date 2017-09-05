@@ -82,8 +82,15 @@ p, span, a {
 }
 .node-type-events h3,
 .wrapping-events-icons .field-label-above b,
-.title-box .title{
+.title-box .title,
+.badgeEvents,
+h5 a,
+.linkEvent a,
+.labelWW{
     color: #c79c60!important;
+}
+.page-events a{
+    color: black;
 }
 #sidebar  .block {
     border-bottom: 4px solid #c79c60;
@@ -244,10 +251,13 @@ background-color: #252525!important;
     z-index: 10;
     margin-bottom: -30px;
 }
-.circleEventDate span {
+.circleEventDate span, .notify-badge span {
     display:table-cell;
     vertical-align:middle;
     color: #c79c60;
+    font-weight: bold;
+    text-align: center;
+    font-size: 14px;
     font-weight: bold;
 }
 .fourBlockTitle {
@@ -458,11 +468,49 @@ margin-top: 0px;
     margin-top: 50px;
     margin-bottom: 50px;
 }
-#block-views-fourblock-block-3 .block-content{
+#block-views-fourblock-block-4, #block-views-fourblock-block-5 {
     border-top: 5px solid #c79c60;
-    border-bottom: 5px solid #c79c60;
     padding-top: 50px;
 }
+.title-box {
+    border: none;
+}
+.view-display-id-block_4 .slick-list{
+    padding-bottom: 20px;
+}
+#block-views-fourblock-block-4,
+#block-views-fourblock-block-5{
+    padding: 0px 20px 0px 20px;
+}
+
+.item {
+    position:relative;
+    padding-top:20px;
+    display:inline-block;
+}
+.notify-badge{
+    position: absolute;
+    left:10px;
+    bottom:-20px;
+    background: #ffffff;
+    text-align: center;
+    color:white;
+    padding:18px 10px;
+    z-index: 10;
+    border-style: solid;
+    border-color: #c79c60;
+    border-width: 2px;
+    border-radius: 50%;
+}
+
+.slick-slide .fourBlockTitle {
+    text-align: center;
+}
+#block-views-fourblock-block-4 .title-box,
+#block-views-fourblock-block-5 .title-box{
+    text-align: center;
+}
+
 /* Black style */
 .node-type-event  .breadcrumb-box {
     background: black;
@@ -474,6 +522,38 @@ background: inherit;
 }
 .node-type-event .breadcrumb li a, .node-type-event .breadcrumb li:before, .node-type-event .breadcrumb li{
     color: white;
+}
+/* Event List*/
+h5 a{
+    font-weight: bold!important;
+
+}
+.view-eventlist h5 {
+    margin: 0 0 0 0;
+}
+.view-eventlist p {
+    margin-bottom: 0px;
+}
+
+.colonna-event-list .view-eventlist img {
+    float: left;
+    margin-right: 10px;
+}
+.iconaListEvents {
+    width: 24px;
+    margin-top: 2px;
+    float: left;
+}
+.iconaListEventsWhen {
+    width: 35px;
+    margin-top: 2px;
+    float: left;
+}
+.colonna-event-list {
+    padding-left: 0px;
+}
+.labelWW {
+    margin-bottom: -5px;
 }
 /* Event */
 .node-type-event {
@@ -770,7 +850,8 @@ margin-bottom: 30px;
 #block-views-slotfocus-block-2 .title-box:before,
 #block-views-archive-block .title-box:before,
 #block-views-taxonomy-block-1 .title-box:before,
-#block-views-taxonomy-block .title-box:before
+#block-views-taxonomy-block .title-box:before,
+.title-box:before
 {
 width: 0px;
 }
@@ -854,7 +935,7 @@ li.clubcard-right a{
 
 }
  /* GAMES*/
- .title-box.title-h1 {
+ .node-type-game .title-box.title-h1 {
     display: none;
  }
  .SlotFocus {
@@ -1005,13 +1086,8 @@ li.clubcard-right a{
 .view-eventlist .views-row .col-md-3.views-fieldset p, .view-promotionslist .views-row .col-md-3.views-fieldset p{
     margin-top: 10px;
 } 
-.view-eventlist .field-slideshow-wrapper, .view-promotionslist .help-promotions{
-    float: left;
-    margin-right: 10px;
-}
-.field-content.cinzel{
-    font-size: 1.5em;
-}
+
+
 
 .testoperadv{
     position: absolute;

@@ -1908,6 +1908,34 @@
   #count-down .county-seconds {
     font-size: 30px;
   }
+
+  .page-events .view-eventlist .field-slideshow-wrapper {
+    margin-right: 0px;
+    padding: 0px;
+  }
+  .page-event .field-slideshow-wrapper .field-slideshow {
+    padding-right: 0px;
+  }
+  .page-events h5 {
+    font-size: 16px;
+  }
+  .page-events p {
+    font-size: 12px;
+  }
+  .iconaListEvents {
+
+    width: 16px;
+  }
+  .iconaListEventsWhen {
+
+    width: 22px;
+  }
+  .colonna-event-list {
+    padding-right: 0px;
+  }
+  .colonna-event-list a,.colonna-event-list span,.colonna-event-list .views-label {
+     font-size: 12px;
+   }
 }
 
 /******************************************************************************

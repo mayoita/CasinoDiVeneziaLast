@@ -2,28 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d772fba-59f0-4aac-9027-6f3b8d7b1dac" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/field_slideshow.tpl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--fourblock--block-4.tpl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--fourblock--block-5.tpl.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__hHPT4auTxByGr5CzGDsGgWPFKPV1UYQuEkJWDxKhLwU__YA9kMbIkSjZ7yT2om5r3o4t4gGKMnhtWzQd16ZhM6iM__ERngt4rnH98OrNpv_6-bZBVuxyo807mE7kRPdRdrfM8.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__hHPT4auTxByGr5CzGDsGgWPFKPV1UYQuEkJWDxKhLwU__YA9kMbIkSjZ7yT2om5r3o4t4gGKMnhtWzQd16ZhM6iM__ERngt4rnH98OrNpv_6-bZBVuxyo807mE7kRPdRdrfM8.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__hHPT4auTxByGr5CzGDsGgWPFKPV1UYQuEkJWDxKhLwU__YA9kMbIkSjZ7yT2om5r3o4t4gGKMnhtWzQd16ZhM6iM__I04iMTnvQpCQp4cf5dkMQKl_vk2102ie-7uapl_6kXI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__hHPT4auTxByGr5CzGDsGgWPFKPV1UYQuEkJWDxKhLwU__YA9kMbIkSjZ7yT2om5r3o4t4gGKMnhtWzQd16ZhM6iM__I04iMTnvQpCQp4cf5dkMQKl_vk2102ie-7uapl_6kXI.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__hHPT4auTxByGr5CzGDsGgWPFKPV1UYQuEkJWDxKhLwU__YA9kMbIkSjZ7yT2om5r3o4t4gGKMnhtWzQd16ZhM6iM__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__hHPT4auTxByGr5CzGDsGgWPFKPV1UYQuEkJWDxKhLwU__YA9kMbIkSjZ7yT2om5r3o4t4gGKMnhtWzQd16ZhM6iM__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__nOdMxRW5bVWUqQ-t-9E6dssrAAX84yfFAF0Eru_FaKc__EBGbMjiwkigWJjfvdkjKR8aTlidktSfC8WSIiEzt1aY__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__nOdMxRW5bVWUqQ-t-9E6dssrAAX84yfFAF0Eru_FaKc__EBGbMjiwkigWJjfvdkjKR8aTlidktSfC8WSIiEzt1aY__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__oJ2QQgPiqRNqgOQ1SS1mH_hns8snASwLItgZPds6iVc__sylLwGwZuULFDjDB8Fk0Oh6_sj76sMfHD4FNHAj9JmI__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__oJ2QQgPiqRNqgOQ1SS1mH_hns8snASwLItgZPds6iVc__sylLwGwZuULFDjDB8Fk0Oh6_sj76sMfHD4FNHAj9JmI__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js.gz" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/css/responsive.css" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/css/responsive.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/img/Dove.svg" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/img/Dove.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/js/main.js" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/progressive.info" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/progressive.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/templates/field_slideshow.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/field_slideshow.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/fontyourface/font.css" afterPath="$PROJECT_DIR$/sites/default/files/fontyourface/font.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/xmlsitemap/g3XYqcXbSKPVBDODwnT6pq7oqhCFkPryj4vVqrl_Kfc/1.xml" afterPath="$PROJECT_DIR$/sites/default/files/xmlsitemap/g3XYqcXbSKPVBDODwnT6pq7oqhCFkPryj4vVqrl_Kfc/1.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,30 +30,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CVC.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CVC.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="549" column="16" lean-forward="false" selection-start-line="549" selection-start-column="16" selection-end-line="549" selection-end-column="16" />
+            <state relative-caret-position="427">
+              <caret line="121" column="27" lean-forward="true" selection-start-line="121" selection-start-column="27" selection-end-line="121" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/responsive.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="1926" column="16" lean-forward="true" selection-start-line="1926" selection-start-column="16" selection-end-line="1926" selection-end-column="16" />
+            <state relative-caret-position="15">
+              <caret line="1954" column="16" lean-forward="false" selection-start-line="1954" selection-start-column="16" selection-end-line="1954" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="field_slideshow.tpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/modules/field_slideshow/field_slideshow.tpl.php">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/field_slideshow.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="171">
               <caret line="17" column="94" lean-forward="false" selection-start-line="17" selection-start-column="94" selection-end-line="17" selection-end-column="94" />
               <folding />
             </state>
@@ -81,8 +63,8 @@
       <file leaf-file-name="progressive.info" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/progressive.info">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="35" lean-forward="false" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+            <state relative-caret-position="480">
+              <caret line="32" column="34" lean-forward="false" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -102,19 +84,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.tb-megamenu.style-black</find>
-      <find>background: #565656;</find>
-      <find>f</find>
-      <find>font</find>
-      <find>font-s</find>
-      <find>font-si</find>
-      <find>font-siz</find>
-      <find>font-size:</find>
-      <find>font-size: 40px</find>
-      <find>font-fa</find>
-      <find>font-familty</find>
-      <find>font-familt</find>
-      <find>font-famil</find>
       <find>font-family</find>
       <find>font-family:</find>
       <find>font-family: '</find>
@@ -130,8 +99,21 @@
       <find>title-box</find>
       <find>views-view-fields.tpl.php</find>
       <find>/* Ev</find>
-      <find>field-slideshow-wrapper</find>
       <find>iconaListEvents</find>
+      <find>field-slideshow-wrappe</find>
+      <find>field-slideshow.tpl</find>
+      <find>field-slideshow.tp</find>
+      <find>field-slideshow.t</find>
+      <find>field-slideshow.</find>
+      <find>field-slideshow</find>
+      <find>field-slideshow-</find>
+      <find>field-slideshow-w</find>
+      <find>field-slideshow-wr</find>
+      <find>field-slideshow-wra</find>
+      <find>field-slideshow-wrap</find>
+      <find>field-slideshow-wrapper</find>
+      <find>&quot;field-slideshow-wrapper</find>
+      <find>even</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/sites/all/modules/colorbox/js</dir>
@@ -163,9 +145,10 @@
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-field--eventlist--page--field-where.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/progressive.info" />
         <option value="$PROJECT_DIR$/sites/all/modules/field_slideshow/field_slideshow.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/progressive/css/responsive.css" />
+        <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-field--eventlist--page--field-images-events.tpl..php" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/field_slideshow.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css" />
-        <option value="$PROJECT_DIR$/sites/all/themes/progressive/css/responsive.css" />
       </list>
     </option>
   </component>
@@ -183,8 +166,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -201,25 +184,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemId" value="CasinodiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemId" value="CasinodiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemId" value="CasinodiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemId" value="CasinodiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -229,29 +214,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemId" value="CasinodiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sites" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast.dd" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemId" value="CasinodiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -265,11 +232,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemId" value="CasinodiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemId" value="CasinodiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -291,11 +258,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemId" value="CasinodiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemId" value="CasinodiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -321,11 +288,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemId" value="CasinodiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemId" value="CasinodiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -351,11 +318,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemId" value="CasinodiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemId" value="CasinodiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -373,11 +340,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemId" value="CasinodiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemId" value="CasinodiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -395,67 +362,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemId" value="CasinodiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sites" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="all" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sites" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="all" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theme" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
+              <option name="myItemId" value="CasinodiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -475,24 +386,8 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CasinoDiVeneziaLast" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="includes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -635,33 +530,35 @@
       <workItem from="1504531383882" duration="4036000" />
       <workItem from="1504537701778" duration="63000" />
       <workItem from="1504538716086" duration="676000" />
+      <workItem from="1504613625495" duration="4201000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86378000" />
+    <option name="totallyTimeSpent" value="90579000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31736112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31969818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31535757" sideWeight="0.51111114" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31473213" sideWeight="0.51111114" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3416557" sideWeight="0.4923611" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298292" sideWeight="0.49722221" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3416557" sideWeight="0.4923611" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3561104" sideWeight="0.4888889" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31887457" sideWeight="0.49305555" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298292" sideWeight="0.49722221" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -679,19 +576,22 @@
           <line>76</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/sites/all/themes/progressive/templates/field_slideshow.tpl.php</url>
+          <line>17</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/sites/all/themes/progressive/templates/field_slideshow.tpl.php</url>
+          <line>13</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="55" />
+      <option name="time" value="57" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/progressive_cms/progressive_content/progressive_content.module">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/modules/progressive_cms/progressive_content/progressive_content.info">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2737">
@@ -862,13 +762,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/CasinoDiVeneziaLast.dd/files/advagg_css/css__684ZHDEDdxGtRjY8GG9A-TyX5g8D6B9atrVzYBLVDMU__y4w4dikRhyZhJxBzDTDscNwcBRdkb9Ryl5e5YrQ7mbs__m80SZwTYybbTIg4ePWjcOjDCeV__KQKm2Sgok7OHgI4.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="258" column="16094" lean-forward="false" selection-start-line="258" selection-start-column="16094" selection-end-line="258" selection-end-column="16094" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/CasinoDiVeneziaLast.dd/files/advagg_css/css__684ZHDEDdxGtRjY8GG9A-TyX5g8D6B9atrVzYBLVDMU__y4w4dikRhyZhJxBzDTDscNwcBRdkb9Ryl5e5YrQ7mbs__m80SZwTYybbTIg4ePWjcOjDCeV__KQKm2Sgok7OHgI4.css" />
     <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--fourblock--block-3.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -994,51 +888,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/progressive.info">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="35" lean-forward="false" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        <state relative-caret-position="480">
+          <caret line="32" column="34" lean-forward="false" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-field--eventlist--page--field-images-events.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="17" column="95" lean-forward="true" selection-start-line="17" selection-start-column="95" selection-end-line="17" selection-end-column="112" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/field_slideshow/field_slideshow.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1954" column="16" lean-forward="false" selection-start-line="1954" selection-start-column="16" selection-end-line="1954" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/field_slideshow.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="103" lean-forward="false" selection-start-line="17" selection-start-column="103" selection-end-line="17" selection-end-column="103" />
-          <folding>
-            <marker date="1504538095000" expanded="true" signature="298:320" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="381:1819" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="391:455" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="466:524" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="535:786" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="631:686" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="694:784" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="809:826" ph="..." />
-            <marker date="1504538095000" expanded="false" signature="837:859" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="842:857" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="860:1667" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="871:1655" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="907:1643" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="934:959" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="967:1017" ph="..." />
-            <marker date="1504538095000" expanded="false" signature="990:1003" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="1034:1057" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="1073:1315" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="1130:1308" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="1180:1292" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="1242:1267" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="1341:1377" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="1431:1581" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="1432:1568" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="1607:1617" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="1679:1742" ph="..." />
-            <marker date="1504538095000" expanded="true" signature="1753:1810" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/field_slideshow/field_slideshow.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="171">
           <caret line="17" column="94" lean-forward="false" selection-start-line="17" selection-start-column="94" selection-end-line="17" selection-end-column="94" />
           <folding />
         </state>
@@ -1046,16 +928,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="549" column="16" lean-forward="false" selection-start-line="549" selection-start-column="16" selection-end-line="549" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="1926" column="16" lean-forward="true" selection-start-line="1926" selection-start-column="16" selection-end-line="1926" selection-end-column="16" />
+        <state relative-caret-position="427">
+          <caret line="121" column="27" lean-forward="true" selection-start-line="121" selection-start-column="27" selection-end-line="121" selection-end-column="27" />
           <folding />
         </state>
       </provider>

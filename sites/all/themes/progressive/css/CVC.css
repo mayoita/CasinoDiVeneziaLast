@@ -57,11 +57,30 @@ p, span, a {
     width: 100%;
     height: 100%;
 }
+
 /* Edit Event Form */
 .group-mobile {
     background-color: #60bbe6;
     padding: 20px;
 }
+ .page-box-content {
+    background-image: url('/sites/all/themes/progressive/img/trama.png');
+     background-color: #ffffff;
+}
+ .node-type-game .nd-region>.container {
+     background-color: #ffffff;
+ }
+ .page-events .nd-region>.container {
+     background-color: #ffffff;
+     padding-top: 40px;
+ }
+
+ .front  .page-box-content {
+     background-image: none;
+ }
+ .front .nd-region {
+     padding-top: 0px;
+ }
 /* Colors */
 .view-id-PromozioniUtente .view-content, .myoffers, .mymessage,#user-profile-form  .fieldset-legend,
 #user-profile-form #edit-account label,
@@ -86,11 +105,21 @@ p, span, a {
 .badgeEvents,
 h5 a,
 .linkEvent a,
-.labelWW{
+.labelWW,
+.more-link a, .item-list li a:hover,
+.body-margin-bottom a,
+#block-block-32 h6,
+#block-block-33 h6
+{
     color: #c79c60!important;
 }
-.page-events a{
-    color: black;
+#block-block-32 h6,
+#block-block-33 h6{
+    font-weight: bold;
+}
+
+.colonna-event-list a{
+    color: black!important;
 }
 #sidebar  .block {
     border-bottom: 4px solid #c79c60;
@@ -117,9 +146,7 @@ display: none!important;
 .field-name-field-headercontent>div>div {
     border-bottom: 8px solid #c79c60;
 }
-.node-type-events .page-box-content {
-    background-image: url('/sites/all/themes/progressive/img/trama.png');
-}
+
 .agree-button {
     background: none!important;
     border: none!important;
@@ -135,10 +162,7 @@ display: none!important;
     background-color: white!important;
 }
 
-.more-link a, .item-list li a:hover,
-.field-content.cinzel a, a, a:visited{
-    color: #d10000; /* oro #c79c60 */
-}
+
 .phone-header a svg path {
     fill:#d10000;
 }
@@ -217,6 +241,11 @@ background-color: #252525!important;
     0%{opacity:0}
     80%{opacity:0}
     100%{opacity:1}
+}
+/* Blocco Dove giocare*/
+#block-block-32 p, #block-block-32 h6,
+#block-block-33 p, #block-block-33 h6{
+    margin-bottom: 0px;
 }
 /* Blocco Home */
 .titoloHome {
@@ -510,7 +539,12 @@ margin-top: 0px;
 #block-views-fourblock-block-5 .title-box{
     text-align: center;
 }
-
+.colonna-event-list img {
+    margin-right: 10px;
+}
+.body-margin-bottom {
+    margin-bottom: 10px;
+}
 /* Black style */
 .node-type-event  .breadcrumb-box {
     background: black;
@@ -1077,9 +1111,7 @@ li.clubcard-right a{
     background-color: white;
     margin-bottom: 20px;
 }
-.view-eventlist .views-row .views-fieldset, .view-promotionslist .views-row .views-fieldset{
-    margin: 10px 0px;
-} 
+
 .view-eventlist .views-row .col-md-3.views-fieldset, .view-promotionslist .views-row .col-md-3.views-fieldset{
     text-align: center;
 } 

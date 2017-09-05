@@ -15,7 +15,7 @@ if (!isset($pager_position)) {
   $pager_position = "after";
 }
 ?>
-<div id="field-slideshow-<?php print $slideshow_id; ?>-wrapper" class="field-slideshow-wrapper col-xs-5 col-md-3">
+<div id="field-slideshow-<?php print $slideshow_id; ?>-wrapper" class="field-slideshow-wrapper">
 
   <?php if ($controls_position == "before")  print(render($controls)); ?>
 

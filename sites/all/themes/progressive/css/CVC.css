@@ -57,7 +57,9 @@ p, span, a {
     width: 100%;
     height: 100%;
 }
-
+.mb_YTPlayer {
+    display: block!important;
+}
 /* Edit Event Form */
 .group-mobile {
     background-color: #60bbe6;
@@ -67,13 +69,8 @@ p, span, a {
     background-image: url('/sites/all/themes/progressive/img/trama.png');
      background-color: #ffffff;
 }
- .node-type-game .nd-region>.container {
-     background-color: #ffffff;
- }
- .page-events .nd-region>.container {
-     background-color: #ffffff;
-     padding-top: 40px;
- }
+
+
 
  .front  .page-box-content {
      background-image: none;
@@ -96,8 +93,10 @@ p, span, a {
 .lineaoro,
 .title-box:before,
 .field-name-field-headercontent p,
-.a2a_svg {
-  background-color: #c79c60!important;  /* oro #c79c60 */
+.a2a_svg,
+.EventsGamesTop p,
+.image_overlay .description{
+  background-color: #847552!important;  /* oro #847552 */
 }
 .node-type-events h3,
 .wrapping-events-icons .field-label-above b,
@@ -109,9 +108,20 @@ h5 a,
 .more-link a, .item-list li a:hover,
 .body-margin-bottom a,
 #block-block-32 h6,
-#block-block-33 h6
+#block-block-33 h6,
+.fourBlockTitle,
+.introGame+a,
+.introGame a,
+.panel-group .panel .panel-heading > .panel-title > a,
+.panel-group .active.panel > .panel-heading > .panel-title > a,
+.panel-group .active.panel > .panel-heading > .panel-title > a:hover,
+.caption+div h4
+
 {
-    color: #c79c60!important;
+    color: #847552!important;
+}
+.panel-title a {
+    font-size: 16px;
 }
 #block-block-32 h6,
 #block-block-33 h6{
@@ -121,9 +131,12 @@ h5 a,
 .colonna-event-list a{
     color: black!important;
 }
-#sidebar  .block {
-    border-bottom: 4px solid #c79c60;
-
+/* Sidebar */
+.sidebar .widget {
+    margin: 0 0 30px;
+}
+.sidebar .title-box {
+    margin-bottom: 10px!important;
 }
 .header .primary .sub a {
  color:#8e8c8c;
@@ -134,7 +147,8 @@ h5 a,
 .find-more-button {
 display: none!important;
 }
-.field-name-field-headercontent p {
+.field-name-field-headercontent p,
+.EventsGamesTop p{
     color: white;
     font-size: 30px;
     padding-right: 100px;
@@ -143,8 +157,19 @@ display: none!important;
     padding-bottom: 10px;
     display: inline-block;
 }
-.field-name-field-headercontent>div>div {
-    border-bottom: 8px solid #c79c60;
+.field-name-field-headercontent>div>div,
+.EventsGamesTop>div>div
+{
+    border-bottom: 8px solid #847552;
+}
+.page-node-376 #content {
+    border-top: 8px solid #847552;
+    border-bottom: 8px solid #847552;
+    padding-top: 30px;
+    background-color: white;
+}
+#block-views-eventstop-block .title-box {
+    display: none;
 }
 
 .agree-button {
@@ -271,7 +296,7 @@ background-color: #252525!important;
     width: 60px;
     height: 60px;
     border-style: solid;
-    border-color: #c79c60;
+    border-color: #847552;
     border-width: 2px;
     border-radius: 50%;
     background-color: white;
@@ -283,7 +308,7 @@ background-color: #252525!important;
 .circleEventDate span, .notify-badge span {
     display:table-cell;
     vertical-align:middle;
-    color: #c79c60;
+    color: #847552;
     font-weight: bold;
     text-align: center;
     font-size: 14px;
@@ -435,12 +460,143 @@ margin-top: 0px;
     border:none;
     border-bottom: #efe4cd 1px solid;
 }
-/*Eventi*/
+/* Blocco EventList */
+#block-views-eventlist-block-1 .title-box,
+#block-views-eventlist-block-2 .title-box,
+#block-views-eventlist-block-4 .title-box,
+#block-views-eventlist-block-5 .title-box{
+    text-align: center;
+}
+#block-views-eventlist-block-1,
+.node-type-game #block-views-eventlist-block-4{
+    background: white;
+    margin-top: 50px;
+    padding-top: 40px;
+    border-top: 5px solid #847552;
+    border-bottom: 5px solid #847552;
+}
+#bottom {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.views-row + .more-link,
+.row + .more-link{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+.views-row + .more-link a,
+.row + .more-link a{
+    border: 2px solid #847552;
+    padding: 10px;
+}
+/* Blocco GameList*/
+.introGame+a,
+.introGame a{
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+.view-display-id-block_2 .col-md-3 {
+    text-align: center;
+}
+.introGame{
+    text-align: justify;
+}
+.rigaBloccoInfo,
+.views-field-field-hold-text,
+.views-field-field-rtp-text{
+    margin-bottom: 20px;
+}
+.rigaBloccoInfo .views-field-field-titolo {
+    font-weight: bold;
+}
+.views-field-field-hold .field-content,
+.views-field-field-rtp .field-content,
+.views-field-field-cagnotte .field-content
+{
+    display: inline;
+}
+#block-views-dovegiocare-block:before {
+    content: url(/sites/default/files/dove.svg);
+    display: block;
+    width: 25px;
+}
+#block-views-orari-apertura-block:before,
+#block-views-orarisedi-block:before,
+#block-views-orarisedi-block-1:before{
+    content: url(/sites/default/files/time.svg);
+    display: block;
+    width: 30px;
+}
+#block-views-probabilit-di-vincita-block:before {
+    content: url(/sites/default/files/percent.svg);
+    display: block;
+    width: 30px;
+}
+.image_overlay {
+    margin-bottom: 35px!important;
+}
+.image_overlay .description {
+    text-align: center;
+    margin: 0px 100px;
+    font-size: 23px!important;
+    line-height: 22px;
+    padding: 23px!important;
+}
+.image_overlay img {
+    border-bottom: 8px solid #847552;
+}
+.BloccoBody {
+    padding: 40px;
+    background-color: white;
+    margin: 40px;
+    font-size: 16px;
+}
+
+.panel-group > .panel-default > .panel-heading > .panel-title > a,
+.panel-group .active.panel > .panel-heading > .panel-title > a{
+    background-color: #ffffff!important;
+}
+.panel-group .panel .panel-heading > .panel-title > a:before,
+.panel-group .panel .panel-heading > .panel-title > a:after {
+    content: url(/sites/default/files/apri.svg)!important;
+    display: block;
+    width: 25px;
+    margin: 8px 0 0 15px;
+    height: 0px;
+}
+
+.panel-group .active.panel > .panel-heading > .panel-title > a:before,
+.panel-group .active.panel > .panel-heading > .panel-title > a:after{
+    content: url(/sites/default/files/chiudi.svg)!important;
+}
+
+    /*Eventi*/
 .node-type-events h3 {
     margin-top: 30px;
 }
-.node-type-events #Content {
+.node-type-events #content,
+.node-type-events #sidebar,
+.node-type-contenitorepagina #content,
+.node-type-contenitorepagina #sidebar,
+.node-type-game #content,
+.node-type-game #sidebar
+{
     background-color: white;
+}
+.node-type-events #sidebar,
+.node-type-contenitorepagina #sidebar,
+.node-type-game #sidebar {
+    padding: 0 30px 0 30px;
+}
+.node-type-events #content,
+.node-type-contenitorepagina #content,
+.node-type-game #content{
+    padding-left: 50px;
+    padding-right: 50px;
 }
 .links.inline {
     padding-left: 0px;
@@ -480,7 +636,7 @@ margin-top: 0px;
     width: 35px;
 }
 .events-icons a svg path, .events-icons-dove a svg path {
-     fill: #c79c60;
+     fill: #847552;
 }
 .wrapping-events-icons a:hover, .wrapping-events-icons a:focus {
     text-decoration: none;
@@ -498,7 +654,7 @@ margin-top: 0px;
     margin-bottom: 50px;
 }
 #block-views-fourblock-block-4, #block-views-fourblock-block-5 {
-    border-top: 5px solid #c79c60;
+    border-top: 5px solid #847552;
     padding-top: 50px;
 }
 .title-box {
@@ -507,6 +663,7 @@ margin-top: 0px;
 .view-display-id-block_4 .slick-list{
     padding-bottom: 20px;
 }
+
 #block-views-fourblock-block-4,
 #block-views-fourblock-block-5{
     padding: 0px 20px 0px 20px;
@@ -527,12 +684,12 @@ margin-top: 0px;
     padding:18px 10px;
     z-index: 10;
     border-style: solid;
-    border-color: #c79c60;
+    border-color: #847552;
     border-width: 2px;
     border-radius: 50%;
 }
 
-.slick-slide .fourBlockTitle {
+.fourBlockTitle {
     text-align: center;
 }
 #block-views-fourblock-block-4 .title-box,
@@ -567,6 +724,7 @@ h5 a{
 }
 .view-eventlist p {
     margin-bottom: 0px;
+    text-align: justify;
 }
 
 .colonna-event-list .view-eventlist img {
@@ -707,7 +865,7 @@ background-color: transparent;
     font-size: 20px;
     text-align: center;
     line-height: 32px;
-    border-bottom: 2px solid #c79c60;
+    border-bottom: 2px solid #847552;
     font-family: "open_sansbold";
     color: #333;
     letter-spacing: 0.16em;
@@ -734,14 +892,14 @@ background-color: transparent;
 .menu-heading .titleApp:after {
     position: absolute;
     bottom: 8px;
-    border-bottom: 1px dotted #c79c60;
+    border-bottom: 1px dotted #847552;
     width: 1000px;
     content: "";
     left: 100%;
 }
 .menu-heading .price {
     float: right;
-    color: #c79c60;
+    color: #847552;
     font-weight: 700;
     font-size: 18px;
     margin-top: 5px;
@@ -972,7 +1130,21 @@ li.clubcard-right a{
  .node-type-game .title-box.title-h1 {
     display: none;
  }
- .SlotFocus {
+
+#block-views-eventlist-block-4 .title-box.title-h1,
+#block-views-eventlist-block-5 .title-box.title-h1{
+    display: block;
+}
+.page-node-376 .caption {
+    margin-bottom: 0px;
+}
+.page-node-376 .view-display-id-block_4,
+.view-display-id-block_5{
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.SlotFocus {
     text-align: center;
  }
  .views-field-field-titolofocus {
@@ -1062,11 +1234,11 @@ li.clubcard-right a{
 }
 #sidebar .view-slotfocus, .dcsns {
     border-style: solid;
-    border-top-color: #c79c60;
+    border-top-color: #847552;
     border-top-width: 1px;
 
     border-bottom-width: 5px;
-    border-bottom-color:#c79c60 ;
+    border-bottom-color:#847552 ;
     background-color: #E5E5E5;
 }
 #tb-megamenu-column-5 .views-field-field-titolofocus, #tb-megamenu-column-5 .views-field-field-introfocus{
@@ -1086,7 +1258,7 @@ li.clubcard-right a{
     color: white;
 }
 .gold_title {
-    color: #c79c60;
+    color: #847552;
     font-size: 50px;
     line-height: 0.8;
     padding-bottom: 15px;
@@ -1153,5 +1325,65 @@ li.clubcard-right a{
   margin-top: -10px;
 }
 
+/* Scroll down button */
+.demo a {
+    color: transparent;
+    position: absolute;
+    bottom: -100px;
+    left: 50%;
+    z-index: 2;
+    display: inline-block;
+    -webkit-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    font: normal 400 20px/1 'Josefin Sans', sans-serif;
+    letter-spacing: .1em;
+    text-decoration: none;
+    transition: opacity .3s;
+}
 
+
+#section05 a {
+    padding-top: 70px;
+}
+#section05 a span {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 24px;
+    height: 24px;
+    margin-left: -12px;
+    border-left: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    -webkit-animation: sdb05 1.5s infinite;
+    animation: sdb05 1.5s infinite;
+    box-sizing: border-box;
+}
+@-webkit-keyframes sdb05 {
+    0% {
+        -webkit-transform: rotate(-45deg) translate(0, 0);
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        -webkit-transform: rotate(-45deg) translate(-20px, 20px);
+        opacity: 0;
+    }
+}
+@keyframes sdb05 {
+    0% {
+        transform: rotate(-45deg) translate(0, 0);
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        transform: rotate(-45deg) translate(-20px, 20px);
+        opacity: 0;
+    }
+}
 

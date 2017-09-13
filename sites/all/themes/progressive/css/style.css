@@ -2078,14 +2078,14 @@ blockquote small {
 .panel-group .panel .panel-heading > .panel-title > a:before,
 .panel-group .panel .panel-heading > .panel-title > a:after {
   background: #1e1e1e;
-  content: "";
+  /* content: ""; */
   display: block;
-  height: 2px;
+  height: 0px; /* 2px */
   left: 0;
   margin: 19px 0 0 15px;
   position: absolute;
   top: 0;
-  width: 16px;
+  width: 24px;
 }
 .panel-group .panel .panel-heading > .panel-title > a:after {
   height: 16px;

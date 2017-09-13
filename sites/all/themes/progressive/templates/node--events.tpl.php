@@ -74,6 +74,10 @@
  * @see template_process()
  */
 ?>
+    <div class="container">
+        <?php print render($breadcrumb);?>
+
+    </div>
 <?php if(!$teaser): ?>
   <?php if (!$page): ?>
     <article id="node-<?php print $node->nid; ?>" class="<?php print $classes; ?> clearfix"<?php print $attributes; ?>>
@@ -85,7 +89,7 @@
       <span class="submitted"><?php print $submitted; ?></span>
     <?php endif; ?>
 
-
+    <?php print render($content['links']); ?>
     <div class="wrapping-events-icons">
         <div class="col-md-4">
         <div class="events-icons-dove">
@@ -149,6 +153,7 @@
         // Hide comments, tags, and links now so that we can render them later.
         hide($content['comments']);
         hide($content['links']['comment']);
+
         print render($content);
       ?>
     </div>

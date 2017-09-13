@@ -9,6 +9,7 @@
 
       <div class = "container<?php print (isset($row['settings']['full_width']) && $row['settings']['full_width']) ? '-fluid' : ''; ?>">
 
+
         <div <?php print drupal_attributes($row['attributes']); ?>>     
 
           <?php foreach($layout['regions'] as $region_key => $region):?>
@@ -20,6 +21,11 @@
                 
                 <?php print isset($region['settings']['prefix']) ? $region['settings']['prefix'] : ''; ?>
                 <?php print $region['content']; ?>
+                <?php if ($region['name'] == "Content Top"): ?>
+
+                    <div class="container"><?php print $variables['vars']['breadcrumb'];?></div>
+
+                <?php endif; ?>
                 <?php print isset($region['settings']['suffix']) ? $region['settings']['suffix'] : ''; ?>
 
               <?php if($region['settings']['tag']): ?>

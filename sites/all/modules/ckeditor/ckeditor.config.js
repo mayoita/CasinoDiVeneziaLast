@@ -53,6 +53,7 @@ CKEDITOR.editorConfig = function(config) {
     */
   config.bodyClass = '';
   config.bodyId = '';
+  config.extraAllowedContent = 'span(*)';
   /**
     * Sample bodyClass and BodyId for the "marinelli" theme.
     */

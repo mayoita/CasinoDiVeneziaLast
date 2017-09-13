@@ -1,4 +1,0 @@
-name = Firebase
-description = Upload events, promotions and tournaments on Firebase CMV Gioco
-package = Firebase
-core = 7.x

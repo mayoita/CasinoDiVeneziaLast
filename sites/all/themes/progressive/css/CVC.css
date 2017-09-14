@@ -115,11 +115,57 @@ h5 a,
 .panel-group .panel .panel-heading > .panel-title > a,
 .panel-group .active.panel > .panel-heading > .panel-title > a,
 .panel-group .active.panel > .panel-heading > .panel-title > a:hover,
-.caption+div h4
-
+.caption+div h4, #block-block-32 h5,
+#block-block-32 a:before,
+#block-block-32 a,
+.views-field-field-tipogioco
 {
     color: #847552!important;
 }
+/* Blocco Info  Sede*/
+.rigaInterna {
+    padding: 50px;
+    background-color: white;
+}
+
+#block-block-32,
+#block-block-32-2{
+    margin-top: 20px;
+}
+#block-block-32 h5,
+#block-block-32-2 h5,
+#block-views-orarisedi-block .title-box{
+    margin-bottom: 0px;
+}
+.view-orarisedi {
+    margin-top: -12px;
+}
+.view-orarisedi .views-row-1 {
+    margin-bottom: 20px;
+}
+#block-block-32 p {
+    margin-top: -5px;
+}
+#block-block-32 .iconaBloccoSedi {
+    margin-bottom: 5px;
+}
+#block-block-32 a {
+    text-decoration:none;
+}
+
+#block-block-32 a:hover {
+    text-decoration:underline;
+}
+#block-block-32 .title-box {
+    display: none;
+}
+
+/* Lets add an arrow after each link */
+#block-block-32 a:before {
+
+    content: "\2192"; /* Unicode hex for &raquo; */
+}
+/*  */
 .panel-title a {
     font-size: 16px;
 }
@@ -163,13 +209,39 @@ display: none!important;
     border-bottom: 8px solid #847552;
 }
 .page-node-376 #content {
-    border-top: 8px solid #847552;
-    border-bottom: 8px solid #847552;
+
     padding-top: 30px;
     background-color: white;
 }
+.rigaInterna,
+.page-node-376 #content,
+#block-views-eventlist-block-1,
+.node-type-game #block-views-eventlist-block-4,
+#block-views-fourblock-block-4,
+#block-views-fourblock-block-5{
+    border-top: 8px solid #847552;
+    border-bottom: 8px solid #847552;
+}
+.page-node-377 #block-views-eventlist-block-1 {
+    border: none;
+}
+
 #block-views-eventstop-block .title-box {
     display: none;
+}
+#block-views-fourblock-block-4,
+#block-views-fourblock-block-5 {
+    border-top: 8px solid #847552;
+    background-color: white;
+}
+#block-views-fourblock-block-4 .title-box,
+#block-views-fourblock-block-5 .title-box {
+    margin-bottom: 0px;
+}
+#block-views-fourblock-block-4 .block-content,
+#block-views-fourblock-block-5 .block-content {
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .agree-button {
@@ -472,8 +544,9 @@ margin-top: 0px;
     background: white;
     margin-top: 50px;
     padding-top: 40px;
-    border-top: 5px solid #847552;
-    border-bottom: 5px solid #847552;
+}
+.page-node-377 #block-views-eventlist-block-1 {
+    background: transparent;
 }
 #bottom {
     padding-left: 0px;
@@ -549,7 +622,9 @@ margin-top: 0px;
 .image_overlay img {
     border-bottom: 8px solid #847552;
 }
-.BloccoBody {
+.BloccoBody,
+.page-node-377 #block-views-orarisedi-block,
+.page-node-377 #block-views-orarisedi-block-1{
     padding: 40px;
     background-color: white;
     margin: 40px;
@@ -653,10 +728,7 @@ margin-top: 0px;
     margin-top: 50px;
     margin-bottom: 50px;
 }
-#block-views-fourblock-block-4, #block-views-fourblock-block-5 {
-    border-top: 5px solid #847552;
-    padding-top: 50px;
-}
+
 .title-box {
     border: none;
 }
@@ -664,10 +736,7 @@ margin-top: 0px;
     padding-bottom: 20px;
 }
 
-#block-views-fourblock-block-4,
-#block-views-fourblock-block-5{
-    padding: 0px 20px 0px 20px;
-}
+
 
 .item {
     position:relative;
@@ -1283,7 +1352,9 @@ li.clubcard-right a{
     background-color: white;
     margin-bottom: 20px;
 }
-
+.page-node-377 .view-eventlist .views-row {
+    background: transparent;
+}
 .view-eventlist .views-row .col-md-3.views-fieldset, .view-promotionslist .views-row .col-md-3.views-fieldset{
     text-align: center;
 } 

@@ -1293,7 +1293,7 @@ function initialize() {
 	};
   
 	var map = new google.maps.Map($this[0], mapOptions);
-	var image = Drupal.settings.basePath + Drupal.settings.theme_path + '/img/svg/map-marker.png';
+	var image = Drupal.settings.basePath + Drupal.settings.theme_path + '/img/svg/map-marker.svg';
 	
 	if (dataContent !== undefined && dataContent !== false) {
 	  contentString = '<div class="map-content">' +
@@ -1466,7 +1466,7 @@ function slick_event_list() {
         dots: true,
         infinite: true,
         rows: 1,
-        slidesToShow: 3,
+        slidesToShow: 4,
         slidesToScroll: 3,
         responsive: [{
             breakpoint: 1024,

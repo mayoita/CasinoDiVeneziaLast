@@ -7,7 +7,7 @@
  */
 ?>
 
-<section class="event_list">
+<section class="regular">
     <?php foreach ($rows as $row_number => $columns): ?>
         <?php foreach ($columns as $column_number => $item): ?>
                     <?php print $item; ?>

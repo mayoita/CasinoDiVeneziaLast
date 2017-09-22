@@ -35,6 +35,7 @@ var getYTPVideoID = function( url ) {
 	} else if( url.indexOf( "http" ) > -1 ) {
 		//videoID = url.match( /([\/&]v\/([^&#]*))|([\\?&]v=([^&#]*))/ )[ 1 ];
 		videoID = url.match( /[\\?&]v=([^&#]*)/ )[ 1 ];
+        //videoID = url.match( /[\\?&]v=([^&#]*)/ );
 		playlistID = url.indexOf( "list=" ) > 0 ? url.match( /[\\?&]list=([^&#]*)/ )[ 1 ] : null;
 	} else {
 		videoID = url.length > 15 ? null : url;

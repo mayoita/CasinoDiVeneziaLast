@@ -70,22 +70,54 @@ p, span, a {
      background-color: #ffffff;
 }
 
-
+.view-footer {
+    padding: 10px;
+    border: 2px solid #847552;
+    text-align: center;
+    width: 30%;
+    margin: 20px auto;
+}
+#block-views-eventlist-block-6 .view-footer{
+    width: 50%;
+}
+.titleViewFooter,
+.titleViewFooter:hover{
+    text-decoration: none;
+}
 
  .front  .page-box-content {
      background-image: none;
  }
- .front .nd-region {
+ .front .nd-region,
+ .page-node-377 .nd-region{
      padding-top: 0px;
  }
+ .page-node-377 .block-content h2,
+ #block-block-34 .title-box,
+ #block-block-32 .title-box,
+ #block-block-33 .title-box,
+ #block-block-35 .title-box,
+ #block-block-36 .title-box,
+ #block-block-37 .title-box,
+ #block-views-eventstop-block .title-box{
+     display: none;
+ }
 /* Colors */
+html{
+    --oro:#847552;
+}
 .view-id-PromozioniUtente .view-content, .myoffers, .mymessage,#user-profile-form  .fieldset-legend,
 #user-profile-form #edit-account label,
 #user-profile-form .help-block
 {
-    color: #6D381B;
+    color: var(--oro);
 }
-
+.bordoBottom {
+    border-bottom: 2px solid var(--oro);
+}
+.bordoTop {
+    border-top: 2px solid var(--oro);
+}
 .fixed-header .header-wrapper,
 .BlogDate,
 .sidebar .tags a,
@@ -95,10 +127,54 @@ p, span, a {
 .field-name-field-headercontent p,
 .a2a_svg,
 .EventsGamesTop p,
-.image_overlay .description{
+.image_overlay .description,
+.TitoloHeader,
+.table > thead > tr.testa > th,
+td.danger, .table > tbody > tr > td.intestazioneRiga{
   background-color: #847552!important;  /* oro #847552 */
 }
+.contenitoreTabella td {
+    background-color: #eeece7;
+    border: 1px solid white;
+}
+.contenitoreTabella .primaRiga td{
+    background-color: #c1baa8;
+
+}
+
+.table > thead > tr.testa > th,
+td.danger, .table > tbody > tr > td.intestazioneRiga {
+    color: white;
+}
+
+td.danger, .table > tbody > tr > td.intestazioneRiga {
+    font-weight: bold;
+}
+.page-node-285 .field-name-body {
+    background: white;
+    padding: 30px;
+}
+.view-eventstop p {
+    display: none;
+}
+.TitoloHeader {
+    text-align: center;
+    position: relative;
+    padding: 15px;
+    margin: 0 auto;
+    /*width: 30%;*/
+    display: inline;
+    top: -44px;
+   color: white;
+    z-index: 10;
+}
+.headerInList .content-block {
+    padding: 0px;
+
+}
 .node-type-events h3,
+.node-type-tournaments h3,
+.node-type-promo h3,
 .wrapping-events-icons .field-label-above b,
 .title-box .title,
 .badgeEvents,
@@ -115,27 +191,136 @@ h5 a,
 .panel-group .panel .panel-heading > .panel-title > a,
 .panel-group .active.panel > .panel-heading > .panel-title > a,
 .panel-group .active.panel > .panel-heading > .panel-title > a:hover,
-.caption+div h4, #block-block-32 h5,
-#block-block-32 a:before,
-#block-block-32 a,
-.views-field-field-tipogioco
+.caption+div h4,
+#block-block-32 h5,#block-block-33 h5,
+#block-block-32 a:before, #block-block-33 a:before,
+#block-block-32 a, #block-block-33 a,
+.views-field-field-tipogioco,
+#block-block-35 h5,
+#block-block-36 h5,
+#block-block-37 h5,
+.titleViewFooter,
+#Footer-Top i,
+.coloreOro,
+.coloreOro a,
+.coloreOro a:hover,
+.webform-client-form,
+#block-block-42 label,
+.header .primary .navbar .nav > li:hover > a,
+.header .primary .sub a,
+.node-type-contenitorepagina h4 a,
+.node-type-contenitorepagina h4 a:hover
 {
-    color: #847552!important;
+    color: var(--oro)!important;
+
 }
+.bordoOro {
+    border: 1px solid var(--oro);
+    padding: 10px 20px;
+}
+.altezzaDress {
+    height: 260px;
+}
+.view-display-id-block_1 .views-field-nid {
+    margin: 20px 0px;
+    text-align: center;
+}
+
+/* Newsletter */
+#mc-embedded-subscribe {
+    margin-top: 20px!important;
+    background-color: var(--oro)!important;
+}
+.mc-field-group.input-group {
+
+    min-height: 20px!important;
+}
+.mc-field-group {
+    padding-bottom: 0px!important;
+}
+.mc-field-group.input-group ul{
+    float: left;
+}
+.mc-field-group.input-group p,
+.mc-field-group.input-group label{
+    display: none!important;
+}
+
 /* Blocco Info  Sede*/
-.rigaInterna {
+.rigaInterna
+{
     padding: 50px;
     background-color: white;
 }
 
+.contenitoreBianco,
+#block-block-42 .block-content,
+#block-views-fourblock-block-3{
+    padding: 50px;
+}
+
+.node-type-sede .contenitoreBianco {
+    margin-bottom: 50px;
+    padding: 50px!important;
+}
+
 #block-block-32,
-#block-block-32-2{
+#block-block-33{
     margin-top: 20px;
 }
 #block-block-32 h5,
-#block-block-32-2 h5,
-#block-views-orarisedi-block .title-box{
+#block-block-33 h5,
+#block-block-33 p,
+#block-views-orarisedi-block .title-box,
+#block-views-orarisedi-block-1 .title-box{
     margin-bottom: 0px;
+}
+#block-block-33 h6 {
+    margin-bottom: 5px;
+}
+#block-views-slotcalendar-block p, #block-views-slotcalendar-block h6,
+#block-views-slotcalendar-block-1 h6{
+    text-align: center;
+}
+.view-display-id-block_1 .views-field-body p {
+    text-align: justify;
+}
+.view-slotcalendar h6 {
+    margin: 10px 0px;
+
+}
+/* eventsTop */
+#block-views-eventstop-block {
+    margin-bottom: -30px;
+}
+.view-eventstop {
+    text-align: center;
+}
+.view-eventstop .caption+p,
+.view-eventstop .video-box+p,
+.view-eventstop .block-md-slider+p{
+    margin-bottom: 0px;
+}
+
+.view-eventstop #section05 {
+    left: 50%;
+    position: absolute;
+    bottom: 300px;
+    z-index: 100;
+}
+.view-eventstop .caption {
+    display: block;
+    margin-bottom: 0px;
+}
+.view-eventstop .caption img{
+    width: 100%;
+    margin: 0px;
+}
+.view-eventstop .content-block {
+    padding: 0px;
+}
+.col-xs-5.col-md-3 .content-block {
+    padding: 0px;
 }
 .view-orarisedi {
     margin-top: -12px;
@@ -143,25 +328,24 @@ h5 a,
 .view-orarisedi .views-row-1 {
     margin-bottom: 20px;
 }
-#block-block-32 p {
+.page-node-378 .block-block p{
     margin-top: -5px;
 }
-#block-block-32 .iconaBloccoSedi {
+.page-node-378 .block-block .iconaBloccoSedi
+{
     margin-bottom: 5px;
 }
-#block-block-32 a {
+.page-node-378 .block-block a{
     text-decoration:none;
 }
 
-#block-block-32 a:hover {
+.page-node-378 .block-block a:hover{
     text-decoration:underline;
 }
-#block-block-32 .title-box {
-    display: none;
-}
+
 
 /* Lets add an arrow after each link */
-#block-block-32 a:before {
+.page-node-378 .block-block a:before {
 
     content: "\2192"; /* Unicode hex for &raquo; */
 }
@@ -169,8 +353,7 @@ h5 a,
 .panel-title a {
     font-size: 16px;
 }
-#block-block-32 h6,
-#block-block-33 h6{
+.page-node-378 .block-block h6{
     font-weight: bold;
 }
 
@@ -204,9 +387,18 @@ display: none!important;
     display: inline-block;
 }
 .field-name-field-headercontent>div>div,
-.EventsGamesTop>div>div
+.EventsGamesTop>div>div,
+.view-eventstop .content-block,
+.image_overlay img,
+.bordoBottom8,
+.page-node-387 div#content.col-md-12,
+.page-node-376 #content
+
 {
     border-bottom: 8px solid #847552;
+}
+.page-node-387 div#content.col-md-12 {
+    padding-bottom: 50px;
 }
 .page-node-376 #content {
 
@@ -214,7 +406,6 @@ display: none!important;
     background-color: white;
 }
 .rigaInterna,
-.page-node-376 #content,
 #block-views-eventlist-block-1,
 .node-type-game #block-views-eventlist-block-4,
 #block-views-fourblock-block-4,
@@ -225,9 +416,11 @@ display: none!important;
 .page-node-377 #block-views-eventlist-block-1 {
     border: none;
 }
-
-#block-views-eventstop-block .title-box {
-    display: none;
+.view-eventstop .content-block {
+    margin-bottom: -2px;
+}
+#content_top .container {
+    background-color: white;
 }
 #block-views-fourblock-block-4,
 #block-views-fourblock-block-5 {
@@ -263,7 +456,7 @@ display: none!important;
 .phone-header a svg path {
     fill:#d10000;
 }
-.laylah5 a, .laylap a, .BlogDate span, .rtecenter a, .policy a, .textwidget, .textwidget a
+.laylah5 a, .laylap a, .BlogDate span, .policy a, .textwidget, .textwidget a
  {
     color:white!important;
 }
@@ -271,12 +464,7 @@ display: none!important;
  .social_wrapper ul li a {
   color: white;
 }
- .logo a {
-     border-style: solid;
-     border-width: 2px;
-     border-color: white;
-     padding: 12px;
- }
+
  /*.nd-region > .container {
      background-color: #F2F2F2;
  }*/
@@ -340,8 +528,11 @@ background-color: #252525!important;
     100%{opacity:1}
 }
 /* Blocco Dove giocare*/
-#block-block-32 p, #block-block-32 h6,
-#block-block-33 p, #block-block-33 h6{
+.page-node-378 .block-block p,
+.page-node-378 .block-block h6,
+.page-node-378 .block-block h5
+
+{
     margin-bottom: 0px;
 }
 /* Blocco Home */
@@ -536,7 +727,8 @@ margin-top: 0px;
 #block-views-eventlist-block-1 .title-box,
 #block-views-eventlist-block-2 .title-box,
 #block-views-eventlist-block-4 .title-box,
-#block-views-eventlist-block-5 .title-box{
+#block-views-eventlist-block-5 .title-box,
+#block-block-42 .title-box{
     text-align: center;
 }
 #block-views-eventlist-block-1,
@@ -553,18 +745,7 @@ margin-top: 0px;
     padding-right: 0px;
 }
 
-.views-row + .more-link,
-.row + .more-link{
-    text-align: center;
-    font-size: 20px;
-    margin-top: 60px;
-    margin-bottom: 40px;
-}
-.views-row + .more-link a,
-.row + .more-link a{
-    border: 2px solid #847552;
-    padding: 10px;
-}
+
 /* Blocco GameList*/
 .introGame+a,
 .introGame a{
@@ -619,20 +800,32 @@ margin-top: 0px;
     line-height: 22px;
     padding: 23px!important;
 }
-.image_overlay img {
-    border-bottom: 8px solid #847552;
-}
+
 .BloccoBody,
 .page-node-377 #block-views-orarisedi-block,
-.page-node-377 #block-views-orarisedi-block-1{
+.page-node-377 #block-views-orarisedi-block-1
+{
     padding: 40px;
     background-color: white;
     margin: 40px;
     font-size: 16px;
+
+}
+.node-type-sede #block-block-41,
+.node-type-sede #block-block-40{
+    padding: 40px;
+    background-color: white;
+    margin-top: 30px;
+    font-size: 16px;
+
+}
+.BloccoBody {
+    height: 580px;
 }
 
 .panel-group > .panel-default > .panel-heading > .panel-title > a,
-.panel-group .active.panel > .panel-heading > .panel-title > a{
+.panel-group .active.panel > .panel-heading > .panel-title > a,
+#block-block-42 .block-content{
     background-color: #ffffff!important;
 }
 .panel-group .panel .panel-heading > .panel-title > a:before,
@@ -650,50 +843,90 @@ margin-top: 0px;
 }
 
     /*Eventi*/
-.node-type-events h3 {
+.node-type-events h3,
+.node-type-tournaments h3,
+.node-type-promo h3{
     margin-top: 30px;
 }
 .node-type-events #content,
 .node-type-events #sidebar,
+.node-type-sede #sidebar,
+.node-type-promo #content,
+.node-type-promo #sidebar,
+.node-type-tournaments #content,
+.node-type-tournaments #sidebar,
 .node-type-contenitorepagina #content,
 .node-type-contenitorepagina #sidebar,
 .node-type-game #content,
-.node-type-game #sidebar
+.node-type-game #sidebar,
+.contenitoreBianco,
+#block-views-eventlist-block-6,
+#block-views-fourblock-block-3
 {
     background-color: white;
 }
+.page-node-381 #content,
+.page-node-385 #content{
+    background-color: transparent;
+}
+.contenitoreTabellaOrari {
+    background-color: white;
+    display: inline-block;
+    padding: 20px;
+}
+.page-node-385 h4 {
+    margin-bottom: 0px;
+}
 .node-type-events #sidebar,
+.node-type-sede #sidebar,
+.node-type-tournaments #sidebar,
+.node-type-promo #sidebar,
 .node-type-contenitorepagina #sidebar,
-.node-type-game #sidebar {
+.node-type-game #sidebar,
+.node-type-sede #sidebar{
     padding: 0 30px 0 30px;
 }
 .node-type-events #content,
+.node-type-promo #content,
+.node-type-tournaments #content,
 .node-type-contenitorepagina #content,
-.node-type-game #content{
+.node-type-game #content
+{
     padding-left: 50px;
     padding-right: 50px;
 }
 .links.inline {
     padding-left: 0px;
 }
+.node-type-sede #content #block-system-main {
+    margin-top: 30px;
+}
 .wrapping-events-icons {
     height: 50px;
     margin-bottom: 30px;
     margin-top: 30px;
+}
+#block-views-fourblock-block-3 {
+    margin-bottom: 40px;
 }
 .wrapping-events-icons .field-label-above b {
     display: block;
     line-height: 3px;
     margin-top: 10px;
     font-family: 'casinoRegular';
+    line-height: 20px;
 }
 .field-name-field-eventdate .date-display-single,
+.field-name-field-eventdate .date-display-range,
 .field-name-field-where a{
     font-size: 14px;
     color: black;
 }
-.node-type-events .field-label-above {
+.node-type-events .field-label-above,
+.node-type-tournaments .field-label-above,
+.node-type-promo .field-label-above{
     margin-left: 65px;
+    line-height: 18px;
 }
 .field-label-above {
     font-size: 20px;
@@ -758,12 +991,16 @@ margin-top: 0px;
     border-radius: 50%;
 }
 
-.fourBlockTitle {
+
+#block-views-fourblock-block-4 .title-box,
+#block-views-fourblock-block-5 .title-box,
+#block-views-eventlist-block-6 .title-box,
+#block-views-fourblock-block-3 .title-box,
+.fourBlockTitle{
     text-align: center;
 }
-#block-views-fourblock-block-4 .title-box,
-#block-views-fourblock-block-5 .title-box{
-    text-align: center;
+#block-views-eventlist-block-6 {
+    padding: 30px;
 }
 .colonna-event-list img {
     margin-right: 10px;
@@ -794,6 +1031,9 @@ h5 a{
 .view-eventlist p {
     margin-bottom: 0px;
     text-align: justify;
+}
+.view-footer p {
+    text-align: center;
 }
 
 .colonna-event-list .view-eventlist img {
@@ -843,6 +1083,18 @@ float: left;
 }
 
 /* Footer*/
+#Footer-Top {
+    text-align: center;
+}
+#Footer-Top h2 {
+    color: white!important;
+}
+#Footer-Top .livicon.block {
+    display: block;
+}
+#Footer-Top .social_wrapper {
+    display: inline-block;
+}
 .footer-bottom {
 border: 0px;
 }
@@ -1116,8 +1368,34 @@ margin-bottom: 30px;
 {
 width: 0px;
 }
-
-
+#Footer-Top .title-box:before {
+    width: 40px;
+    background-color: white!important;
+}
+#Footer-Top h2.title {
+    line-height: 40px;
+}
+#Footer-Top .title-h1 {
+    display: none;
+}
+#Footer-Top p {
+    margin-bottom: 0px;
+    color: white;
+    line-height: 17px;
+    font-size: 15px;
+}
+#Footer-Top a {
+    color: white;
+}
+#Footer-Top a:hover {
+    text-decoration: none;
+}
+#Footer-Top .title-box {
+    margin-bottom: 15px;
+}
+.firstLineFooter {
+    border-bottom: 1px solid #7F7F7F;
+}
 .view-header p {
 margin-bottom: 20px;
 }
@@ -1156,6 +1434,11 @@ li.clubcard-right a{
 .fa {
     padding-right: 5px;
 }
+#block-block-31 .title-box,
+#block-system-main .block-content h2{
+    display: none;
+}
+
 .phone-header {
     padding-top: 2px;
 }
@@ -1208,6 +1491,7 @@ li.clubcard-right a{
     margin-bottom: 0px;
 }
 .page-node-376 .view-display-id-block_4,
+.page-node-387 .view-display-id-block_4,
 .view-display-id-block_5{
     background-color: white;
     padding-top: 30px;
@@ -1337,9 +1621,7 @@ li.clubcard-right a{
     line-height: 0.8;
     margin-bottom: 10px;
 }
-.page-node-220 h2 {
-	display: none;
-}
+
 .nd-region {
     padding: 0px;
     
@@ -1352,6 +1634,7 @@ li.clubcard-right a{
     background-color: white;
     margin-bottom: 20px;
 }
+.node-type-events .view-display-id-block_4 .views-row,
 .page-node-377 .view-eventlist .views-row {
     background: transparent;
 }
@@ -1458,3 +1741,9 @@ li.clubcard-right a{
     }
 }
 
+.page-node-383 th {
+    font-size: 20px!important;
+}
+.page-node-383 td {
+    font-size: 18px;
+}

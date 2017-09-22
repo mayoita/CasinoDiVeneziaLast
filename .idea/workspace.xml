@@ -2,46 +2,128 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d772fba-59f0-4aac-9027-6f3b8d7b1dac" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_6xUvZ2540zHo22kJ2tzXy3KNciz9X1PCEosZ_bRdQTY.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_6xUvZ2540zHo22kJ2tzXy3KNciz9X1PCEosZ_bRdQTY.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_9QuhEqVM_MqzR3Nbwv1y6J6GSNpOyiDuZEj4rvnFPao.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_9QuhEqVM_MqzR3Nbwv1y6J6GSNpOyiDuZEj4rvnFPao.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_9sOOqADJr-Fjg-RAm_X8eGejUp8cz3ZK6rQpQw6-Ys4.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_9sOOqADJr-Fjg-RAm_X8eGejUp8cz3ZK6rQpQw6-Ys4.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_CaTh_IjIZuyHOv2ndGRNuaMV2kt9C9SzZzOoQRlfWoE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_CaTh_IjIZuyHOv2ndGRNuaMV2kt9C9SzZzOoQRlfWoE.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_HR-SlRt3jdif0MrCNwtPHXuyitz5PwB81Bh34sUvgAY.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_HR-SlRt3jdif0MrCNwtPHXuyitz5PwB81Bh34sUvgAY.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_KCd8rbJYUruV1tRJnh4um34UYvyhlrSVCPR1jNko2h8.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_KCd8rbJYUruV1tRJnh4um34UYvyhlrSVCPR1jNko2h8.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_O1PEBCJw0L-sd9qUb-0klxggt9E9b-D_Jw8F5yrIgY8.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_O1PEBCJw0L-sd9qUb-0klxggt9E9b-D_Jw8F5yrIgY8.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_VaTlC5jNdxR2e4HzWsuiV1jhDftON6pzITcrr9IQmXA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_VaTlC5jNdxR2e4HzWsuiV1jhDftON6pzITcrr9IQmXA.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_XTknD-WFnJ1zIGsvGzQVJn4x2ZV99iXVIpbdB9yu82M.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_XTknD-WFnJ1zIGsvGzQVJn4x2ZV99iXVIpbdB9yu82M.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_aNwqusO2YlzGi7DL1WQUB30yFrRCwDuJg8Rpysz9DF8.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_aNwqusO2YlzGi7DL1WQUB30yFrRCwDuJg8Rpysz9DF8.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_a_XWH2S1EQaU85ypMDyQGiUfzPFez1IOZKxHnhGkv3E.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_a_XWH2S1EQaU85ypMDyQGiUfzPFez1IOZKxHnhGkv3E.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_c6sGjz3-zj6iYI1mrJfdM8Vw8FJS8xTxgfqXJ1G3PK8.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_c6sGjz3-zj6iYI1mrJfdM8Vw8FJS8xTxgfqXJ1G3PK8.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_cxQgqIU9BniJgD32jUGALOYrht1VeZCVSuPy9uaKv0I.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_cxQgqIU9BniJgD32jUGALOYrht1VeZCVSuPy9uaKv0I.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_f7ysNOxTXoGSmH92MQgaWVZdWy78DQmaDNiwVY7jQGk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_f7ysNOxTXoGSmH92MQgaWVZdWy78DQmaDNiwVY7jQGk.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_jQdedgFAzllU_IygoBEHt7MlrH3Xao_AKtMSSBmawkQ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_jQdedgFAzllU_IygoBEHt7MlrH3Xao_AKtMSSBmawkQ.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_k5_5DCl1xKIIcUne73evxWKU3MG_4wFnf0-ccd0g0e8.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_k5_5DCl1xKIIcUne73evxWKU3MG_4wFnf0-ccd0g0e8.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_mMuSdRh5NeaBYvACFdfxYZFykbM62b1Ir0OkbP8m74A.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_mMuSdRh5NeaBYvACFdfxYZFykbM62b1Ir0OkbP8m74A.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_qp8SU621ZJvGvcXh-6xZHv39H8SAzLnT6fgWYNSY1r0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_qp8SU621ZJvGvcXh-6xZHv39H8SAzLnT6fgWYNSY1r0.js.gz" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/node--promo.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/node--tournaments.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/page--type-promo.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/page--type-sede.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/page--type-tournaments.tpl.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/img/logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/267x150-clubcardnew.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/267x150powerbank.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__4aKz6VfyhMZju5cfkkk7iZiVTcpOpQLgcL3W67rSmKE__FghGv-69Y0g5a_Y9jUeAiLcG6JwudyhGETqxROPKJMo__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__4aKz6VfyhMZju5cfkkk7iZiVTcpOpQLgcL3W67rSmKE__FghGv-69Y0g5a_Y9jUeAiLcG6JwudyhGETqxROPKJMo__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__684ZHDEDdxGtRjY8GG9A-TyX5g8D6B9atrVzYBLVDMU__vV3y6k7SPSHZVXptBrtrUKRfZ3GsF--kokuP1K-1ynY__Z2UYSeq9Y_EhQHdiYCGvdSQBP9sSjovDCjwcAt_G_g8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__684ZHDEDdxGtRjY8GG9A-TyX5g8D6B9atrVzYBLVDMU__vV3y6k7SPSHZVXptBrtrUKRfZ3GsF--kokuP1K-1ynY__Z2UYSeq9Y_EhQHdiYCGvdSQBP9sSjovDCjwcAt_G_g8.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__684ZHDEDdxGtRjY8GG9A-TyX5g8D6B9atrVzYBLVDMU__vV3y6k7SPSHZVXptBrtrUKRfZ3GsF--kokuP1K-1ynY__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__684ZHDEDdxGtRjY8GG9A-TyX5g8D6B9atrVzYBLVDMU__vV3y6k7SPSHZVXptBrtrUKRfZ3GsF--kokuP1K-1ynY__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__7UKmnQ-um4LqFjTus9sictOjtvDwU6e6cj2Q6ElBYk0__Z1JyzE0GjMRF4qTKZHlL2fsCvfGhamdW3vUUEsELY_Q__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__7UKmnQ-um4LqFjTus9sictOjtvDwU6e6cj2Q6ElBYk0__Z1JyzE0GjMRF4qTKZHlL2fsCvfGhamdW3vUUEsELY_Q__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__O_aXv1Mmf0c9o4xhjN10QtqazmSouETKZfSH2r8UyM0__IVWEsWt5UCWrVuBwtTOFWZs6e24ESh6I_OqFUwB_KEs__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__O_aXv1Mmf0c9o4xhjN10QtqazmSouETKZfSH2r8UyM0__IVWEsWt5UCWrVuBwtTOFWZs6e24ESh6I_OqFUwB_KEs__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__Oucx9o2tVvfyDua18S8lQ2NKKD2N5LKOu_dnlmCAQl4__Qoyqrweskd4b8UmJ67wRTwHpPCPR9qCzigw-TiovO5M__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__Oucx9o2tVvfyDua18S8lQ2NKKD2N5LKOu_dnlmCAQl4__Qoyqrweskd4b8UmJ67wRTwHpPCPR9qCzigw-TiovO5M__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__Phg0Tz-Vn-yHq0B3c4OyEzksOYUQIMARy-BOvQqqM9g__BFtxDSPDhlwUyfpIrlkGxUW3s3iDoUjRQfC8KH1vJQo__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__Phg0Tz-Vn-yHq0B3c4OyEzksOYUQIMARy-BOvQqqM9g__BFtxDSPDhlwUyfpIrlkGxUW3s3iDoUjRQfC8KH1vJQo__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__RSu_ting3zaLzf1bMt6pMAON8jyB1tO4dHAi4Pn4iu8__MHf3vCU_ZxX77Mlt1ghqlJrM1mx0XyJHE4gMTLqy8Ho__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__RSu_ting3zaLzf1bMt6pMAON8jyB1tO4dHAi4Pn4iu8__MHf3vCU_ZxX77Mlt1ghqlJrM1mx0XyJHE4gMTLqy8Ho__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__SRiqjEadUjOhQ-7Rl0RyNGvQmbJa5FxVge6l6OsZihc__qEyBpfniPM5Dn0davK58kx3cU5QhCbW14UrsY-5ZpT4__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__SRiqjEadUjOhQ-7Rl0RyNGvQmbJa5FxVge6l6OsZihc__qEyBpfniPM5Dn0davK58kx3cU5QhCbW14UrsY-5ZpT4__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__W_DaVolH4J136PTJPnaD5WzHESrH-nNFRpg35H2AwmI__u7-SkvtQzGnZe2g9i_5Vh-JGm3ycXmPIAUArVYjz1NA__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__W_DaVolH4J136PTJPnaD5WzHESrH-nNFRpg35H2AwmI__u7-SkvtQzGnZe2g9i_5Vh-JGm3ycXmPIAUArVYjz1NA__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__XWUzzl3WGGNLdo18YAzFSYtkHhR15sgepTtGKlbvDrc__DHeIhuEfkru7ylqqSZ74XJh5vYY8Y-pKOMjZ9c55OUo__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__XWUzzl3WGGNLdo18YAzFSYtkHhR15sgepTtGKlbvDrc__DHeIhuEfkru7ylqqSZ74XJh5vYY8Y-pKOMjZ9c55OUo__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__e4ZUC65V70uPSO5-4pjYXjw6O16GEibpG8VQwKMLRB4__OosNMp0B_mTN_Kl9X_1cYhIjWMDvfItShq5JGAQCEhs__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__e4ZUC65V70uPSO5-4pjYXjw6O16GEibpG8VQwKMLRB4__OosNMp0B_mTN_Kl9X_1cYhIjWMDvfItShq5JGAQCEhs__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__e4ZUC65V70uPSO5-4pjYXjw6O16GEibpG8VQwKMLRB4__OosNMp0B_mTN_Kl9X_1cYhIjWMDvfItShq5JGAQCEhs__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__e4ZUC65V70uPSO5-4pjYXjw6O16GEibpG8VQwKMLRB4__OosNMp0B_mTN_Kl9X_1cYhIjWMDvfItShq5JGAQCEhs__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__iZ3kngLMq6eovnh_XXz-sJhCEGErxa8B-og020evuw4__szQvuYIkZEAi4-s6yXuq10OwbvZ5RjqrOW_lXVutNEw__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__iZ3kngLMq6eovnh_XXz-sJhCEGErxa8B-og020evuw4__szQvuYIkZEAi4-s6yXuq10OwbvZ5RjqrOW_lXVutNEw__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__kg2UubZTCM_tisQAsuRKQc1bh2dZTU7KttxBRM0QlUE__hkbs1vD1ioAzmdiabiAxb2ckUH-2-Nym4_W-4XP2BjI__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__kg2UubZTCM_tisQAsuRKQc1bh2dZTU7KttxBRM0QlUE__hkbs1vD1ioAzmdiabiAxb2ckUH-2-Nym4_W-4XP2BjI__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__ksAHNQ9fwUo_FeIWHxpYkUSiNkO7-D56NIlb7P2Yrv4__9loZmiqBYl4JV_YimuwgAdIDb9j8VrhvWhJueKlq8l8__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__ksAHNQ9fwUo_FeIWHxpYkUSiNkO7-D56NIlb7P2Yrv4__9loZmiqBYl4JV_YimuwgAdIDb9j8VrhvWhJueKlq8l8__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__sqX0oV0PzZnon4-v--YUWKBX0MY_EglamExp-1FI654__IOPiOtulrIZqqAM0BdQCjTz3N2n6srsVUk6UjqwYEZ0__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__sqX0oV0PzZnon4-v--YUWKBX0MY_EglamExp-1FI654__IOPiOtulrIZqqAM0BdQCjTz3N2n6srsVUk6UjqwYEZ0__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__uaE5P3_0nTs_ieEAa18x2_cLO1exa7RnOlDFMf6oETA__ex52vDdKFRL50dJniRCeii64aJ42fyn604TWUEWf9uU__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__uaE5P3_0nTs_ieEAa18x2_cLO1exa7RnOlDFMf6oETA__ex52vDdKFRL50dJniRCeii64aJ42fyn604TWUEWf9uU__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__utbPSZpjFtOXXYz0Is62IAdVHhYyEkNndNoC7wt8NEE__FYYBpaEzg1EZW-JBO0tGnMmFT8iEC_UF0EEeSnPqLQA__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__utbPSZpjFtOXXYz0Is62IAdVHhYyEkNndNoC7wt8NEE__FYYBpaEzg1EZW-JBO0tGnMmFT8iEC_UF0EEeSnPqLQA__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__v9t4Nx3N7JzhQuZsunHeXoYufUsXMcOw9RYqDUbGoI4__UanzVDPxSbPnotPTG2P9iRXCEr8FSOGssFu0Kb9HcBs__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__v9t4Nx3N7JzhQuZsunHeXoYufUsXMcOw9RYqDUbGoI4__UanzVDPxSbPnotPTG2P9iRXCEr8FSOGssFu0Kb9HcBs__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__xne_1LqcvHUlOBckqFpnLnigN-HvszmyQTEK1YFwdRw__cdRSGM6e_5Qs6dYPQwVL5jkl1_7P5kQUJwz9D-62o8g__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_css/css__xne_1LqcvHUlOBckqFpnLnigN-HvszmyQTEK1YFwdRw__cdRSGM6e_5Qs6dYPQwVL5jkl1_7P5kQUJwz9D-62o8g__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__-VyxX3zHtUg5QD3B0ILBvAkFNbWq0gyremFux1zmgQM__HhLK56TiY9v-Q62FEHosTFpwfdLSNHruO7V2ciHU47U__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__-VyxX3zHtUg5QD3B0ILBvAkFNbWq0gyremFux1zmgQM__HhLK56TiY9v-Q62FEHosTFpwfdLSNHruO7V2ciHU47U__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__-wjqly-IQ4MBs3XaD4uxSKOLjqo21rYKpOCBraj56wQ__408CpQcf9w7Xs1__omoT3vx7CqPMUvNSWK3zcanQgG8__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__-wjqly-IQ4MBs3XaD4uxSKOLjqo21rYKpOCBraj56wQ__408CpQcf9w7Xs1__omoT3vx7CqPMUvNSWK3zcanQgG8__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__4ls4miCnIp3UTd0cD6qJD3lzEUy4muQhOE5jTsvanf4__3gaSrWjdkAR2b8UzMrshP75_ikkd4X-PDHms7oQ62vQ__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__4ls4miCnIp3UTd0cD6qJD3lzEUy4muQhOE5jTsvanf4__3gaSrWjdkAR2b8UzMrshP75_ikkd4X-PDHms7oQ62vQ__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__EQTDrp-3yvDLedhszmrhKTU6pQtf4w1ayqK_S-f4g7M__EAznCgWKSEgDKHJnTd1gj6zo5U0ytbJ-86EjgdacZa8__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__EQTDrp-3yvDLedhszmrhKTU6pQtf4w1ayqK_S-f4g7M__EAznCgWKSEgDKHJnTd1gj6zo5U0ytbJ-86EjgdacZa8__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__I7PV_6S2R3w1OdvnjEFXBg0K_L9g4FPaRrh-lLy1-Wg__yLlspj-ja1IiNeTCxx3TJwyocpIHxL9Wmq7jScTp4Zw__ERngt4rnH98OrNpv_6-bZBVuxyo807mE7kRPdRdrfM8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__I7PV_6S2R3w1OdvnjEFXBg0K_L9g4FPaRrh-lLy1-Wg__yLlspj-ja1IiNeTCxx3TJwyocpIHxL9Wmq7jScTp4Zw__ERngt4rnH98OrNpv_6-bZBVuxyo807mE7kRPdRdrfM8.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__I7PV_6S2R3w1OdvnjEFXBg0K_L9g4FPaRrh-lLy1-Wg__yLlspj-ja1IiNeTCxx3TJwyocpIHxL9Wmq7jScTp4Zw__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__I7PV_6S2R3w1OdvnjEFXBg0K_L9g4FPaRrh-lLy1-Wg__yLlspj-ja1IiNeTCxx3TJwyocpIHxL9Wmq7jScTp4Zw__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__I7PV_6S2R3w1OdvnjEFXBg0K_L9g4FPaRrh-lLy1-Wg__yLlspj-ja1IiNeTCxx3TJwyocpIHxL9Wmq7jScTp4Zw__Z2UYSeq9Y_EhQHdiYCGvdSQBP9sSjovDCjwcAt_G_g8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__I7PV_6S2R3w1OdvnjEFXBg0K_L9g4FPaRrh-lLy1-Wg__yLlspj-ja1IiNeTCxx3TJwyocpIHxL9Wmq7jScTp4Zw__Z2UYSeq9Y_EhQHdiYCGvdSQBP9sSjovDCjwcAt_G_g8.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__IcguNxVl1Y4rGEeM9O4WaNnkd2ScWiCEhZ-XfCN8_8g__j2vlbQ0sFECS4dzB4mHmukrefqyG1FxR46JzmjArXwU__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__IcguNxVl1Y4rGEeM9O4WaNnkd2ScWiCEhZ-XfCN8_8g__j2vlbQ0sFECS4dzB4mHmukrefqyG1FxR46JzmjArXwU__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__OfyXCMP_XF9D1V9Bk7WcMf_Ny4n9Sr-HW0wRbHiKyk4__a_umV7V43gJuUwtwcg5jzim8s_hZouPwQsSdypqlpX4__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__OfyXCMP_XF9D1V9Bk7WcMf_Ny4n9Sr-HW0wRbHiKyk4__a_umV7V43gJuUwtwcg5jzim8s_hZouPwQsSdypqlpX4__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__PbYJplijP6elaIrbP20WqNhOLTVZiOTx_37SDpNt0ds__Pf2P_Kgzqu_eCv-oR7Tw9VXWAKn-hraeXjEYbRkV4l8__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__PbYJplijP6elaIrbP20WqNhOLTVZiOTx_37SDpNt0ds__Pf2P_Kgzqu_eCv-oR7Tw9VXWAKn-hraeXjEYbRkV4l8__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__VBh1C8VvCYJJuHWeCqTKdlIraabR2PU3UQ0gfP6PKvs__ROT5Ed6vX9_pDfrrGNg7Cmc7kIbGmoRKbrSOdmrwn6g__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__VBh1C8VvCYJJuHWeCqTKdlIraabR2PU3UQ0gfP6PKvs__ROT5Ed6vX9_pDfrrGNg7Cmc7kIbGmoRKbrSOdmrwn6g__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__Z1an9ZSiEwzkzDgbBBobAfAHe5AWVio_n1jxf5Tvyes__wDZmePIA0uFVxVN3cmnmlV6q-FpVcMiIw7bk9XRU15s__ERngt4rnH98OrNpv_6-bZBVuxyo807mE7kRPdRdrfM8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__Z1an9ZSiEwzkzDgbBBobAfAHe5AWVio_n1jxf5Tvyes__wDZmePIA0uFVxVN3cmnmlV6q-FpVcMiIw7bk9XRU15s__ERngt4rnH98OrNpv_6-bZBVuxyo807mE7kRPdRdrfM8.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__Z1an9ZSiEwzkzDgbBBobAfAHe5AWVio_n1jxf5Tvyes__wDZmePIA0uFVxVN3cmnmlV6q-FpVcMiIw7bk9XRU15s__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__Z1an9ZSiEwzkzDgbBBobAfAHe5AWVio_n1jxf5Tvyes__wDZmePIA0uFVxVN3cmnmlV6q-FpVcMiIw7bk9XRU15s__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__Z1an9ZSiEwzkzDgbBBobAfAHe5AWVio_n1jxf5Tvyes__wDZmePIA0uFVxVN3cmnmlV6q-FpVcMiIw7bk9XRU15s__Z2UYSeq9Y_EhQHdiYCGvdSQBP9sSjovDCjwcAt_G_g8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__Z1an9ZSiEwzkzDgbBBobAfAHe5AWVio_n1jxf5Tvyes__wDZmePIA0uFVxVN3cmnmlV6q-FpVcMiIw7bk9XRU15s__Z2UYSeq9Y_EhQHdiYCGvdSQBP9sSjovDCjwcAt_G_g8.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__ZnLWb-BTdQmjePHZT3a_HE5Vg9BrAL8v6h1eu0z7Eek__4LsSbjnjVeap6QGx4vvBE7-WJQUGh3gN1gnMb0Bjh48__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__ZnLWb-BTdQmjePHZT3a_HE5Vg9BrAL8v6h1eu0z7Eek__4LsSbjnjVeap6QGx4vvBE7-WJQUGh3gN1gnMb0Bjh48__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js___DTFmFAsyCMRT52ValGpWqiTmJjIon2kiNhddVmIg8A__NjY98WmPRSfNZuDqaZ4L0muEUQCkgHxzfGg5LrkuvXg__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js___DTFmFAsyCMRT52ValGpWqiTmJjIon2kiNhddVmIg8A__NjY98WmPRSfNZuDqaZ4L0muEUQCkgHxzfGg5LrkuvXg__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__aez47TgGjkKIeHs8f1Cj0b4Lu9WinaN_pKNzlFy56HM__Z1CS7V0uSPYNwKM-DPyh2K4gdekY6hMzHJJTHBxDiyw__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__aez47TgGjkKIeHs8f1Cj0b4Lu9WinaN_pKNzlFy56HM__Z1CS7V0uSPYNwKM-DPyh2K4gdekY6hMzHJJTHBxDiyw__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__f_le0RCN3HSBGVCVrkWjAslU9u-ai7h56__QPuse1A8__cdapneqfhvoyBQjktLk1_IaWtC0zQlJ7_cDkV77pd8c__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__f_le0RCN3HSBGVCVrkWjAslU9u-ai7h56__QPuse1A8__cdapneqfhvoyBQjktLk1_IaWtC0zQlJ7_cDkV77pd8c__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__hipam1J9oV0yLz1cdJFkfZ29Qh5QLSSnuHZWepqvRjI__WpZe1pYl_hvk4T3_4BFsWf-4Wx6O6kuoJRVxDX9V2_I__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__hipam1J9oV0yLz1cdJFkfZ29Qh5QLSSnuHZWepqvRjI__WpZe1pYl_hvk4T3_4BFsWf-4Wx6O6kuoJRVxDX9V2_I__UC-ZEDnZxoPmKsiY_IfX5QGfMfJtCfwiJ1EMjPWLZeQ.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__msuwAjxi7BbeHkz238p2apHCITF-TizFGWNVaqdQGmA__oK4fUjt87g8eEkJdTImxJT4aS0AZR_twxXhC1X8JMbY__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__msuwAjxi7BbeHkz238p2apHCITF-TizFGWNVaqdQGmA__oK4fUjt87g8eEkJdTImxJT4aS0AZR_twxXhC1X8JMbY__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__o41CKVMiMnV6c1fUuuwwgsDFNZAUdBJUecBySpJW8FE__VI5VPr9BE6yieZFnetSK-8yWob3VpVD6WP3pvALJkgE__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__o41CKVMiMnV6c1fUuuwwgsDFNZAUdBJUecBySpJW8FE__VI5VPr9BE6yieZFnetSK-8yWob3VpVD6WP3pvALJkgE__nfYbFN1VS1M6hcRzLkpTIFrqWrtDSm0HaHT64DRMTac.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__sxWp1gwuWeiNZY6Y4ur9FjxZH1MkOHoDbBwZfuGel1o__vFO_Eo2nb_cD9DOl8mGlpgUEYdIXyv0QDvl5Zxp8bzE__veZLtuDcUmHwzJePfq4mR4WJTLe5710t3AW7hAts50c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/advagg_js/js__sxWp1gwuWeiNZY6Y4ur9FjxZH1MkOHoDbBwZfuGel1o__vFO_Eo2nb_cD9DOl8mGlpgUEYdIXyv0QDvl5Zxp8bzE__veZLtuDcUmHwzJePfq4mR4WJTLe5710t3AW7hAts50c.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/baca.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/chem.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_aw3quKwyx_A4Ar9tos8t3xQGxIX1rjxepSJ8-5TYhLg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_aw3quKwyx_A4Ar9tos8t3xQGxIX1rjxepSJ8-5TYhLg.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/16_9fourblock270x152/public/267x150-clubcardnew.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/16_9fourblock270x152/public/267x150powerbank.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/mask_16_9/public/12000x675-pagina-rumori-fuori-cena-ita.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/mask_16_9/public/1200x675-calici-di-stelle_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/mask_16_9/public/events/1200x675-calici-di-stelle.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/mask_16_9/public/events/1200x675-calici2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/mask_16_9/public/events/craparo_650.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/mask_16_9/public/events/saporito_650.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/media_thumbnail/public/267x150-clubcardnew.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/media_thumbnail/public/267x150powerbank.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/media_thumbnail/public/baca.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/media_thumbnail/public/chem.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/baca.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/chem.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/styles/mask_16_9/public/1200x675-compleanno.jpg" afterPath="$PROJECT_DIR$/sites/default/files/styles/mask_16_9/public/1200x675-compleanno.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/styles/mask_16_9/public/events/1200x675-home-win-city.jpg" afterPath="$PROJECT_DIR$/sites/default/files/styles/mask_16_9/public/events/1200x675-home-win-city.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/styles/mask_16_9/public/modules/image/sample.png" afterPath="$PROJECT_DIR$/sites/default/files/styles/mask_16_9/public/modules/image/sample.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/styles/mask_16_9/public/ten1200x675.jpg" afterPath="$PROJECT_DIR$/sites/default/files/styles/mask_16_9/public/ten1200x675.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/img/svg/map-marker.svg" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/img/svg/map-marker.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/js/main.js" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/js/jquery.mb.YTPlayer.js" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/js/jquery.mb.YTPlayer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/templates/node--events.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/node--events.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--fourblock--block-3.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--fourblock--block-3.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/fontyourface/font.css" afterPath="$PROJECT_DIR$/sites/default/files/fontyourface/font.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/xmlsitemap/g3XYqcXbSKPVBDODwnT6pq7oqhCFkPryj4vVqrl_Kfc/1.xml" afterPath="$PROJECT_DIR$/sites/default/files/xmlsitemap/g3XYqcXbSKPVBDODwnT6pq7oqhCFkPryj4vVqrl_Kfc/1.xml" />
     </list>
@@ -58,75 +140,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="views-view-fields--gallery-row.tpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields--gallery-row.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CVC.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="621" column="20" lean-forward="true" selection-start-line="621" selection-start-column="20" selection-end-line="621" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="1464" column="28" lean-forward="true" selection-start-line="1464" selection-start-column="28" selection-end-line="1464" selection-end-column="28" />
-              <folding>
-                <marker date="1505313592000" expanded="true" signature="150:191" ph="..." />
-                <marker date="1505313592000" expanded="true" signature="46543:46903" ph="..." />
-                <marker date="1505313592000" expanded="true" signature="46993:47353" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/responsive.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29310">
-              <caret line="1954" column="16" lean-forward="false" selection-start-line="1954" selection-start-column="16" selection-end-line="1954" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="field_slideshow.tpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/field_slideshow.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="17" column="94" lean-forward="false" selection-start-line="17" selection-start-column="94" selection-end-line="17" selection-end-column="94" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="progressive.info" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/progressive.info">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="34" lean-forward="false" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views-view-fields--blog-timeline.tpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields--blog-timeline.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="104">
+              <caret line="1490" column="23" lean-forward="false" selection-start-line="1490" selection-start-column="23" selection-end-line="1490" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -136,36 +154,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>item</find>
-      <find>title-box</find>
-      <find>views-view-fields.tpl.php</find>
-      <find>/* Ev</find>
-      <find>iconaListEvents</find>
-      <find>field-slideshow-wrappe</find>
-      <find>field-slideshow.tpl</find>
-      <find>field-slideshow.tp</find>
-      <find>field-slideshow.t</find>
-      <find>field-slideshow.</find>
-      <find>field-slideshow</find>
-      <find>field-slideshow-</find>
-      <find>field-slideshow-w</find>
-      <find>field-slideshow-wr</find>
-      <find>field-slideshow-wra</find>
-      <find>field-slideshow-wrap</find>
-      <find>field-slideshow-wrapper</find>
-      <find>&quot;field-slideshow-wrapper</find>
-      <find>even</find>
-      <find>ma</find>
-      <find>map</find>
-      <find>map-</find>
-      <find>map-ma</find>
-      <find>map-marker</find>
-      <find>map-marker.</find>
-      <find>border-top: 8px solid #847552;</find>
       <find>border-top: 8px</find>
       <find>border-top</find>
       <find>massi</find>
       <find>blocco</find>
+      <find>#block-block-32</find>
+      <find>nd-region</find>
+      <find>title-b</find>
+      <find>display: none</find>
+      <find>eventst</find>
+      <find>.caption+p</find>
+      <find>border: 2px</find>
+      <find>Footer</find>
+      <find>Footer-</find>
+      <find>.node-type-events</find>
+      <find>padding: 50px</find>
+      <find>text-ali</find>
+      <find>background</find>
+      <find>Newsletter</find>
+      <find>backgro</find>
+      <find>padding: 50px;</find>
+      <find>background-color: w</find>
+      <find>contenitoreBianco</find>
+      <find>block-views-eventlist-block-6</find>
+      <find>slic</find>
+      <find>margin-bottom: 30</find>
+      <find>view-eventstop</find>
+      <find>margin-bottom:</find>
+      <find>border-bo</find>
+      <find>border-bottom: 8px solid #847552;</find>
+      <find>ba</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/sites/all/modules/colorbox/js</dir>
@@ -190,7 +208,6 @@
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/page--type-events.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/css/style.css" />
         <option value="$PROJECT_DIR$/sites/all/modules/tb_megamenu/css/styles/black.css" />
-        <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/node--events.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--eventlist.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-field--eventlist--page--field-where.tpl.php" />
@@ -200,6 +217,9 @@
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-field--eventlist--page--field-images-events.tpl..php" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/field_slideshow.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/js/main.js" />
+        <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/node--events.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/progressive/js/jquery.mb.YTPlayer.js" />
+        <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--fourblock--block-3.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css" />
       </list>
     </option>
@@ -218,8 +238,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="2560" />
-    <option name="height" value="1440" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -236,27 +256,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -266,11 +286,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -284,11 +304,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -310,11 +330,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -340,11 +360,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -370,11 +390,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -400,11 +420,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemId" value="CasinoDiVeneziaLast" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -417,54 +437,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sites" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="all" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sites" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="all" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="field_slideshow" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -614,27 +586,43 @@
       <workItem from="1504538716086" duration="676000" />
       <workItem from="1504613625495" duration="4469000" />
       <workItem from="1505294571939" duration="4589000" />
+      <workItem from="1505374949702" duration="18261000" />
+      <workItem from="1505554322912" duration="600000" />
+      <workItem from="1505559011335" duration="146000" />
+      <workItem from="1505573488583" duration="546000" />
+      <workItem from="1505584367221" duration="350000" />
+      <workItem from="1505595354611" duration="19000" />
+      <workItem from="1505627495848" duration="5000" />
+      <workItem from="1505634084500" duration="10000" />
+      <workItem from="1505634206049" duration="886000" />
+      <workItem from="1505640064646" duration="1790000" />
+      <workItem from="1505753854731" duration="129000" />
+      <workItem from="1505896952168" duration="2893000" />
+      <workItem from="1505908784314" duration="4854000" />
+      <workItem from="1505940574645" duration="11000" />
+      <workItem from="1505986853562" duration="1283000" />
+      <workItem from="1505996471170" duration="638000" />
+      <workItem from="1506062708974" duration="430000" />
+      <workItem from="1506076773113" duration="2062000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95436000" />
+    <option name="totallyTimeSpent" value="130349000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32208103" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32152778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31473213" sideWeight="0.51111114" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3552169" sideWeight="0.5138889" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298292" sideWeight="0.49722221" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3416557" sideWeight="0.4923611" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3561104" sideWeight="0.4888889" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3552169" sideWeight="0.4861111" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -642,6 +630,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31887457" sideWeight="0.49305555" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298292" sideWeight="0.49722221" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -659,104 +648,71 @@
           <line>76</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/sites/all/themes/progressive/templates/field_slideshow.tpl.php</url>
-          <line>17</line>
-          <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/sites/all/themes/progressive/templates/field_slideshow.tpl.php</url>
-          <line>13</line>
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="57" />
+      <option name="time" value="58" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/progressive_cms/progressive_content/progressive_content.info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2737">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/progressive_cms/progressive_content/progressive_content.features.node_export_features.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/progressive_cms/progressive_content/progressive_content.features.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/progressive_cms/progressive_content/progressive_content.features.blockexport_settings.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/progressive_cms/progressive_layoutbuilder_import/progressive_cms_layout_builder_settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/retina_images/retina_images.module">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/customizer/shop-6-pages-customizer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/theme-settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="29" column="35" lean-forward="false" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/theme-settings.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/page.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="81" column="6" lean-forward="false" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
-          <caret line="127" column="5" lean-forward="false" selection-start-line="127" selection-start-column="5" selection-end-line="127" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/node--event.tpl.php">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/node--promo.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/page--type-promo.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -767,249 +723,207 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/node--events.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="155" column="38" lean-forward="false" selection-start-line="155" selection-start-column="38" selection-end-line="155" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/node--tournaments.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/page--type-events.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
+        <state relative-caret-position="1245">
           <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/CVC_BASE_37984.css" />
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/tb_megamenu/css/styles/black.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/drupal.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="653" column="2" lean-forward="false" selection-start-line="653" selection-start-column="2" selection-end-line="653" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="144" column="6" lean-forward="false" selection-start-line="144" selection-start-column="4" selection-end-line="144" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view.tpl.php">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/page--type-tournaments.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--fourblock.tpl.php">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/js/jquery.mb.YTPlayer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields--product-taxonomy.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--fourblock--block-4.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/theme.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="1207" column="0" lean-forward="false" selection-start-line="1207" selection-start-column="0" selection-end-line="1207" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/views/modules/field/views_handler_field_field.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="897" column="0" lean-forward="false" selection-start-line="897" selection-start-column="0" selection-end-line="897" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/views/handlers/views_handler_field.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="1053" column="0" lean-forward="false" selection-start-line="1053" selection-start-column="0" selection-end-line="1053" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/CasinoDiVeneziaLast.dd/files/advagg_css/css__684ZHDEDdxGtRjY8GG9A-TyX5g8D6B9atrVzYBLVDMU__y4w4dikRhyZhJxBzDTDscNwcBRdkb9Ryl5e5YrQ7mbs__m80SZwTYybbTIg4ePWjcOjDCeV__KQKm2Sgok7OHgI4.css" />
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--fourblock--block-3.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--fourblock--block-5.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/progressive-cms-menu.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/node--events.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="134" column="24" lean-forward="false" selection-start-line="134" selection-start-column="24" selection-end-line="134" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/views/theme/theme.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="1151" column="5" lean-forward="false" selection-start-line="1151" selection-start-column="5" selection-end-line="1151" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields.tpl.php" />
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-field--eventlist--page--field-where.tpl.php" />
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields--gallery.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields--modern-gallery.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields--project-hover.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--carousel-controls.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--gallery.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-unformatted--blog-timeline.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields--product-flip.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields--blog-timeline.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-unformatted--content-slider.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields--portfolio-1-column.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields--gallery-row.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/progressive.info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="34" lean-forward="false" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-field--eventlist--page--field-images-events.tpl.php" />
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/field_slideshow/field_slideshow.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29310">
-          <caret line="1954" column="16" lean-forward="false" selection-start-line="1954" selection-start-column="16" selection-end-line="1954" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="1050">
+          <caret line="70" column="23" lean-forward="false" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/field_slideshow.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="94" lean-forward="false" selection-start-line="17" selection-start-column="94" selection-end-line="17" selection-end-column="94" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="1464" column="28" lean-forward="true" selection-start-line="1464" selection-start-column="28" selection-end-line="1464" selection-end-column="28" />
-          <folding>
-            <marker date="1505313592000" expanded="true" signature="150:191" ph="..." />
-            <marker date="1505313592000" expanded="true" signature="46543:46903" ph="..." />
-            <marker date="1505313592000" expanded="true" signature="46993:47353" ph="..." />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="621" column="20" lean-forward="true" selection-start-line="621" selection-start-column="20" selection-end-line="621" selection-end-column="20" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/node--promo.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/page--type-promo.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/node.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/node--events.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="155" column="38" lean-forward="false" selection-start-line="155" selection-start-column="38" selection-end-line="155" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/node--tournaments.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/page--type-events.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/page--type-tournaments.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/js/jquery.mb.YTPlayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="23" lean-forward="false" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/field_slideshow.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/node--promo.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/page--type-promo.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/field_slideshow.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--fourblock--block-3.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="1491" column="56" lean-forward="false" selection-start-line="1491" selection-start-column="52" selection-end-line="1491" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-grid--fourblock.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/node.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/node--events.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="155" column="38" lean-forward="false" selection-start-line="155" selection-start-column="38" selection-end-line="155" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/node--tournaments.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/page--type-events.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/page--type-tournaments.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/js/jquery.mb.YTPlayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="70" column="23" lean-forward="false" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="1490" column="23" lean-forward="false" selection-start-line="1490" selection-start-column="23" selection-end-line="1490" selection-end-column="23" />
           <folding />
         </state>
       </provider>

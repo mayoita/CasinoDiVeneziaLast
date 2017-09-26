@@ -115,6 +115,9 @@ html{
 .bordoBottom {
     border-bottom: 2px solid var(--oro);
 }
+.bordoBottom8 {
+    border-bottom: 8px solid var(--oro);
+}
 .bordoTop {
     border-top: 2px solid var(--oro);
 }
@@ -130,7 +133,8 @@ html{
 .image_overlay .description,
 .TitoloHeader,
 .table > thead > tr.testa > th,
-td.danger, .table > tbody > tr > td.intestazioneRiga{
+td.danger, .table > tbody > tr > td.intestazioneRiga,
+input.webform-submit.button-primary.btn.form-submit{
   background-color: #847552!important;  /* oro #847552 */
 }
 .contenitoreTabella td {
@@ -140,6 +144,9 @@ td.danger, .table > tbody > tr > td.intestazioneRiga{
 .contenitoreTabella .primaRiga td{
     background-color: #c1baa8;
 
+}
+.margine50 {
+    margin: 50px;
 }
 
 .table > thead > tr.testa > th,
@@ -209,7 +216,9 @@ h5 a,
 .header .primary .navbar .nav > li:hover > a,
 .header .primary .sub a,
 .node-type-contenitorepagina h4 a,
-.node-type-contenitorepagina h4 a:hover
+.node-type-contenitorepagina h4 a:hover,
+.page-node-391 h5,
+.gallery-images:hover .bg-images i:before
 {
     color: var(--oro)!important;
 
@@ -271,11 +280,13 @@ h5 a,
 #block-block-32 h5,
 #block-block-33 h5,
 #block-block-33 p,
+#block-block-32 p,
 #block-views-orarisedi-block .title-box,
 #block-views-orarisedi-block-1 .title-box{
     margin-bottom: 0px;
 }
-#block-block-33 h6 {
+#block-block-33 h6,
+#block-block-32 h6{
     margin-bottom: 5px;
 }
 #block-views-slotcalendar-block p, #block-views-slotcalendar-block h6,
@@ -288,6 +299,15 @@ h5 a,
 .view-slotcalendar h6 {
     margin: 10px 0px;
 
+}
+.caption .description {
+    text-align: center;
+    font-size: 20px;
+    color: var(--oro);
+    font-family: 'casinoRegular';
+}
+#block-views-gallery-block-1 {
+    text-align: center;
 }
 /* eventsTop */
 #block-views-eventstop-block {
@@ -802,8 +822,8 @@ margin-top: 0px;
 }
 
 .BloccoBody,
-.page-node-377 #block-views-orarisedi-block,
-.page-node-377 #block-views-orarisedi-block-1
+.node-type-contenitorepagina #block-views-orarisedi-block,
+.node-type-contenitorepagina #block-views-orarisedi-block-1
 {
     padding: 40px;
     background-color: white;
@@ -865,6 +885,10 @@ margin-top: 0px;
 {
     background-color: white;
 }
+.page-node-391 #content,
+.page-node-392 #content{
+    background-color: transparent;
+}
 .page-node-381 #content,
 .page-node-385 #content{
     background-color: transparent;
@@ -894,6 +918,15 @@ margin-top: 0px;
 {
     padding-left: 50px;
     padding-right: 50px;
+}
+.zeroPadding {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.page-node-391 #content,
+.page-node-392 #content{
+    padding-left: 15px;
+    padding-right: 15px;
 }
 .links.inline {
     padding-left: 0px;

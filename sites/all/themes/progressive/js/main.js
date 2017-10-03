@@ -1491,6 +1491,29 @@ function massimo() {
 
     $(".notify-badge").css('left', ((parseFloat($(".slick-slide").width()) - 190)/2) - $(".notify-badge").outerWidth(true)/2);
     $(".circleEventDate").css('left', ((parseFloat($(".field-slideshow-wrapper").width()) - 190)/2) - $(".circleEventDate").width()/2);
+    $('.flipbook').turn({
+        // Width
+
+        width:1100,
+
+        // Height
+
+        height:550,
+	//	display:"single",
+
+        // Elevation
+
+        elevation: 50,
+
+        // Enable gradients
+
+        gradients: true,
+
+        // Auto center this flipbook
+
+        autoCenter: true
+
+    });
 }
 jQuery(document).ready(function(){
   'use strict';

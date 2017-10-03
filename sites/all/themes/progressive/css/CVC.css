@@ -74,11 +74,18 @@ p, span, a {
     padding: 10px;
     border: 2px solid #847552;
     text-align: center;
-    width: 30%;
-    margin: 20px auto;
+    width: 40%;
+    margin: 60px auto 20px auto;
 }
 #block-views-eventlist-block-6 .view-footer{
     width: 50%;
+}
+.page-box-content {
+    background-size: 1000px;
+}
+.sfondo {
+    background-image: url('/sites/all/themes/progressive/img/trama.png');
+    background-size: 1000px;
 }
 .titleViewFooter,
 .titleViewFooter:hover{
@@ -116,7 +123,7 @@ html{
     border-bottom: 2px solid var(--oro);
 }
 .bordoBottom8 {
-    border-bottom: 8px solid var(--oro);
+    border-bottom: 5px solid var(--oro);
 }
 .bordoTop {
     border-top: 2px solid var(--oro);
@@ -137,6 +144,10 @@ td.danger, .table > tbody > tr > td.intestazioneRiga,
 input.webform-submit.button-primary.btn.form-submit{
   background-color: #847552!important;  /* oro #847552 */
 }
+.contentRightSidebar {
+    margin-left: 50px;
+}
+
 .contenitoreTabella td {
     background-color: #eeece7;
     border: 1px solid white;
@@ -167,11 +178,11 @@ td.danger, .table > tbody > tr > td.intestazioneRiga {
 .TitoloHeader {
     text-align: center;
     position: relative;
-    padding: 15px;
+    padding: 15px 50px 10px 50px;
     margin: 0 auto;
     /*width: 30%;*/
     display: inline;
-    top: -44px;
+    top: -41px;
    color: white;
     z-index: 10;
 }
@@ -192,7 +203,6 @@ h5 a,
 .body-margin-bottom a,
 #block-block-32 h6,
 #block-block-33 h6,
-.fourBlockTitle,
 .introGame+a,
 .introGame a,
 .panel-group .panel .panel-heading > .panel-title > a,
@@ -219,9 +229,23 @@ h5 a,
 .node-type-contenitorepagina h4 a:hover,
 .page-node-391 h5,
 .gallery-images:hover .bg-images i:before
+    ,h1, h2,
+.campaign-social-header,
+#sidebar .view .item-list ul li a:before,
+h6,
+.node-type-page #Content a
 {
     color: var(--oro)!important;
 
+}
+
+.title-box .title, h5 {
+    font-size: 20px;
+    font-weight: bold!important;
+
+}
+h1 {
+    font-weight: bold!important;
 }
 .bordoOro {
     border: 1px solid var(--oro);
@@ -229,6 +253,7 @@ h5 a,
 }
 .altezzaDress {
     height: 260px;
+    margin-bottom: 50px;
 }
 .view-display-id-block_1 .views-field-nid {
     margin: 20px 0px;
@@ -258,13 +283,14 @@ h5 a,
 /* Blocco Info  Sede*/
 .rigaInterna
 {
-    padding: 50px;
     background-color: white;
 }
 
 .contenitoreBianco,
+.rigaInterna,
 #block-block-42 .block-content,
-#block-views-fourblock-block-3{
+#block-views-fourblock-block-3,
+#block-views-eventlist-block-6{
     padding: 50px;
 }
 
@@ -287,9 +313,13 @@ h5 a,
 }
 #block-block-33 h6,
 #block-block-32 h6{
-    margin-bottom: 5px;
+    margin-bottom: 0px;
 }
-#block-views-slotcalendar-block p, #block-views-slotcalendar-block h6,
+.iconaBloccoSedi+h5,
+.title-box.title-h5{
+ margin-bottom: 9px!important;
+}
+ #block-views-slotcalendar-block h6,
 #block-views-slotcalendar-block-1 h6{
     text-align: center;
 }
@@ -342,9 +372,7 @@ h5 a,
 .col-xs-5.col-md-3 .content-block {
     padding: 0px;
 }
-.view-orarisedi {
-    margin-top: -12px;
-}
+
 .view-orarisedi .views-row-1 {
     margin-bottom: 20px;
 }
@@ -415,7 +443,7 @@ display: none!important;
 .page-node-376 #content
 
 {
-    border-bottom: 8px solid #847552;
+    border-bottom: 5px solid #847552;
 }
 .page-node-387 div#content.col-md-12 {
     padding-bottom: 50px;
@@ -425,13 +453,15 @@ display: none!important;
     padding-top: 30px;
     background-color: white;
 }
+
 .rigaInterna,
 #block-views-eventlist-block-1,
 .node-type-game #block-views-eventlist-block-4,
+.node-type-contenitorepagina #block-views-eventlist-block-4,
 #block-views-fourblock-block-4,
 #block-views-fourblock-block-5{
-    border-top: 8px solid #847552;
-    border-bottom: 8px solid #847552;
+    border-top: 5px solid #847552;
+    border-bottom: 5px solid #847552;
 }
 .page-node-377 #block-views-eventlist-block-1 {
     border: none;
@@ -439,12 +469,10 @@ display: none!important;
 .view-eventstop .content-block {
     margin-bottom: -2px;
 }
-#content_top .container {
-    background-color: white;
-}
+
 #block-views-fourblock-block-4,
 #block-views-fourblock-block-5 {
-    border-top: 8px solid #847552;
+    border-top: 5px solid #847552;
     background-color: white;
 }
 #block-views-fourblock-block-4 .title-box,
@@ -579,7 +607,7 @@ background-color: #252525!important;
     width: 60px;
     height: 60px;
     border-style: solid;
-    border-color: #847552;
+    border-color: #ffffff;
     border-width: 2px;
     border-radius: 50%;
     background-color: white;
@@ -599,6 +627,8 @@ background-color: #252525!important;
 }
 .fourBlockTitle {
     margin-bottom: 20px;
+    color: black;
+    font-size: 13px;
 }
 .slick-slide img { /* Universal settings */
     -webkit-transition:all .4s;
@@ -752,10 +782,18 @@ margin-top: 0px;
     text-align: center;
 }
 #block-views-eventlist-block-1,
-.node-type-game #block-views-eventlist-block-4{
+.node-type-game #block-views-eventlist-block-4,
+.node-type-contenitorepagina #block-views-eventlist-block-4,
+#block-views-fourblock-block-5{
     background: white;
+}
+#block-views-eventlist-block-1 {
+    border-top: 5px solid var(--oro);
+}
+.node-type-game #block-views-eventlist-block-4,
+.node-type-contenitorepagina #block-views-eventlist-block-4,
+#block-views-fourblock-block-5{
     margin-top: 50px;
-    padding-top: 40px;
 }
 .page-node-377 #block-views-eventlist-block-1 {
     background: transparent;
@@ -797,6 +835,8 @@ margin-top: 0px;
     content: url(/sites/default/files/dove.svg);
     display: block;
     width: 25px;
+    height: 36px;
+
 }
 #block-views-orari-apertura-block:before,
 #block-views-orarisedi-block:before,
@@ -804,14 +844,39 @@ margin-top: 0px;
     content: url(/sites/default/files/time.svg);
     display: block;
     width: 30px;
+    height: 30px;
+}
+#block-views-orari-apertura-block:before,
+#block-views-orarisedi-block:before,
+#block-views-orarisedi-block-1:before,
+#block-views-dovegiocare-block:before,
+#block-views-probabilit-di-vincita-block:before,
+.iconaBloccoSedi{
+    margin-bottom: 10px!important;
+}
+
+#block-views-orari-apertura-block p,
+#block-views-orarisedi-block p,
+#block-views-orarisedi-block-1 p,
+#block-views-dovegiocare-block p,
+#block-views-probabilit-di-vincita-block p,
+.rigaBloccoInfo{
+    text-align: left;
+    line-height: 18px;
+    font-size: 14px;
+    letter-spacing: 1px;
 }
 #block-views-probabilit-di-vincita-block:before {
     content: url(/sites/default/files/percent.svg);
     display: block;
     width: 30px;
+    height: 30px;
 }
 .image_overlay {
     margin-bottom: 35px!important;
+}
+.map-box {
+    margin-bottom: 25px;
 }
 .image_overlay .description {
     text-align: center;
@@ -831,16 +896,37 @@ margin-top: 0px;
     font-size: 16px;
 
 }
+.page-node-381 #block-views-orarisedi-block,
+.page-node-381 #block-views-orarisedi-block-1,
+.page-node-381 #block-block-40,
+.page-node-381 #block-block-41--2
+ {
+    margin: 50px 0;
+    padding: 0px;
+}
+.page-node-392 #block-block-33 {
+    margin-top: 0px;
+}
+.page-node-392 .contenitoreBianco {
+padding-top: 0px;
+}
+.title-box.title-h3{
+    margin-bottom: 10px;
+}
 .node-type-sede #block-block-41,
 .node-type-sede #block-block-40{
-    padding: 40px;
+    padding: 50px;
     background-color: white;
-    margin-top: 30px;
-    font-size: 16px;
+    margin-top: 50px;
+    font-size: 15px;
+    line-height: 24px;
 
 }
+.node-type-sede #block-block-41 {
+    margin-bottom: 50px;
+}
 .BloccoBody {
-    height: 580px;
+    height: 270px;
 }
 
 .panel-group > .panel-default > .panel-heading > .panel-title > a,
@@ -908,7 +994,7 @@ margin-top: 0px;
 .node-type-contenitorepagina #sidebar,
 .node-type-game #sidebar,
 .node-type-sede #sidebar{
-    padding: 0 30px 0 30px;
+    padding: 55px 30px 30px 30px;
 }
 .node-type-events #content,
 .node-type-promo #content,
@@ -918,6 +1004,11 @@ margin-top: 0px;
 {
     padding-left: 50px;
     padding-right: 50px;
+    padding-top: 50px;
+    margin-top: 50px;
+}
+.page-node-381 #content{
+    margin-top: 0px;
 }
 .zeroPadding {
     padding-left: 0px;
@@ -927,6 +1018,7 @@ margin-top: 0px;
 .page-node-392 #content{
     padding-left: 15px;
     padding-right: 15px;
+    padding-top: 0px;
 }
 .links.inline {
     padding-left: 0px;
@@ -946,8 +1038,12 @@ margin-top: 0px;
     display: block;
     line-height: 3px;
     margin-top: 10px;
-    font-family: 'casinoRegular';
+    font-weight: bold;
     line-height: 20px;
+
+}
+.campaign-social-header,.wrapping-events-icons .field-label-above b {
+    letter-spacing: 1px;
 }
 .field-name-field-eventdate .date-display-single,
 .field-name-field-eventdate .date-display-range,
@@ -990,9 +1086,17 @@ margin-top: 0px;
     50% { opacity: 0.2; }
 }
 
-.field-name-field-images-events {
+.field-name-field-images-events,
+.marginiTopBottom{
     margin-top: 50px;
     margin-bottom: 50px;
+}
+.page-node-220 .rigaInterna {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+
+
 }
 
 .title-box {
@@ -1032,14 +1136,13 @@ margin-top: 0px;
 .fourBlockTitle{
     text-align: center;
 }
-#block-views-eventlist-block-6 {
-    padding: 30px;
-}
+
 .colonna-event-list img {
     margin-right: 10px;
 }
 .body-margin-bottom {
-    margin-bottom: 10px;
+    margin-bottom: 7px;
+    line-height: 20px;
 }
 /* Black style */
 .node-type-event  .breadcrumb-box {
@@ -1243,6 +1346,11 @@ background-color: transparent;
     padding-right: 5px;
     font-family: 'cinzel';
 }
+.campaign-social-header {
+    text-align: left;
+    font-family: 'casinoRegular';
+    font-size: 20px;
+}
 .menu-heading .titleApp:after {
     position: absolute;
     bottom: 8px;
@@ -1309,9 +1417,9 @@ margin-bottom: 30px;
 }
 /* Sidebar*/
 #sidebar .view .item-list ul li {
-    border-bottom: 1px solid #e9e9e9;
+    /*border-bottom: 1px solid #e9e9e9;*/
     overflow: hidden;
-    line-height: 47px;
+    line-height: 20px;
     -webkit-transition: all 300ms linear 0ms;
     -moz-transition: all 300ms linear 0ms;
     -o-transition: all 300ms linear 0ms;
@@ -1327,25 +1435,29 @@ margin-bottom: 30px;
 #sidebar .view .item-list ul li a {
     display: block;
     font-size: 14px;
-    line-height: 48px;
-    padding: 0 25px;
+    line-height: 20px;
+    padding: 0 10px;
     position: relative;
     float: left;
-    width: 90%;
+   /* width: 90%; */
     -webkit-transition: all 300ms linear 0ms;
     -moz-transition: all 300ms linear 0ms;
     -o-transition: all 300ms linear 0ms;
     transition: all 300ms linear 0ms;
-    color: #888;
+    color: #000000;
     outline: none;
+}
+.views-summary li {
+    color: #9d9d9d;
+    font-style: italic;
 }
 #sidebar .view .item-list ul li a:before {
     content: "\f111";
     font-family: FontAwesome;
     position: absolute;
     font-size: 5px;
-    padding-bottom: 31px;
-    left: 14px;
+    top: 2px;
+    left: 0px;
     -webkit-transition: all 0.3s ease-out;
     -moz-transition: all 0.3s ease-out;
     -o-transition: all 0.3s ease-out;
@@ -1372,7 +1484,8 @@ margin-bottom: 30px;
 }
 .campaign-social-header {
     font-size: 20px;
-    text-align: center;
+    text-align: left;
+    font-weight: bold;
 }
 #block-views-slotfocus-block-2 .title-box.title-h1
 
@@ -1467,8 +1580,8 @@ li.clubcard-right a{
 .fa {
     padding-right: 5px;
 }
-#block-block-31 .title-box,
-#block-system-main .block-content h2{
+#block-block-31 .title-box
+{
     display: none;
 }
 
@@ -1543,6 +1656,7 @@ li.clubcard-right a{
  .more-link {
     font-weight: bold;
     text-transform: uppercase;
+     padding-left: 5px;
  }
 
  .ico {
@@ -1605,10 +1719,7 @@ li.clubcard-right a{
     margin: 0px 10px;
 
 }
-.views-slideshow-cycle-main-frame-row .views-slideshow-cycle-main-frame-row-item {
-    padding: 10px;
 
-}
 .views-slideshow-cycle-main-frame-row-item .views-field-body {
     line-height: 1em;
     font-size: 12px;
@@ -1620,12 +1731,23 @@ li.clubcard-right a{
 }
 #sidebar .view-slotfocus, .dcsns {
     border-style: solid;
-    border-top-color: #847552;
+    border-top-color: transparent;
     border-top-width: 1px;
 
-    border-bottom-width: 5px;
+    border-bottom-width: 3px;
     border-bottom-color:#847552 ;
-    background-color: #E5E5E5;
+    background-color: #ffffff;
+}
+.dcsns{
+    padding-right: 0px;
+    padding-left: 0px;
+
+}
+.stream li {
+    border: 0px;
+}
+.stream li .inner {
+    padding: 0px;
 }
 #tb-megamenu-column-5 .views-field-field-titolofocus, #tb-megamenu-column-5 .views-field-field-introfocus{
     color: black;
@@ -1665,7 +1787,10 @@ li.clubcard-right a{
 }
 .view-eventlist .views-row, .view-promotionslist .views-row {
     background-color: white;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
+}
+.view-eventlist .views-row-last {
+    margin-bottom: 10px;
 }
 .node-type-events .view-display-id-block_4 .views-row,
 .page-node-377 .view-eventlist .views-row {
@@ -1674,9 +1799,7 @@ li.clubcard-right a{
 .view-eventlist .views-row .col-md-3.views-fieldset, .view-promotionslist .views-row .col-md-3.views-fieldset{
     text-align: center;
 } 
-.view-eventlist .views-row .col-md-3.views-fieldset p, .view-promotionslist .views-row .col-md-3.views-fieldset p{
-    margin-top: 10px;
-} 
+
 
 
 
@@ -1779,4 +1902,166 @@ li.clubcard-right a{
 }
 .page-node-383 td {
     font-size: 18px;
+}
+/* Last */
+#block-views-eventlist-block-1,
+#block-views-eventlist-block-4,
+#block-views-eventlist-block-5,
+#block-views-fourblock-block-5
+{
+    padding-top: 40px;
+    padding-bottom: 30px;
+
+}
+.page-node-391 #block-views-eventlist-block-1 {
+    margin-bottom: 50px;
+}
+#block-views-eventlist-block-4 .caption {
+    margin-bottom: 0px;
+}
+.nd-region {
+    padding-bottom: 0px!important;
+}
+#block-views-slotfocus-block-2 p,
+.stream li .section-text {
+    letter-spacing: 1px;
+    text-align: left;
+    line-height: 15px;
+    font-size: 14px;
+    font-family: 'lato';
+}
+.dcsns
+{
+    padding-bottom: 30px;
+}
+.views-field-field-urlink {
+    margin-bottom: 10px;
+}
+.view-slotfocus .views-field.views-field-title {
+    line-height: 16px;
+    margin-top: 4px;
+
+}
+.categoriaEvento {
+    background-color: var(--oro);
+    height: 26px;
+    color: white;
+    font-family: 'casinoRegular';
+    text-transform:uppercase ;
+    letter-spacing: 1px;
+padding-top: 3px;
+}
+.view-display-id-block_3 .demo,
+.view-display-id-block_8 .demo{
+    display: none;
+}
+.view-display-id-block_3 .caption, .view-display-id-block_3 .caption img,
+.view-display-id-block_8 .caption, .view-display-id-block_8 .caption img{
+    margin-bottom: 0px;
+}
+.view-display-id-block_3 .caption,
+.view-display-id-block_8 .caption{
+    margin-bottom: -7px;
+}
+.node-type-game .col-md-12{
+    margin-bottom: 30px;
+}
+
+.view-display-id-block_1 #views-bootstrap-grid-1 .field-content p {
+    line-height: 19px; /* Blocco lista giochi */
+}
+
+.view-display-id-block_1 #views-bootstrap-grid-1 .views-field-body {
+    margin-top: 8px;
+    height: 65px;
+}
+.view-display-id-block_1 #views-bootstrap-grid-1 h6 {
+    font-size: 14px;
+    letter-spacing: 0px;
+}
+.view-display-id-block_1 #views-bootstrap-grid-1 .row,
+.view-display-id-block #views-bootstrap-grid-1 .row{
+    margin-bottom: 30px;
+}
+.view-display-id-block h6 {
+    height: 50px;
+}
+.view-orarisedi h6 {
+    height: 20px;
+    margin-bottom: 0px;
+}
+.view-display-id-block .embedded-video {
+    height: 141px;
+}
+.view-display-id-block .field-content p{
+    text-align: justify;
+}
+.contenitoreTabella .table {
+    text-align: left;
+}
+
+.contenitoreTabella .table td,
+.contenitoreTabella .table th
+{
+    padding: 8px!important;
+}
+.contenitoreTabella .table td.cellaBianca {
+    background-color: white;
+    padding: 10px 0 23px 0!important;
+}
+.contenitoreTabella .table td.riduciAltezza {
+    padding: 5px 0 5px 0!important;
+}
+.contenitoreTabella .table th.cellaTrasparente {
+    background-color: white!important;
+}
+.testa th {
+    border: 1px solid #ffffff;
+}
+.cellaBianca p {
+    line-height: 20px;
+}
+.node-type-contenitorepagina.page-node-383 #content {
+    padding-bottom: 50px;
+}
+.turnPage {
+    background-size: 100% 100%;
+}
+#Footer-Top p, #Footer-Bottom p {
+    text-align: center!important;
+}
+.busta svg {
+    top:0px!important;
+}
+#Footer-Top svg {
+    top: -2px;
+}
+#Footer-Top a {
+    text-decoration: none;
+}
+#Footer-Top h2 {
+    margin-bottom: 10px;
+}
+#Footer-Top a,#Footer-Top p {
+
+    line-height: 24px;
+}
+.policy p{
+    text-align: center;
+    margin-bottom: 5px;
+}
+.icone a {
+    background-size: 23px 23px;
+    background-repeat: no-repeat;
+    background-position: 8px 5px;
+
+}
+.page-node-220 .slick-slide .fieldset {
+    max-height: 150px;
+}
+.slick-next {
+    right: -55px!important;
+}
+.slick-prev {
+    left: -55px!important;
 }

@@ -78,7 +78,7 @@
   <?php if (!$page): ?>
     <article id="node-<?php print $node->nid; ?>" class="<?php print $classes; ?> clearfix"<?php print $attributes; ?>>
   <?php endif; ?>
-    <h2 class = ""><?php print $title; ?></h2>
+    <!--<h2 class = ""><?php print $title; ?></h2> -->
     <?php print render($title_prefix) . render($title_suffix); ?>
 
     <?php if ($display_submitted): ?>

@@ -74,15 +74,13 @@
  * @see template_process()
  */
 ?>
-    <div class="container">
-        <?php print render($breadcrumb);?>
 
-    </div>
 <?php if(!$teaser): ?>
   <?php if (!$page): ?>
     <article id="node-<?php print $node->nid; ?>" class="<?php print $classes; ?> clearfix"<?php print $attributes; ?>>
   <?php endif; ?>
-    <h3 class = ""><?php print $title; ?></h3>
+
+    <h1 class = ""><?php print $title; ?></h1>
     <?php print render($title_prefix) . render($title_suffix); ?>
 
     <?php if ($display_submitted): ?>

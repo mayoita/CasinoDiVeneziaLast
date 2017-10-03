@@ -1,4 +1,4 @@
-h1, h3, h4,h4 a, h5 a, .labelWW, h5, h6, h6 a, .more-link a,.fourBlockTitle, .panel-title a,.image_overlay .description, .views-field-field-tipogioco, .TitoloHeader, .titleViewFooter { font-family: 'casinoRegular'; font-style: normal; font-weight: normal; }
+h1, h4,h4 a, h5 a, .labelWW, h5, h6, h6 a, .more-link a, .panel-title a,.image_overlay .description, .views-field-field-tipogioco, .TitoloHeader, .titleViewFooter, b, .title-box .title { font-family: 'casinoRegular'; font-style: normal; font-weight: normal; }
 p, #Footer-Top h3 { font-family: 'lato'; font-style: normal; font-weight: 500; }
-span, a { font-family: 'lato'; font-style: normal; font-weight: 400; }
-#Footer-Top a, #Footer-Top p, td, th, .webform-client-form, #block-block-42 .block-content { font-family: 'sofia-pro'; font-style: normal; font-weight: 400; }
+span, a, td, th { font-family: 'lato'; font-style: normal; font-weight: 400; }
+#Footer-Top a, #Footer-Top p, .webform-client-form, #block-block-42 .block-content, #Footer-Top h2,.fourBlockTitle { font-family: 'sofia-pro'; font-style: normal; font-weight: 400; }

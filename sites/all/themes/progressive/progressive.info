@@ -73,6 +73,7 @@ scripts[] = js/main.js
 scripts[] = js/drupal.js
 scripts[] = js/menuLaterale.js
 scripts[] = js/slick.js
+scripts[] = js/turn.js
 
 
 

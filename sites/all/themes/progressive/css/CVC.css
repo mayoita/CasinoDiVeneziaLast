@@ -65,6 +65,9 @@ p, span, a {
     background-color: #60bbe6;
     padding: 20px;
 }
+.navbar-right a:hover {
+    color: var(--oro);
+}
  .page-box-content {
     background-image: url('/sites/all/themes/progressive/img/trama.png');
      background-color: #ffffff;
@@ -83,10 +86,7 @@ p, span, a {
 .page-box-content {
     background-size: 1000px;
 }
-.sfondo {
-    background-image: url('/sites/all/themes/progressive/img/trama.png');
-    background-size: 1000px;
-}
+
 .titleViewFooter,
 .titleViewFooter:hover{
     text-decoration: none;
@@ -233,12 +233,20 @@ h5 a,
 .campaign-social-header,
 #sidebar .view .item-list ul li a:before,
 h6,
-.node-type-page #Content a
+.node-type-page #Content a,
+.search-result a,
+.phone-active a,
+.close:hover
 {
     color: var(--oro)!important;
-
 }
-
+.search-result .search-form .search-submit svg path,
+.search-active .search-submit svg path{
+    fill:var(--oro)!important;
+}
+.search-result a {
+    font-family: 'casinoRegular';
+}
 .title-box .title, h5 {
     font-size: 20px;
     font-weight: bold!important;
@@ -592,11 +600,12 @@ background-color: #252525!important;
     border: #fff;
     border-style: solid;
     color: #fff;
-    padding-top: 5px;
     display: inline-block;
     padding-bottom: 5px;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding: 6px 65px;
+    font-weight: bold;
+    font-size: 21px;
+
 }
 .slick-slide img, .slick-slide .field-slideshow {
     margin: 0 auto;
@@ -606,13 +615,11 @@ background-color: #252525!important;
     position: relative;
     width: 60px;
     height: 60px;
-    border-style: solid;
-    border-color: #ffffff;
-    border-width: 2px;
     border-radius: 50%;
     background-color: white;
     display: table;
-    top: -36px;
+    top: -53px;
+    left: 0px!important;
     z-index: 10;
     margin-bottom: -30px;
 }
@@ -664,6 +671,9 @@ background-color: #252525!important;
     background-size: 30px 30px!important;
     height: 30px!important;
     width: 30px!important;
+}
+.slick-dots {
+    bottom: -22px;
 }
 /*Blocco orari*/
 #block-views-orari-block, #block-views-orari-block-1, #block-views-slothome-block {
@@ -1095,7 +1105,8 @@ padding-top: 0px;
     margin-top: 0px;
     margin-bottom: 0px;
     padding: 0px;
-
+    background-image: url('/sites/all/themes/progressive/img/trama.png');
+    background-size: 1000px;
 
 }
 
@@ -1853,7 +1864,7 @@ li.clubcard-right a{
 
 
 #section05 a {
-    padding-top: 70px;
+    padding-top: 25px;
 }
 #section05 a span {
     position: absolute;
@@ -2058,10 +2069,42 @@ padding-top: 3px;
 }
 .page-node-220 .slick-slide .fieldset {
     max-height: 150px;
+
 }
 .slick-next {
     right: -55px!important;
 }
 .slick-prev {
     left: -55px!important;
+}
+#section05 a span {
+    color: transparent;
+}
+.mb_YTPBar{
+    display: none!important;
+}
+.page-node-373 #content{
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+}
+.page-node-408 #content,
+.page-node-404 #content{
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+}
+#block-views-turnview-pdf {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: 'sofia-pro';
+
+}
+#block-views-turnview-pdf a{
+    color: var(--oro);
+}
+.sezione {
+height: 0px;
+    visibility: hidden;
+    position: relative;
+    top: -200px;
 }

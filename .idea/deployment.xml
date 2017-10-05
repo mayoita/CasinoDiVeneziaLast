@@ -2,10 +2,10 @@
 <project version="4">
   <component name="PublishConfigData">
     <serverData>
-      <paths name="CasinoNew">
+      <paths name="Venis.it">
         <serverdata>
           <mappings>
-            <mapping deploy="/sites" local="$PROJECT_DIR$/sites" web="/" />
+            <mapping deploy="/" local="$PROJECT_DIR$/sites" web="/" />
           </mappings>
         </serverdata>
       </paths>

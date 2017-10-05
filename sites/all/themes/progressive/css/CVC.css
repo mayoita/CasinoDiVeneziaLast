@@ -630,7 +630,7 @@ background-color: #252525!important;
     font-weight: bold;
     text-align: center;
     font-size: 14px;
-    font-weight: bold;
+
 }
 .fourBlockTitle {
     margin-bottom: 20px;
@@ -725,7 +725,7 @@ margin-top: 60px;
     font-weight: bold;
 }
 .page-user .page-box .page-box-content  .main + .nd-region {
-    background: url("/sites/default/files/venezia3.jpg");
+    background: url("/sites/default/files/chemin.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -2107,4 +2107,11 @@ height: 0px;
     visibility: hidden;
     position: relative;
     top: -200px;
+}
+.padding50 {
+    padding: 50px!important;
+    background-color: white;
+}
+.eliminaMargine {
+    margin-bottom: 0px!important;
 }

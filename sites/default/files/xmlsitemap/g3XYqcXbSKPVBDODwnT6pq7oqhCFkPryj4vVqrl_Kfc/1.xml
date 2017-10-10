@@ -3,7 +3,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>http://casinodivenezialast.dd:8083/en</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
 <url><loc>http://casinodivenezialast.dd:8083/en/ca-vendramin-calergi</loc></url>
-<url><loc>http://casinodivenezialast.dd:8083/en/node/374</loc></url>
+<url><loc>http://casinodivenezialast.dd:8083/en/events</loc></url>
+<url><loc>http://casinodivenezialast.dd:8083/en/games</loc></url>
+<url><loc>http://casinodivenezialast.dd:8083/en/venues</loc></url>
+<url><loc>http://casinodivenezialast.dd:8083/en/contacts</loc></url>
+<url><loc>http://casinodivenezialast.dd:8083/en/venues/canoghera</loc></url>
+<url><loc>http://casinodivenezialast.dd:8083/en/probability-winning</loc></url>
+<url><loc>http://casinodivenezialast.dd:8083/en/services-and-transport</loc></url>
+<url><loc>http://casinodivenezialast.dd:8083/en/electronic-games</loc></url>
+<url><loc>http://casinodivenezialast.dd:8083/en/tables-game</loc></url>
+<url><loc>http://casinodivenezialast.dd:8083/en/tournaments</loc></url>
+<url><loc>http://casinodivenezialast.dd:8083/en/dining</loc></url>
+<url><loc>http://casinodivenezialast.dd:8083/en/ristorazionecanoghera</loc></url>
 <url><loc>http://casinodivenezialast.dd:8083/en/casino/games/black-jack</loc><lastmod>2017-09-09T10:01Z</lastmod><changefreq>monthly</changefreq></url>
 <url><loc>http://casinodivenezialast.dd:8083/en/casino/games/french-roulette</loc><lastmod>2017-09-08T17:27Z</lastmod><changefreq>monthly</changefreq></url>
 <url><loc>http://casinodivenezialast.dd:8083/en/casino/games/chemin-de-fer</loc><lastmod>2017-09-20T13:48Z</lastmod><changefreq>weekly</changefreq></url>

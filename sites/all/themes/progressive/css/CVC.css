@@ -80,7 +80,8 @@ p, span, a {
     width: 40%;
     margin: 60px auto 20px auto;
 }
-#block-views-eventlist-block-6 .view-footer{
+#block-views-eventlist-block-6 .view-footer,
+#block-views-eventlist-block-9 .view-footer{
     width: 50%;
 }
 .page-box-content {
@@ -92,9 +93,7 @@ p, span, a {
     text-decoration: none;
 }
 
- .front  .page-box-content {
-     background-image: none;
- }
+
  .front .nd-region,
  .page-node-377 .nd-region{
      padding-top: 0px;
@@ -236,7 +235,8 @@ h6,
 .node-type-page #Content a,
 .search-result a,
 .phone-active a,
-.close:hover
+.close:hover,
+#mce-responses a
 {
     color: var(--oro)!important;
 }
@@ -298,7 +298,9 @@ h1 {
 .rigaInterna,
 #block-block-42 .block-content,
 #block-views-fourblock-block-3,
-#block-views-eventlist-block-6{
+#block-views-eventlist-block-6,
+#block-views-eventlist-block-9,
+#block-views-fourblock-block-6{
     padding: 50px;
 }
 
@@ -977,7 +979,9 @@ padding-top: 0px;
 .node-type-game #sidebar,
 .contenitoreBianco,
 #block-views-eventlist-block-6,
-#block-views-fourblock-block-3
+#block-views-eventlist-block-9,
+#block-views-fourblock-block-3,
+#block-views-fourblock-block-6
 {
     background-color: white;
 }
@@ -1041,7 +1045,8 @@ padding-top: 0px;
     margin-bottom: 30px;
     margin-top: 30px;
 }
-#block-views-fourblock-block-3 {
+#block-views-fourblock-block-3,
+#block-views-fourblock-block-6{
     margin-bottom: 40px;
 }
 .wrapping-events-icons .field-label-above b {
@@ -1144,6 +1149,8 @@ padding-top: 0px;
 #block-views-fourblock-block-5 .title-box,
 #block-views-eventlist-block-6 .title-box,
 #block-views-fourblock-block-3 .title-box,
+#block-views-fourblock-block-6 .title-box,
+#block-views-eventlist-block-9 .title-box,
 .fourBlockTitle{
     text-align: center;
 }
@@ -2114,4 +2121,49 @@ height: 0px;
 }
 .eliminaMargine {
     margin-bottom: 0px!important;
+}
+.page-node-220 #mc_embed_signup h2 {
+    font-family: 'casinoRegular';
+    text-align: center;
+}
+.page-node-220  .mc-field-group.input-group {
+    left: 20px;
+    display: table;
+    margin: 20px 0;
+}
+.page-node-220  .mc-field-group {
+    font-family: 'sofia-pro';
+}
+.page-node-220  .mc-field-group.input-group strong,.page-node-220  .mc-field-group.input-group ul {
+    display: table-cell;
+    vertical-align: top;
+    line-height: 16px;
+}
+.page-node-222 #content,
+.page-node-236 #content,
+.page-node-237 #content,
+.page-node-245 #content,
+.page-node-246 #content{
+    margin: 50px;
+    padding: 50px;
+    background-color: white;
+    border-bottom: 5px solid var(--oro);
+    border-top: 5px solid var(--oro);
+}
+.page-node-245 #content,
+.page-node-246 #content{
+    margin: 50px 0;
+    padding: 50px;
+    background-color: white;
+    border-bottom: 5px solid var(--oro);
+    border-top: 5px solid var(--oro);
+}
+#block-block-41 a, #block-block-41 a:visited {
+    color: black;
+}
+.bloccoDress {
+    height: 230px;
+}
+.altezzaBloccoSedi{
+    height: 550px;
 }

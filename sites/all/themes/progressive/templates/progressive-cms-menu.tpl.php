@@ -31,7 +31,7 @@ $one_page = isset($layout['settings']['one_page']) && $layout['settings']['one_p
 
           <ul class="nav navbar-nav navbar-right">
                   <li>
-                      <a  class="phone-call" href="#">
+                      <a  class="phone-call tagTelefono" href="#">
                           <i class="fa fa-mobile"></i><?php print t('Call Us'); ?>
                       </a>
 

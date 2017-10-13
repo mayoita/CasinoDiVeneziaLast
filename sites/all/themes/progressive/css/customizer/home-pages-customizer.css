@@ -1,5 +1,7 @@
 @charset "utf-8";
-
+html{
+  --oro:#847552;
+}
 #top-box,
 .carousel-box .next:hover,
 .carousel-box .prev:hover,
@@ -170,11 +172,11 @@
   .accordion-tab > li.active:hover > a,
   .products-tab .accordion-tab > li.active > a,
   .products-tab .accordion-tab > li.active:hover > a {
-    background-color: #c79c60;
+    background-color: var(--oro);
   }
   .header .primary .navbar .nav > .parent.active > a,
   .header .primary .navbar .nav > .parent.active:hover > a {
-    border-color: #c79c60;
+    border-color: var(--oro);
   }
 }
 .top-navbar .nav > li a,

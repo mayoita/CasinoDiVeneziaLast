@@ -89,7 +89,7 @@
 
     <?php print render($content['links']); ?>
     <div class="wrapping-events-icons">
-        <div class="col-md-4">
+        <div class="colonnaEvento col-xs-4 col-md-4">
         <div class="events-icons-dove">
             <a href="#">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.32 33.3">
@@ -106,7 +106,7 @@
         </div>
             <?php print render($content['field_where']); ?>
     </div>
-    <div class="col-md-4">
+    <div class="colonnaEvento col-xs-4 col-md-4">
         <div class="events-icons">
             <a href="#">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28.14 28.14">
@@ -123,7 +123,7 @@
         <?php print render($content['field_eventdate']); ?>
     </div>
 
-        <div class="col-md-4">
+        <div class="colonnaEvento col-xs-4 col-md-4">
 
             <?php if($field_prenota[0]['value'] == 1): ?>
             <div class="events-icons">

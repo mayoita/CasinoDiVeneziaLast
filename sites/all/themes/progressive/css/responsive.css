@@ -9,7 +9,9 @@
     padding-bottom: 0;
   }
 }
-  
+html{
+  --oro:#847552;
+}
 /******************************************************************************
   Min Width "1200x"
 *******************************************************************************/
@@ -70,7 +72,7 @@
     overflow: visible !important;
   }
   .fixed-header .page-box {
-    padding-top: 104px!important;
+    padding-top: 143px!important;
   }
 }
 
@@ -399,7 +401,7 @@
     margin: 0;
     padding: 7px 9px 7px 59px;
     text-decoration: none;
-    color:#c79c60;
+    color:var(--oro);
   }
   .header .primary .navbar .nav > li > a:hover,
   .header .primary .navbar .nav > li:hover > a {
@@ -1052,6 +1054,190 @@
   Max Width "767px"
 *******************************************************************************/
 @media (max-width: 767px) {
+  .contenitoreBianco,
+  .rigaInterna,
+  #block-block-42
+  .block-content,
+  #block-views-fourblock-block-3,
+  #block-views-eventlist-block-6,
+  #block-views-eventlist-block-9,
+  #block-views-fourblock-block-6
+  {
+    padding: 25px!important;
+  }
+  .bloccoDress {
+    height: 300px;
+  }
+  #block-views-eventlist-block-6 .view-footer,
+  #block-views-eventlist-block-9 .view-footer {
+    width: 90%;
+  }
+  #block-views-eventlist-block-1,
+  #block-views-eventlist-block-4{
+    display: none;
+  }
+  .colonnaEvento {
+    padding: 0;
+  }
+  .demo {
+    display: none;
+  }
+  .events-icons-dove {
+    width: 25px;
+  }
+  .wrapping-events-icons {
+    margin-bottom: 25px;
+  }
+  .field-name-field-eventdate .date-display-single, .field-name-field-eventdate .date-display-range, .field-name-field-where a {
+    font-size: 10px;
+  }
+  .node-type-events .field-label-above, .node-type-tournaments .field-label-above, .node-type-promo .field-label-above {
+    margin-left: 38px;
+    line-height: 16px;
+  }
+  .campaign-social-header, .wrapping-events-icons .field-label-above b {
+    font-size: 15px;
+    margin-top: 0;
+  }
+
+  .events-icons {
+    width: 30px;
+  }
+  .node-type-page .col-md-6,
+  .node-type-sede #content,
+  .node-type-contenitorepagina .col-md-12{
+    padding: 0;
+  }
+  .TitoloHeader {
+    top: -27px;
+  }
+  .TitoloHeader,
+  .image_overlay .description {
+    font-size: 14px!important;
+  }
+  .image_overlay .description {
+    margin: 0 25px;
+  }
+  .node-type-events h1,
+  h1{
+    font-size: 20px!important;
+    margin-bottom: 5px;
+  }
+  .node-type-sede #content #block-system-main {
+    margin-top: 0;
+  }
+  .node-type-sede #block-block-41, .node-type-sede #block-block-40 {
+    padding: 25px;
+  }
+  .image_overlay {
+    margin-bottom: 0!important;
+  }
+  .node-type-events #content,
+  .node-type-promo #content,
+  .node-type-tournaments #content,
+  .node-type-contenitorepagina #content,
+  .node-type-game #content {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    margin-top: 25px;
+  }
+  .map-box>div {
+    height: 300px!important;
+  }
+  .altezzaBloccoSedi {
+    height: 600px;
+  }
+  .altezzaDress {
+    height: 370px;
+  }
+  .slick-prev {
+    left: -25px!important;
+  }
+  .slick-next {
+    right: -25px!important;
+  }
+  .BloccoBody,
+  .contenitoreBianco,
+  .node-type-sede .contenitoreBianco,
+  .padding50{
+    margin: 25px!important;
+    padding: 25px!important;
+  }
+  .rigaInterna.row {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .a2a_svg {
+    width: 30px!important;
+    line-height: 30px!important;
+    height: 30px!important;
+  }
+  .contenitoreBianco.rigaInterna {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .contenitoreTabellaOrari>table {
+    width: 300px!important;
+  }
+  .contenitoreBianco.rigaInterna.row {
+    margin-left: 0!important;
+    margin-right: 0!important;
+  }
+  #block-views-slotcalendar-block .mb_YTPlayer iframe,
+  #block-views-slotcalendar-block img{
+    max-height: 189px;
+  }
+  .view-eventlist h5 {
+    margin-top: 10px;
+  }
+  .page-node-383 td {
+    font-size: 12px;
+  }
+  .page-node-383 th {
+    font-size: 16px!important;
+  }
+  .header .primary .navbar .nav > li:hover > a {
+    color: var(--oro);
+  }
+  .header .primary .navbar .nav > .active> a:visited {
+    color: #fff!important;
+  }
+  .page-node-391 #content,
+  .page-node-462 #content,
+  .page-node-392 #content,
+  .page-node-461 #content,
+  .page-node-460 #content,
+  .page-node-418 #content,
+  .page-node-459 #content,
+  .page-node-381 #content,
+  .page-node-464 #content,
+  .page-node-466 #content{
+    margin: 0;
+    padding: 0;
+  }
+  .page-node-391 .container,
+  .page-node-418 .container,
+  .page-node-459 .container{
+    padding: 0;
+  }
+  .page-node-391 .container .row,
+  .page-node-418 .container .row,
+  .page-node-459 .container .row{
+    margin-bottom: 0!important;
+  }
+  .ristorante, .ristoranteBottom .contenitoreBianco{
+    margin: 0!important;
+  }
+  .contattiNewsletter {
+    margin: 25px 20px;
+  }
+  #popup-announcement-wrap {
+    width: 300px!important;
+
+    left: 36px!important;
+  }
+  /* Massimo fine */
   .container {
     padding-left: 10px;
     padding-right: 10px;

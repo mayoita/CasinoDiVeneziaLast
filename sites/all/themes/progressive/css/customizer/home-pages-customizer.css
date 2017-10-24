@@ -1,5 +1,7 @@
 @charset "utf-8";
-
+html{
+  --oro:#847552;
+}
 #top-box,
 .carousel-box .next:hover,
 .carousel-box .prev:hover,
@@ -55,7 +57,10 @@
 .progressive-slider-two .pagination a,
 .progressive-slider-two .pagination a:hover,
 .progressive-slider-two .pagination .selected {
-  background-color: #c10841;
+  background-color: var(--oro);
+}
+.pagination-box .pagination > li > a:hover {
+  color: white!important;
 }
 .slider .slider-nav {
   background-color: rgba(193,8,65,.97);
@@ -84,7 +89,7 @@
 .pagination > .active > span:hover,
 .sidebar .tags a,
 .btn-group.open .btn.dropdown-toggle {
-  background-color: rgba(193,8,65,.7);
+  background-color: var(--oro);
 }
 .sidebar .banners .banner-text {
   background-color: rgba(193,8,65,.65);
@@ -170,11 +175,11 @@
   .accordion-tab > li.active:hover > a,
   .products-tab .accordion-tab > li.active > a,
   .products-tab .accordion-tab > li.active:hover > a {
-    background-color: #c79c60;
+    background-color: var(--oro);
   }
   .header .primary .navbar .nav > .parent.active > a,
   .header .primary .navbar .nav > .parent.active:hover > a {
-    border-color: #c79c60;
+    border-color: var(--oro);
   }
 }
 .top-navbar .nav > li a,

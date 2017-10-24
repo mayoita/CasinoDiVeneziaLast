@@ -95,10 +95,12 @@ p, span, a {
 
 
  .front .nd-region,
- .page-node-377 .nd-region{
+ .page-node-377 .nd-region,
+ .page-node-419 .nd-region,
+ .page-node-428 .nd-region{
      padding-top: 0px;
  }
- .page-node-377 .block-content h2,
+
  #block-block-34 .title-box,
  #block-block-32 .title-box,
  #block-block-33 .title-box,
@@ -143,6 +145,9 @@ td.danger, .table > tbody > tr > td.intestazioneRiga,
 input.webform-submit.button-primary.btn.form-submit{
   background-color: #847552!important;  /* oro #847552 */
 }
+.webform-submit {
+    padding: 4px 20px;
+}
 .contentRightSidebar {
     margin-left: 50px;
 }
@@ -185,10 +190,23 @@ td.danger, .table > tbody > tr > td.intestazioneRiga {
    color: white;
     z-index: 10;
 }
-.headerInList .content-block {
+.headerInList .content-block,
+.view-eventlist .content-block,
+.view-eventstop .content-block,
+.col-xs-5.col-md-3 .content-block{
     padding: 0px;
-
 }
+.headerInList p,
+.headerInList .demo{
+    display: none;
+}
+.headerInList .caption{
+    margin: 0;
+}
+.bloccoHomeEvents {
+    height: 342px;
+}
+
 .node-type-events h3,
 .node-type-tournaments h3,
 .node-type-promo h3,
@@ -227,6 +245,8 @@ h5 a,
 .node-type-contenitorepagina h4 a,
 .node-type-contenitorepagina h4 a:hover,
 .page-node-391 h5,
+.page-node-418 h5,
+.page-node-459 h5,
 .gallery-images:hover .bg-images i:before
     ,h1, h2,
 .campaign-social-header,
@@ -236,9 +256,18 @@ h6,
 .search-result a,
 .phone-active a,
 .close:hover,
-#mce-responses a
+#mce-responses a,
+.archivio h2 a,
+.page-taxonomy #Content h2 a
 {
     color: var(--oro)!important;
+}
+.pagination > .active > span,
+.pagination > .active > span, .pagination > .active > span:hover{
+    background-color: var(--oro);
+}
+.centra {
+    text-align: center;
 }
 .search-result .search-form .search-submit svg path,
 .search-active .search-submit svg path{
@@ -346,8 +375,13 @@ h1 {
     color: var(--oro);
     font-family: 'casinoRegular';
 }
-#block-views-gallery-block-1 {
+#block-views-gallery-block-1,
+#block-views-gallery-block-2{
     text-align: center;
+}
+#block-views-gallery-block-1 .title-box,
+#block-views-gallery-block-2 .title-box{
+    margin-bottom: 0px;
 }
 /* eventsTop */
 #block-views-eventstop-block {
@@ -376,12 +410,7 @@ h1 {
     width: 100%;
     margin: 0px;
 }
-.view-eventstop .content-block {
-    padding: 0px;
-}
-.col-xs-5.col-md-3 .content-block {
-    padding: 0px;
-}
+
 
 .view-orarisedi .views-row-1 {
     margin-bottom: 20px;
@@ -450,10 +479,23 @@ display: none!important;
 .image_overlay img,
 .bordoBottom8,
 .page-node-387 div#content.col-md-12,
-.page-node-376 #content
+.page-node-376 #content,
+.page-node-444 #content,
+.page-node-445 #content
 
 {
     border-bottom: 5px solid #847552;
+}
+.page-node-376 #block-views-eventlist-block-4,
+.page-node-444 #block-views-eventlist-block-4,
+.page-node-445 #block-views-eventlist-block-4,
+.page-node-450 #block-views-eventlist-block-4,
+.page-node-387 #block-views-eventlist-block-4,
+.page-node-451 #block-views-eventlist-block-4,
+.page-node-386 #content,
+.page-node-452 #content,
+.page-node-453 #content{
+    margin-bottom: 50px;
 }
 .page-node-387 div#content.col-md-12 {
     padding-bottom: 50px;
@@ -473,9 +515,7 @@ display: none!important;
     border-top: 5px solid #847552;
     border-bottom: 5px solid #847552;
 }
-.page-node-377 #block-views-eventlist-block-1 {
-    border: none;
-}
+
 .view-eventstop .content-block {
     margin-bottom: -2px;
 }
@@ -613,15 +653,16 @@ background-color: #252525!important;
     margin: 0 auto;
     margin-bottom: 5px;
 }
-.circleEventDate {
+
+.headerInList .circleEventDate {
     position: relative;
     width: 60px;
     height: 60px;
     border-radius: 50%;
     background-color: white;
     display: table;
-    top: -53px;
-    left: 0px!important;
+    top: -43px;
+    left: -16px!important;
     z-index: 10;
     margin-bottom: -30px;
 }
@@ -807,8 +848,11 @@ margin-top: 0px;
 #block-views-fourblock-block-5{
     margin-top: 50px;
 }
-.page-node-377 #block-views-eventlist-block-1 {
+.page-node-377 #block-views-eventlist-block-1,
+.page-node-419 #block-views-eventlist-block-1,
+.page-node-428 #block-views-eventlist-block-1{
     background: transparent;
+    border: none;
 }
 #bottom {
     padding-left: 0px;
@@ -892,10 +936,11 @@ margin-top: 0px;
 }
 .image_overlay .description {
     text-align: center;
-    margin: 0px 100px;
+
     font-size: 23px!important;
     line-height: 22px;
-    padding: 23px!important;
+    padding: 15px 50px 10px 50px!important;
+    margin: 0 70px;
 }
 
 .BloccoBody,
@@ -906,25 +951,28 @@ margin-top: 0px;
     background-color: white;
     margin: 40px;
     font-size: 16px;
-
 }
 .page-node-381 #block-views-orarisedi-block,
 .page-node-381 #block-views-orarisedi-block-1,
+.page-node-464 #block-views-orarisedi-block,
+.page-node-464 #block-views-orarisedi-block-1,
+.page-node-466 #block-views-orarisedi-block,
+.page-node-466 #block-views-orarisedi-block-1,
 .page-node-381 #block-block-40,
-.page-node-381 #block-block-41--2
+.page-node-381 #block-block-41--2,
+.page-node-464 #block-block-40,
+.page-node-464 #block-block-41--2,
+.page-node-466 #block-block-40,
+.page-node-466 #block-block-41--2
  {
     margin: 50px 0;
     padding: 0px;
 }
-.page-node-392 #block-block-33 {
-    margin-top: 0px;
-}
-.page-node-392 .contenitoreBianco {
-padding-top: 0px;
-}
+
 .title-box.title-h3{
     margin-bottom: 10px;
 }
+
 .node-type-sede #block-block-41,
 .node-type-sede #block-block-40{
     padding: 50px;
@@ -985,14 +1033,50 @@ padding-top: 0px;
 {
     background-color: white;
 }
+.page-node-392 #block-block-33,
+.page-node-462 #block-block-33,
+.page-node-460 #block-block-33,
+.page-node-461 #block-block-33{
+    margin-top: 0px;
+}
+.page-node-392 .contenitoreBianco,
+.page-node-462 .contenitoreBianco,
+.page-node-460 .contenitoreBianco,
+.page-node-461 .contenitoreBianco{
+    padding-top: 0px;
+}
+.page-node-391 #block-views-eventlist-block-1,
+.page-node-418 #block-views-eventlist-block-1,
+.page-node-459 #block-views-eventlist-block-1{
+    margin-bottom: 50px;
+}
 .page-node-391 #content,
-.page-node-392 #content{
-    background-color: transparent;
-}
+.page-node-392 #content,
+.page-node-460 #content,
+.page-node-461 #content,
+.page-node-462 #content,
+.page-node-418 #content,
+.page-node-459 #content,
 .page-node-381 #content,
-.page-node-385 #content{
+.page-node-464 #content,
+.page-node-466 #content,
+.page-node-385 #content,
+.page-node-426 #content,
+.page-node-436 #content{
     background-color: transparent;
 }
+.page-node-391 #content,
+.page-node-418 #content,
+.page-node-459 #content,
+.page-node-460 #content,
+.page-node-461 #content,
+.page-node-392 #content,
+.page-node-462 #content{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 0px;
+}
+
 .contenitoreTabellaOrari {
     background-color: white;
     display: inline-block;
@@ -1021,19 +1105,16 @@ padding-top: 0px;
     padding-top: 50px;
     margin-top: 50px;
 }
-.page-node-381 #content{
+.page-node-381 #content,
+.page-node-464 #content,
+.page-node-466 #content{
     margin-top: 0px;
 }
 .zeroPadding {
     padding-left: 0px;
     padding-right: 0px;
 }
-.page-node-391 #content,
-.page-node-392 #content{
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-top: 0px;
-}
+
 .links.inline {
     padding-left: 0px;
 }
@@ -1482,7 +1563,7 @@ margin-bottom: 30px;
     transition: all 0.3s ease-out;
 }
 #sidebar .view .item-list ul li a:hover {
-    color: #fff;
+    color: #fff!important;
     padding-left: 35px;
 }
 #sidebar .view .item-list ul li a:hover:before {
@@ -1811,7 +1892,9 @@ li.clubcard-right a{
     margin-bottom: 10px;
 }
 .node-type-events .view-display-id-block_4 .views-row,
-.page-node-377 .view-eventlist .views-row {
+.page-node-377 .view-eventlist .views-row,
+.page-node-419 .view-eventlist .views-row,
+.page-node-428 .view-eventlist .views-row{
     background: transparent;
 }
 .view-eventlist .views-row .col-md-3.views-fieldset, .view-promotionslist .views-row .col-md-3.views-fieldset{
@@ -1873,6 +1956,10 @@ li.clubcard-right a{
 #section05 a {
     padding-top: 25px;
 }
+#section06 {
+    position: relative;
+    top:-200px;
+}
 #section05 a span {
     position: absolute;
     top: 0;
@@ -1931,9 +2018,7 @@ li.clubcard-right a{
     padding-bottom: 30px;
 
 }
-.page-node-391 #block-views-eventlist-block-1 {
-    margin-bottom: 50px;
-}
+
 #block-views-eventlist-block-4 .caption {
     margin-bottom: 0px;
 }
@@ -1970,7 +2055,8 @@ li.clubcard-right a{
 padding-top: 3px;
 }
 .view-display-id-block_3 .demo,
-.view-display-id-block_8 .demo{
+.view-display-id-block_8 .demo,
+.view-eventlist .demo{
     display: none;
 }
 .view-display-id-block_3 .caption, .view-display-id-block_3 .caption img,
@@ -2064,6 +2150,7 @@ padding-top: 3px;
 
     line-height: 24px;
 }
+
 .policy p{
     text-align: center;
     margin-bottom: 5px;
@@ -2140,7 +2227,18 @@ height: 0px;
     line-height: 16px;
 }
 .page-node-222 #content,
+.page-node-223 #content,
+.page-node-227 #content,
+.page-node-228 #content,
+.page-node-229 #content,
+.page-node-230 #content,
+.page-node-221 #content,
+.page-node-231 #content,
+.page-node-232 #content,
+.page-node-233 #content,
+.page-node-234 #content,
 .page-node-236 #content,
+.page-node-235 #content,
 .page-node-237 #content,
 .page-node-245 #content,
 .page-node-246 #content{
@@ -2158,12 +2256,62 @@ height: 0px;
     border-bottom: 5px solid var(--oro);
     border-top: 5px solid var(--oro);
 }
-#block-block-41 a, #block-block-41 a:visited {
-    color: black;
+#block-block-41 a, #block-block-41 a:visited,
+#block-block-41--2 a, #block-block-41 a:visited,
+#block-block-40 a, #block-block-40 a:visited{
+    color: var(--oro);
 }
 .bloccoDress {
     height: 230px;
 }
 .altezzaBloccoSedi{
     height: 550px;
+}
+.archivio,
+.page-taxonomy #Content
+{
+    margin: 50px;
+    padding: 50px;
+    background-color: white;
+    border-bottom: 5px solid var(--oro);
+    border-top: 5px solid var(--oro);
+}
+.archivio .entry-content,
+.archivio h2,
+.page-taxonomy #Content h2{
+    margin-bottom: 0px!important;
+}
+.page-taxonomy .field-name-body a {
+    color: black;
+}
+.page-node-381 #block-block-32,
+.page-node-381 #block-block-33,
+.page-node-464 #block-block-32,
+.page-node-464 #block-block-33,
+.page-node-466 #block-block-32,
+.page-node-466 #block-block-33{
+    height: 600px;
+}
+.webform-component--testo p{
+    color: black;
+}
+.webform-component--testo a,
+#mc_embed_signup a,
+#block-block-42 a:visited{
+    color: var(--oro);
+}
+#block-views-slotcalendar-block .mb_YTPlayer iframe,
+#block-views-slotcalendar-block img{
+    max-height: 141px;
+}
+
+.node-type-promo h1{
+    font-size: 24px;
+}
+.ColonnaSlotCalendar {
+    margin-bottom: 30px;
+}
+.ColonnaSlotCalendar h6{
+    margin-bottom: 0;
+    text-transform: uppercase;
 }

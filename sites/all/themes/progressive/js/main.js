@@ -1492,6 +1492,29 @@ function massimo() {
     $(".notify-badge").css('left', ((parseFloat($(".slick-slide").width()) - 190)/2) - $(".notify-badge").outerWidth(true)/2);
     $(".circleEventDate").css('left', ((parseFloat($(".field-slideshow-wrapper").width()) - 190)/2) - $(".circleEventDate").width()/2);
 
+    $( ".headerInList" ).each(function() {
+            var elemento = $(this).find(".content-block img");
+           // var elementoVideo = $(this).find(".content-block .video-box");
+            if (elemento[0] == null) {
+               // $(this).find(".percorsoNodo").append(elementoVideo);
+              //  $(this).find(".content-block").remove();
+			} else{
+                $(this).find(".percorsoNodo").append(elemento);
+                $(this).find(".content-block").remove();
+			}
+
+		});
+    $( ".creaLink" ).each(function() {
+        var elemento = $(this).find(".content-block img");
+        $(this).find(".percorsoNodo").append(elemento);
+        $(this).find(".content-block").remove();
+    });
+
+    $('a[href*=#]').on('click', function(e) {
+        e.preventDefault();
+        $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
+    });
+
 }
 jQuery(document).ready(function(){
   'use strict';

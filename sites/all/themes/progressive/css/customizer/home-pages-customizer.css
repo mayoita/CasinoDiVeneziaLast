@@ -57,7 +57,10 @@ html{
 .progressive-slider-two .pagination a,
 .progressive-slider-two .pagination a:hover,
 .progressive-slider-two .pagination .selected {
-  background-color: #c10841;
+  background-color: var(--oro);
+}
+.pagination-box .pagination > li > a:hover {
+  color: white!important;
 }
 .slider .slider-nav {
   background-color: rgba(193,8,65,.97);
@@ -86,7 +89,7 @@ html{
 .pagination > .active > span:hover,
 .sidebar .tags a,
 .btn-group.open .btn.dropdown-toggle {
-  background-color: rgba(193,8,65,.7);
+  background-color: var(--oro);
 }
 .sidebar .banners .banner-text {
   background-color: rgba(193,8,65,.65);

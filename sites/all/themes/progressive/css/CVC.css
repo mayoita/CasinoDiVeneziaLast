@@ -196,7 +196,16 @@ td.danger, .table > tbody > tr > td.intestazioneRiga {
 .col-xs-5.col-md-3 .content-block{
     padding: 0px;
 }
-
+.headerInList p,
+.headerInList .demo{
+    display: none;
+}
+.headerInList .caption{
+    margin: 0;
+}
+.bloccoHomeEvents {
+    height: 342px;
+}
 
 .node-type-events h3,
 .node-type-tournaments h3,
@@ -252,6 +261,10 @@ h6,
 .page-taxonomy #Content h2 a
 {
     color: var(--oro)!important;
+}
+.pagination > .active > span,
+.pagination > .active > span, .pagination > .active > span:hover{
+    background-color: var(--oro);
 }
 .centra {
     text-align: center;
@@ -640,15 +653,16 @@ background-color: #252525!important;
     margin: 0 auto;
     margin-bottom: 5px;
 }
-.circleEventDate {
+
+.headerInList .circleEventDate {
     position: relative;
     width: 60px;
     height: 60px;
     border-radius: 50%;
     background-color: white;
     display: table;
-    top: -53px;
-    left: 0px!important;
+    top: -43px;
+    left: -16px!important;
     z-index: 10;
     margin-bottom: -30px;
 }
@@ -1942,6 +1956,10 @@ li.clubcard-right a{
 #section05 a {
     padding-top: 25px;
 }
+#section06 {
+    position: relative;
+    top:-200px;
+}
 #section05 a span {
     position: absolute;
     top: 0;
@@ -2037,7 +2055,8 @@ li.clubcard-right a{
 padding-top: 3px;
 }
 .view-display-id-block_3 .demo,
-.view-display-id-block_8 .demo{
+.view-display-id-block_8 .demo,
+.view-eventlist .demo{
     display: none;
 }
 .view-display-id-block_3 .caption, .view-display-id-block_3 .caption img,
@@ -2131,6 +2150,7 @@ padding-top: 3px;
 
     line-height: 24px;
 }
+
 .policy p{
     text-align: center;
     margin-bottom: 5px;
@@ -2283,4 +2303,15 @@ height: 0px;
 #block-views-slotcalendar-block .mb_YTPlayer iframe,
 #block-views-slotcalendar-block img{
     max-height: 141px;
+}
+
+.node-type-promo h1{
+    font-size: 24px;
+}
+.ColonnaSlotCalendar {
+    margin-bottom: 30px;
+}
+.ColonnaSlotCalendar h6{
+    margin-bottom: 0;
+    text-transform: uppercase;
 }

@@ -2,40 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d772fba-59f0-4aac-9027-6f3b8d7b1dac" name="Default" comment="From PhpStorm">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/languages/it_TkRRGxZ_bTyHWPISTyxme1v_7PJpfRXN3odrO0Vy3x0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/languages/zh-hans_L_N1fdPc8A4tD5i6gbnQ7NZrwLRrMcaSBO372DIMDsI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/12000x675-pagina-rumori-fuori-cena-ita.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/1200x675-compleanno.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/blackhighlight.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/caribbeanhighlight.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/cele.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/cheminhighlight.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/cluctop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/events/1200x675-calici-di-stelle.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/events/1200x675-calici2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/events/1200x675-home-win-city.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/events/craparo_650.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/events/maxresdefault_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/events/saporito_650.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/fairhighlight.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/frenchhighlight.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/prestige.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/puntohighlight.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/ten1200x675.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/tour.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/video_embed_field_thumbnails/youtube/hoRI_T8rSAA.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/video_embed_field_thumbnails/youtube/rBcVoMG_Zzo.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/modules/image/sample.png" afterPath="$PROJECT_DIR$/sites/default/files/styles/youtuberatiosmall/public/modules/image/sample.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/languages/it_fDKXkMFdZRYamthcm3_72i97YOwVrSo2acKkIQM1Dnk.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/css/customizer/home-pages-customizer.css" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/css/customizer/home-pages-customizer.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/css/responsive.css" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/css/responsive.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/js/main.js" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/templates/node--events.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/node--events.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/templates/node--promo.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/node--promo.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/templates/node--tournaments.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/node--tournaments.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/progressive/templates/page--type-tournaments.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/progressive/templates/page--type-tournaments.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/fontyourface/font.css" afterPath="$PROJECT_DIR$/sites/default/files/fontyourface/font.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/xmlsitemap/g3XYqcXbSKPVBDODwnT6pq7oqhCFkPryj4vVqrl_Kfc/1.xml" afterPath="$PROJECT_DIR$/sites/default/files/xmlsitemap/g3XYqcXbSKPVBDODwnT6pq7oqhCFkPryj4vVqrl_Kfc/1.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,38 +26,38 @@
       <file leaf-file-name="CVC.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="237" column="14" lean-forward="false" selection-start-line="237" selection-start-column="11" selection-end-line="237" selection-end-column="14" />
+            <state relative-caret-position="200">
+              <caret line="113" column="0" lean-forward="false" selection-start-line="113" selection-start-column="0" selection-end-line="115" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home-pages-customizer.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="home-pages-customizer.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/customizer/home-pages-customizer.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="172" column="47" lean-forward="false" selection-start-line="172" selection-start-column="47" selection-end-line="172" selection-end-column="47" />
+            <state relative-caret-position="305">
+              <caret line="62" column="25" lean-forward="false" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="verticalnav-old.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/js/verticalnav-old.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/responsive.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="1236" column="0" lean-forward="false" selection-start-line="1236" selection-start-column="0" selection-end-line="1236" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="progressive.info" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/progressive.info">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="35" column="34" lean-forward="false" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+            <state relative-caret-position="198">
+              <caret line="75" column="3" lean-forward="false" selection-start-line="75" selection-start-column="3" selection-end-line="75" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -104,12 +76,12 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="1477" column="10" lean-forward="false" selection-start-line="1477" selection-start-column="10" selection-end-line="1477" selection-end-column="10" />
+            <state relative-caret-position="460">
+              <caret line="1508" column="55" lean-forward="true" selection-start-line="1508" selection-start-column="55" selection-end-line="1508" selection-end-column="55" />
               <folding>
-                <marker date="1507889844228" expanded="true" signature="150:191" ph="..." />
-                <marker date="1507889844228" expanded="true" signature="46544:46904" ph="..." />
-                <marker date="1507889844228" expanded="true" signature="46994:47354" ph="..." />
+                <marker date="1508844646939" expanded="true" signature="150:191" ph="..." />
+                <marker date="1508844646939" expanded="true" signature="47435:47795" ph="..." />
+                <marker date="1508844646939" expanded="true" signature="47885:48245" ph="..." />
               </folding>
             </state>
           </provider>
@@ -126,16 +98,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>marginiTopBot</find>
-      <find>marginiTopBottom</find>
-      <find>marginiTopBotto</find>
-      <find>border-bo</find>
-      <find>$display_submitted</find>
-      <find>r</find>
-      <find>ri</find>
-      <find>rigaI</find>
-      <find>rigaIn</find>
-      <find>rigaInt</find>
       <find>rigaInte</find>
       <find>rigaInter</find>
       <find>rigaIntern</find>
@@ -155,7 +117,17 @@
       <find>content-block</find>
       <find>mass</find>
       <find>391</find>
+      <find>headerInList</find>
+      <find>circl</find>
+      <find>demo</find>
       <find>altezza</find>
+      <find>s</find>
+      <find>sectio</find>
+      <find>section06</find>
+      <find>section0</find>
+      <find>var</find>
+      <find>background-color: va</find>
+      <find>oro</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/sites/all/modules/colorbox/js</dir>
@@ -207,10 +179,11 @@
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/node--events.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/node--tournaments.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/node--promo.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-field--fourblock--field-headercontent.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/progressive/css/responsive.css" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/js/main.js" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css" />
         <option value="$PROJECT_DIR$/sites/all/themes/progressive/css/customizer/home-pages-customizer.css" />
-        <option value="$PROJECT_DIR$/sites/all/themes/progressive/css/responsive.css" />
       </list>
     </option>
   </component>
@@ -229,13 +202,13 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="6" />
-    <option name="y" value="26" />
-    <option name="width" value="1273" />
-    <option name="height" value="1083" />
+    <option name="x" value="1504" />
+    <option name="y" value="23" />
+    <option name="width" value="1056" />
+    <option name="height" value="1347" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Changed Files" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -322,134 +295,6 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="default">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="files">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="styles">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="youtuberatiosmall">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="public">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="modules">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="image">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="CasinodiVeneziaLast">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="sites">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="default">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="files">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="fontyourface">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="CasinodiVeneziaLast">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="sites">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="all">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="themes">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="progressive">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="templates">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="CasinodiVeneziaLast">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="sites">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="all">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="themes">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="progressive">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="js">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="CasinodiVeneziaLast">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="sites">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="all">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
@@ -463,40 +308,6 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="css">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="CasinodiVeneziaLast">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="sites">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="all">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="themes">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="progressive">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="css">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="customizer">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -609,6 +420,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -705,6 +517,36 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CasinodiVeneziaLast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progressive" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -765,31 +607,8 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CasinodiVeneziaLast" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sites" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="all" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -809,7 +628,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
-    <property name="Constants" value="false" />
+    <property name="Constants" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -941,26 +760,29 @@
       <workItem from="1506582199558" duration="67628000" />
       <workItem from="1507279511552" duration="4225000" />
       <workItem from="1507541103988" duration="27383000" />
+      <workItem from="1508143122946" duration="2198000" />
+      <workItem from="1508747483399" duration="15594000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="221516000" />
+    <option name="totallyTimeSpent" value="239308000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="6" y="26" width="1273" height="1083" extended-state="0" />
+    <frame x="1504" y="23" width="1056" height="1347" extended-state="0" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36311942" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3150259" sideWeight="0.5174655" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3150259" sideWeight="0.48253453" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40927583" sideWeight="0.3816568" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31489015" sideWeight="0.47596154" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34121123" sideWeight="0.48891032" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24975891" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21554404" sideWeight="0.62307066" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30769232" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298292" sideWeight="0.49722221" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24975891" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40927583" sideWeight="0.6183432" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293944" sideWeight="0.4966249" order="7" side_tool="false" content_ui="tabs" />
@@ -968,7 +790,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298292" sideWeight="0.49722221" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1027,32 +848,11 @@
           <option name="timeStamp" value="81" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="85" />
+      <option name="time" value="86" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/views/plugins/views_plugin_row.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/modules/views/plugins/views_plugin_style.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="374" column="0" lean-forward="false" selection-start-line="374" selection-start-column="0" selection-end-line="374" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/theme.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="1213" column="0" lean-forward="false" selection-start-line="1213" selection-start-column="0" selection-end-line="1213" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-fields--team.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
@@ -1259,7 +1059,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1267,7 +1066,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-390">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1275,7 +1073,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="121">
           <caret line="37" column="23" lean-forward="false" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1303,19 +1100,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1335,46 +1123,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="1477" column="10" lean-forward="false" selection-start-line="1477" selection-start-column="10" selection-end-line="1477" selection-end-column="10" />
-          <folding>
-            <marker date="1507889844228" expanded="true" signature="150:191" ph="..." />
-            <marker date="1507889844228" expanded="true" signature="46544:46904" ph="..." />
-            <marker date="1507889844228" expanded="true" signature="46994:47354" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/progressive.info">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
+        <state relative-caret-position="525">
           <caret line="35" column="34" lean-forward="false" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/templates/views-view-field--fourblock--field-headercontent.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="237" column="14" lean-forward="false" selection-start-line="237" selection-start-column="11" selection-end-line="237" selection-end-column="14" />
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/customizer/home-pages-customizer.css">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="172" column="47" lean-forward="false" selection-start-line="172" selection-start-column="47" selection-end-line="172" selection-end-column="47" />
+        <state relative-caret-position="375">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/responsive.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="1236" column="0" lean-forward="false" selection-start-line="1236" selection-start-column="0" selection-end-line="1236" selection-end-column="0" />
+        <state relative-caret-position="198">
+          <caret line="75" column="3" lean-forward="false" selection-start-line="75" selection-start-column="3" selection-end-line="75" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/styleverticalnav-old.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1327">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/js/verticalnav-old.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="1508" column="55" lean-forward="true" selection-start-line="1508" selection-start-column="55" selection-end-line="1508" selection-end-column="55" />
+          <folding>
+            <marker date="1508844646939" expanded="true" signature="150:191" ph="..." />
+            <marker date="1508844646939" expanded="true" signature="47435:47795" ph="..." />
+            <marker date="1508844646939" expanded="true" signature="47885:48245" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/CVC.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="113" column="0" lean-forward="false" selection-start-line="113" selection-start-column="0" selection-end-line="115" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/progressive/css/customizer/home-pages-customizer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="62" column="25" lean-forward="false" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
           <folding />
         </state>
       </provider>

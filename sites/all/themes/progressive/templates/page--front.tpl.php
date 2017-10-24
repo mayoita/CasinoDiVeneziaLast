@@ -69,24 +69,26 @@ $page['content']['#prefix'] = render($title_prefix) . $messages . render($tabs) 
 <nav class="cd-vertical-nav" >
     <ul>
       <li>
-        <a href="#section1" data-number="1">
+        <a href="#sezione1" data-number="1">
           
-          <span class="label">Events</span>
+          <span class="label"><?php print t('Games'); ?></span>
         </a>
       </li>
       <li>
-        <a href="#section2" data-number="2">
-          
-          <span class="label">Games</span>
+        <a href="#sezione2" data-number="2">
+          <span class="label"><?php print t('Events'); ?></span>
         </a>
       </li>
+        <li>
+            <a href="#sezione3" data-number="3">
+                <span class="label"><?php print t('Promotions'); ?></span>
+            </a>
+        </li>
       <li>
-        <a href="#section3" data-number="3">
-         
-          <span class="label">Dining</span>
+        <a href="#sezione4" data-number="4">
+          <span class="label"><?php print t('Dinning'); ?></span>
         </a>
       </li>
-      
     </ul>
   </nav>
 <div class="page-box"><div class="page-box-content">

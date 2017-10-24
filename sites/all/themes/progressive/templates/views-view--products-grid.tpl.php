@@ -43,7 +43,7 @@ kpr($view);
 
   <div class="view-filters toolbar clearfix">
     <div class="grid-list">
-      <?php print (strpos($_GET['q'], theme_get_setting('shop_link_list')) === 0 ? '<a href="' . base_path() . theme_get_setting('shop_link') . '" class="grid">' : '<span class="grid">'; ?>
+
         <span class="glyphicon glyphicon-th-large"></span>
       <?php print (strpos($_GET['q'], theme_get_setting('shop_link_list')) === 0) ? '</a>' : '</span>'; ?>
       <?php print (strpos($_GET['q'], theme_get_setting('shop_link_list')) !== 0) ? '<a href="' . base_path() . theme_get_setting('shop_link_list') . '" class="list">' : '<span class="list">'; ?>

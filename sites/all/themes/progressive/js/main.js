@@ -1491,6 +1491,7 @@ function massimo() {
 
     $(".notify-badge").css('left', ((parseFloat($(".slick-slide").width()) - 190)/2) - $(".notify-badge").outerWidth(true)/2);
     $(".circleEventDate").css('left', ((parseFloat($(".field-slideshow-wrapper").width()) - 190)/2) - $(".circleEventDate").width()/2);
+
 }
 jQuery(document).ready(function(){
   'use strict';

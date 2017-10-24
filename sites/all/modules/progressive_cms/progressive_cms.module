@@ -315,7 +315,7 @@ function progressive_cms_block_view($delta) {
       );
       break;
     /* Commentato per poter utilizzare il modulo Path Breadcrumbs */
- /*   case 'breadcrumbs':
+/*    case 'breadcrumbs':
       $breadcrumb = drupal_get_breadcrumb();
       if (!empty($breadcrumb)) {
         if (!drupal_is_front_page() && !empty($breadcrumb)) {
@@ -330,7 +330,7 @@ function progressive_cms_block_view($delta) {
         'subject' => '',
         'content' => theme('progressive_cms_breadcrumbs', array('items' => $breadcrumb))
       );
-      break; */
+      break;*/
     case 'breadcrumbs_line':
       $block = array(
         'subject' => '',

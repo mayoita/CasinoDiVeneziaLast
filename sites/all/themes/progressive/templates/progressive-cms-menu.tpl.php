@@ -31,18 +31,18 @@ $one_page = isset($layout['settings']['one_page']) && $layout['settings']['one_p
 
           <ul class="nav navbar-nav navbar-right">
                   <li>
-                      <a  class="phone-call" href="#">
+                      <a  class="phone-call tagTelefono" href="#">
                           <i class="fa fa-mobile"></i><?php print t('Call Us'); ?>
                       </a>
 
                   </li>
                   <li>
-                      <a  href="<?php print url('info'); ?>">
+                      <a  href="<?php print url('venues'); ?>">
                           <i class="fa fa-map-marker"></i><?php print t('Location Information'); ?>
                       </a>
                   </li>
                   <li>
-                      <a href="<?php print url('contactus'); ?>">
+                      <a href="<?php print url('contacts'); ?>">
                           <i class="fa fa-envelope-o"></i><?php print t('Contact Us'); ?>
                       </a>
                   </li>
@@ -136,7 +136,7 @@ $one_page = isset($layout['settings']['one_page']) && $layout['settings']['one_p
                                             </a>
                                         </div>
                                     </li>
-                                    <li>
+                            <!-- Da uncomment quando sarà implementata la sezione User        <li>
                                         <div class="clubcard">
                                             <img src="<?php print base_path() . path_to_theme(); ?>/img/clubcard.png" alt="" width="32"  style="vertical-align: top;">
                                         </div>
@@ -150,7 +150,7 @@ $one_page = isset($layout['settings']['one_page']) && $layout['settings']['one_p
                                         </li>
                                     <?php endif; ?>
                                     <?php if(theme_get_setting('account_login') && $user->uid): ?>
-                                        <li class="clubcard-right"><?php print l(t('Log Out  <i class="fa fa-unlock after"></i>'), 'user/logout', array('html' => TRUE)); ?></li>
+                                        <li class="clubcard-right"><?php print l(t('Log Out  <i class="fa fa-unlock after"></i>'), 'user/logout', array('html' => TRUE)); ?></li> -->
                                     <?php endif; ?>
                                 </ul>
                             </nav>

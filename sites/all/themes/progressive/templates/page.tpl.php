@@ -73,9 +73,7 @@ $page['content']['#prefix'] = render($title_prefix) . $messages . render($tabs) 
     <?php
       if(function_exists('nikadevs_cms_page_layout') && variable_get('nikadevs_cms_layout_' . variable_get('theme_default', 'progressive'), array()) != array()):
         /* aggiunta la variabile $breadcrumbs*/
-        ?><div class="container">
-        <?php print render($breadcrumb);?>
-        </div>
+        ?>
         <?php print nikadevs_cms_page_layout(array('page' => $page));
       else: ?>
       <?php print render($page['top']); ?>    

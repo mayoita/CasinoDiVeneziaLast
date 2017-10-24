@@ -111,10 +111,10 @@ svg image {
 
 /* Text */
 a {
-  color: #2e5481;
+  color: #ffffff;
 }
 a:visited {
-  color: #7996b7;
+  color: #ffffff;
 }
 a:active {
   color: #000;
@@ -147,15 +147,16 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.3;
   margin: 0 0 22px;
   text-rendering: optimizelegibility;
+  letter-spacing: 1px;
 }
 .light {
   font-weight: normal;
 }
 h1 {
-  font-size: 48px;
+  font-size: 30px;
 }
 h2 {
-  font-size: 40px;
+  font-size: 20px;
 }
 h3 {
   font-size: 32px;
@@ -171,6 +172,8 @@ h6 {
 }
 p {
   margin-bottom: 22px;
+  font-size: 15px;
+  text-align: justify;
 }
 p:last-child {
   margin-bottom: 0;
@@ -2382,7 +2385,7 @@ blockquote small {
   font-size: 32px;
   height: 60px;
   line-height: 60px;
-  width: 60px;
+  width: 45px;
 }
 .icon.icon-100 {
   font-size: 50px;
@@ -5126,10 +5129,13 @@ blockquote small {
   font-size: 12px;
   height: 24px;
   line-height: 24px;
-  padding: 0 5px;
+  padding: 0 6px;
   text-decoration: none;
   -webkit-transition: all .2s linear;
   transition: all .2s linear;
+}
+.node-type-events #sidebar {
+  padding-bottom: 50px;
 }
 .sidebar .tags a:hover {
   background: #1e1e1e;
@@ -5590,11 +5596,12 @@ blockquote small {
   font-size: 18px;
   font-weight: normal;
   margin: 0 0 12px 0;
-  padding: 14px 0 0;
+  padding: 0;
 }
 .title-box h1.title,
 .title-box .h1.title {
-  font-size: 24px;
+  font-size: 30px;
+  letter-spacing: 1px;
 }
 .title-box .btn {
   font-size: 12px;
@@ -10757,18 +10764,26 @@ a.big-icon:hover {
 .filter-guidelines {
   display: none;
 }
-.group-mobile, .group-blog, .page-node-edit .field-type-taxonomy-term-reference, .group-prenotazioni {
+.group-mobile, .group-blog, .page-node-edit .field-type-taxonomy-term-reference,
+.group-prenotazioni,
+.page-node-edit .field-name-field-eventdate{
   padding: 20px;
   border: solid;
   border-color: black;
   border-width: 1px;
   margin-bottom: 20px;
 }
+#field-eventdate-add-more-wrapper .form-wrapper {
+  border: none;
+}
 .group-prenotazioni {
-  background-color: #fbd9ba;
+  background-color: #fbcea1;
 }
 .group-mobile {
   background-color: #d8ebfb;
+}
+div#edit-field-contenutodacondividere {
+  background-color: #e1ddc3;
 }
 .group-blog {
   background-color: #d8fbdc;

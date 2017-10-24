@@ -733,4 +733,23 @@ function progressive_form_alter(&$form, $form_state, $form_id) {
   }
 }
 
+function progressive_node_view(&$node)
+{
+  if($node->nid == 408)
+  {
+    $node->content['#attached']['js'][] = array
+    (
+      'type' => 'file',
+      'data' => drupal_get_path('module', MODULENAME) . '/js/wedding.js',
+    );
+  }
+}
+function progressive_preprocess_node(&$variables) {
+  $matches = "node/408";
+  $path = drupal_get_path_alias($_GET['q']);
+  $page_match = drupal_match_path($path, $matches);
 
+  if ($variables['nid'] == '408' || $variables['nid'] == '404') {
+    drupal_add_js(drupal_get_path('theme', 'progressive') . '/js/wedding.js');
+  }
+}

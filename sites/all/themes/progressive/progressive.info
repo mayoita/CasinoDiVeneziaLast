@@ -31,9 +31,6 @@ stylesheets[all][] = css/customizer/pages.css
 stylesheets[all][] = css/YTPlayer.css
 stylesheets[all][] = css/drupal.css
 stylesheets[all][] = css/ie/ie.css
-
-stylesheets[all][] = css/set1.css
-stylesheets[all][] = css/set2.css
 stylesheets[all][] = css/styleverticalnav.css
 stylesheets[all][] = css/menuLaterale.css
 stylesheets[all][] = css/slick.css
@@ -73,6 +70,7 @@ scripts[] = js/main.js
 scripts[] = js/drupal.js
 scripts[] = js/menuLaterale.js
 scripts[] = js/slick.js
+scripts[] = js/turn.js
 
 
 

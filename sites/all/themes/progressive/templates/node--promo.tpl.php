@@ -74,10 +74,7 @@
  * @see template_process()
  */
 ?>
-    <div class="container">
-        <?php print render($breadcrumb);?>
 
-    </div>
 <?php if(!$teaser): ?>
   <?php if (!$page): ?>
     <article id="node-<?php print $node->nid; ?>" class="<?php print $classes; ?> clearfix"<?php print $attributes; ?>>

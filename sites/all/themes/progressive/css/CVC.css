@@ -986,7 +986,7 @@ margin-top: 0px;
     margin-bottom: 50px;
 }
 .BloccoBody {
-    height: 270px;
+    height: 320px;
 }
 
 .panel-group > .panel-default > .panel-heading > .panel-title > a,
@@ -1848,7 +1848,7 @@ li.clubcard-right a{
 .stream li .inner {
     padding: 0px;
 }
-#tb-megamenu-column-5 .views-field-field-titolofocus, #tb-megamenu-column-5 .views-field-field-introfocus{
+#tb-megamenu-column-5 .views-field-field-introfocus{
     color: black;
 }
 
@@ -2314,4 +2314,15 @@ height: 0px;
 .ColonnaSlotCalendar h6{
     margin-bottom: 0;
     text-transform: uppercase;
+}
+.views-field-field-titolofocus {
+    text-align: center;
+    color: var(--oro);
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.views-field-field-introfocus {
+    line-height: 16px;
+    text-align: justify;
 }

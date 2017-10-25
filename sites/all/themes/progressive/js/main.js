@@ -1510,7 +1510,7 @@ function massimo() {
         $(this).find(".content-block").remove();
     });
 
-    $('a[href*=#]').on('click', function(e) {
+    $('a[href="#section06"]').on('click', function(e) {
         e.preventDefault();
         $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
     });
